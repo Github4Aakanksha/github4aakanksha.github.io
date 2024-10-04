@@ -1,3 +1,8 @@
+/* Use the imported Google font */
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
 /* Your original styles */
 .two-column-layout {
     display: flex;
