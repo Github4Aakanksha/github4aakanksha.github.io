@@ -1,3 +1,31 @@
+/* Your original styles */
+.two-column-layout {
+    display: flex;
+    justify-content: space-between;
+}
+.profile-section {
+    flex: 1;
+    padding: 20px;
+    margin-right: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+}
+.portfolio-section {
+    flex: 2;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+}
+@media (max-width: 768px) {
+    .two-column-layout {
+        flex-direction: column;
+    }
+    .profile-section {
+        margin-right: 0;
+    }
+}
+
+/* Additional styles for scrolling and dynamic layout */
 body, html {
     margin: 0;
     padding: 0;
