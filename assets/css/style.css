@@ -9,12 +9,10 @@
     padding: 20px;
     margin: 0 auto; /* Center the wrapper on the page */
     width: 100%; /* Ensure the wrapper takes the full width */
-    justify-content: center; /* Center content on larger screens */
 }
 
 header, section, footer {
     padding: 20px;
-    max-width: 4000px; /* Set a max width for the content */
     width: 100%; /* Ensure sections take full width of the container */
 }
 
@@ -27,7 +25,6 @@ section {
 @media (min-width: 768px) {
     .wrapper {
         flex-direction: row;
-        justify-content: center; /* Center content on larger screens */
     }
     header, footer {
         width: 250px;
