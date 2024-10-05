@@ -5,12 +5,11 @@
     display: flex;
     min-height: 100vh;
     flex-direction: column;
-    justify-content: center; /* Center the content vertically */
     align-items: flex-start; /* Align content to the top */
 }
 
 header, section, footer {
-    padding: 20px;
+    padding: 200px;
 }
 
 
