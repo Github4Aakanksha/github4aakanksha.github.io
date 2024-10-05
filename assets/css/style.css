@@ -7,13 +7,14 @@
     flex-direction: column;
     align-items: flex-start; /* Align content to the top */
     padding: 20px;
-    margin: 20 auto; /* Center the wrapper on the page */
+    margin: 0 auto; /* Center the wrapper on the page */
     width: 100%; /* Ensure the wrapper takes the full width */
 }
 
 header, section, footer {
     padding: 20px;
     max-width: 4000px; /* Set a max width for the content */
+    width: 100%; /* Ensure sections take full width of the container */
 }
 
 
