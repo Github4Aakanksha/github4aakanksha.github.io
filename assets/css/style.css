@@ -17,3 +17,16 @@ section {
     overflow-y: auto;
 }
 
+@media (min-width: 768px) {
+    .wrapper {
+        flex-direction: row;
+    }
+    header, footer {
+        width: 250px;
+        flex-shrink: 0;
+    }
+    section {
+        flex-grow: 1;
+        overflow-y: auto;
+    }
+}
