@@ -5,6 +5,8 @@
     display: flex;
     min-height: 100vh;
     flex-direction: column;
+    justify-content: center; /* Center the content vertically */
+    align-items: center; /* Center the content horizontally */
 }
 
 header, section, footer {
