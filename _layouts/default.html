@@ -15,42 +15,8 @@
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1">
    {% seo %}
-   
-   <style>
-   body, html {
-      margin: 0;
-      padding: 0;
-      height: 100%;
-      display: flex;
-      flex-direction: row;
-   }
+   <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
 
-   .wrapper {
-      display: flex;
-      min-height: 100vh;
-      width: 100%;
-   }
-
-   header {
-      width: 250px;
-      flex-shrink: 0;
-      position: fixed;
-      height: 100%;
-      top: 0;
-      left: 0;
-   }
-
-   section {
-      flex-grow: 1;
-      margin-left: 250px; /* Shift content to the right, ensuring it doesn't overlap with the header */
-      overflow-y: auto; /* Enables scrolling for the right section */
-      height: 100vh; /* Make section take the full height of the viewport */
-   }
-
-   footer {
-      width: 100%;
-   }
-</style>
 
    <!--[if lt IE 9]>
    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
