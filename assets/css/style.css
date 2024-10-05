@@ -26,6 +26,7 @@ section {
 @media (min-width: 768px) {
     .wrapper {
         flex-direction: row;
+        justify-content: center; /* Center content on larger screens */
     }
     header, footer {
         width: 250px;
