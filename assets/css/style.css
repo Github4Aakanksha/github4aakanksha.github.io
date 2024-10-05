@@ -9,6 +9,7 @@
     padding: 20px;
     margin: 0 auto; /* Center the wrapper on the page */
     width: 100%; /* Ensure the wrapper takes the full width */
+    justify-content: center; /* Center content on larger screens */
 }
 
 header, section, footer {
