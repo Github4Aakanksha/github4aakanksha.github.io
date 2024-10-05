@@ -1,10 +1,5 @@
 
 /* Additional styles for scrolling and dynamic layout */
-body, html {
-    font-family: sans-serif;
-    margin: 0;
-    height: 100%;
-}
 
 .wrapper {
     display: flex;
@@ -16,33 +11,9 @@ header, section, footer {
     padding: 20px;
 }
 
-header {
-    background-color: #f4f4f4;
-    flex-shrink: 0;
-}
 
 section {
     flex-grow: 1;
     overflow-y: auto;
 }
 
-footer {
-    background-color: #f4f4f4;
-    flex-shrink: 0;
-}
-
-@media (min-width: 768px) {
-    .wrapper {
-        flex-direction: row;
-    }
-
-    header, footer {
-        width: 250px;
-        flex-shrink: 0;
-    }
-
-    section {
-        flex-grow: 1;
-        overflow-y: auto;
-    }
-}
