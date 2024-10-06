@@ -25,7 +25,7 @@ This project developed a trading strategy using machine learning based on sector
 </div>
 
 ### *Sentiment Analysis- Forex Trading Strategy*
-This project involves developing a Forex trading strategy to predict GBP/USD exchange rate movements using natural language processing (NLP) and machine learning. By conducting sentiment analysis on economic news extracted via the NY Times API from 2003 to 2024, we created two strategies: Strategy A generates trading signals through NLP-based sentiment analysis, while Strategy B employs predictive analytics for market trend forecasting. Both strategies were rigorously optimized through backtesting and hyperparameter tuning, achieving a 1.4% annualized return and outperforming the HFRI Currency Index. 
+This project involves developing a Forex trading strategy to predict GBP/USD exchange rate movements using NLP and machine learning. By conducting sentiment analysis on economic news extracted via the NY Times API from 2003 to 2024, we created two strategies: Strategy A generates trading signals through NLP-based sentiment analysis, while Strategy B employs predictive analytics for market trend forecasting. Both strategies were rigorously optimized through backtesting and hyperparameter tuning, achieving a 1.4% annualized return and outperforming the HFRI Currency Index. 
 
 ![Regex](https://img.shields.io/badge/Regex-lightgrey?style=flat-square)
 ![TextBlob](https://img.shields.io/badge/TextBlob-lightgrey?style=flat-square)
