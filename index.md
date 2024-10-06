@@ -34,7 +34,16 @@ In this project, I developed a web scraping tool using Selenium, Regex, and Beau
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-lightgrey?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-lightgrey?style=flat-square)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
+  <div style="width: 45%; padding-right: 10px;">
+    <p><strong>Figure 1:</strong> IIMA Homepage</p>
+    <img src="images/IIMA Webscrape.jpg?raw=true" alt="IIMA Homepage" style="width: 100%; height: auto;"/>
+  </div>
+  <div style="width: 45%; padding-right: 10px;">
+    <p><strong>Figure 2:</strong> IIMA Faculty Page</p>
+    <img src="images/IIMA Faculty page.jpg?raw=true" alt="IIMA Faculty Page" style="width: 100%; height: auto;"/>
+  </div>
+</div>
 
 ---
 [Project 3 Title](http://example.com/)
