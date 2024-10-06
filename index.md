@@ -1,6 +1,30 @@
 ## Portfolio
 
 ---
+### *Sentiment Analysis- Forex Trading Strategy*
+This project involves developing a Forex trading strategy to predict GBP/USD exchange rate movements using natural language processing (NLP) and machine learning. By conducting sentiment analysis on economic news extracted via the NY Times API from 2003 to 2024, we created two strategies: Strategy A generates trading signals through NLP-based sentiment analysis, while Strategy B employs predictive analytics for market trend forecasting. Both strategies were rigorously optimized through backtesting and hyperparameter tuning, achieving a 1.4% annualized return and outperforming the HFRI Currency Index. 
+
+![Regex](https://img.shields.io/badge/Regex-lightgrey?style=flat-square)
+![TextBlob](https://img.shields.io/badge/TextBlob-lightgrey?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-lightgrey?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-lightgrey?style=flat-square)
+
+<a href="https://github.com/athk13/FX-Sentiment-Analysis-Trading-Strategy" style="color:#6a0dad;">View project on GitHub</a>
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
+  <div style="width: 30%; padding-right: 10px;">
+    <p><strong>Figure 1:</strong> Trading Signal Chart</p>
+    <img src="images/Screenshot%202024-04-16%20122044.png" alt="Trading Signal Chart" style="width: 100%; height: auto;"/>
+  </div>
+  <div style="width: 30%; padding-left: 10px; padding-right: 10px;">
+    <p><strong>Figure 2:</strong> Strategy Equity Curve</p>
+    <img src="images/Screenshot%202024-04-16%20122058.png" alt="Equity Curve" style="width: 100%; height: auto;"/>
+  </div>
+  <div style="width: 30%; padding-left: 10px;">
+    <p><strong>Figure 3:</strong> Hyperparameter Optimization Heatmap</p>
+    <img src="images/hyperparameter-heatmap.png" alt="Hyperparameter Optimization Heatmap" style="width: 100%; height: auto;"/>
+  </div>
+</div>
 
 ### *Sectoral PE Analysis and Trading Strategy with Machine Learning*
 This project developed a trading strategy using machine learning based on sectoral price-to-earnings (PE) ratios from the health and industrial sectors. By normalizing data with Fisher transformations and fine-tuning buy/sell signals, the strategy was evaluated using metrics like the Sharpe ratio and annual returns. Combining the top-performing strategies from both sectors into an equally weighted portfolio showed the effectiveness of data-driven techniques for improving financial decision-making and trading performance.
