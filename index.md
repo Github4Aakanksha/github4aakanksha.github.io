@@ -23,9 +23,6 @@ This project developed a trading strategy using machine learning based on sector
     <img src="images/portfolio 2.png" alt="Industrial Sector Trading Strategy" style="width: 100%; height: auto;"/>
   </div>
 
-<img src="images/portfolio1.png?raw=true" width="400" height="200"/>
-<img src="images/portfolio 2.png?raw=true" width="400" height="200"/>
-
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
