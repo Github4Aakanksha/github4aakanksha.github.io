@@ -13,7 +13,7 @@ description: >
       <div style="font-weight: bold; color: #8e60a3; float: left; width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;"> <!-- Increased width and reduced font size -->
         Jun 2024 - Aug 2024
       </div>
-      <div style="padding-left: 35px; border-left: 2px solid #8e60a3; position: relative;"> <!-- Adjusted padding -->
+      <div style="padding-left: 35px; border-left: 2px solid #8e60a3; font-style: italic; position: relative;"> <!-- Adjusted padding -->
         <h3>Data Analyst Intern - Next Step Projects</h3>
       </div>
     </div>
@@ -23,7 +23,7 @@ description: >
       <div style="font-weight: bold; color: #8e60a3; float: left; width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;"> <!-- Increased width and reduced font size -->
         Apr 2024 - Jun 2024
       </div>
-      <div style="padding-left: 35px; border-left: 2px solid #8e60a3; position: relative;"> <!-- Adjusted padding -->
+      <div style="padding-left: 35px; border-left: 2px solid #8e60a3; font-style: italic; position: relative;"> <!-- Adjusted padding -->
         <h3>Project Lead & Financial Data Analyst - Sumzero</h3>
       </div>
     </div>
@@ -33,7 +33,7 @@ description: >
       <div style="font-weight: bold; color: #8e60a3; float: left; width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;"> <!-- Increased width and reduced font size -->
         Aug 2023 - Sep 2023
       </div>
-      <div style="padding-left: 35px; border-left: 2px solid #8e60a3; position: relative;"> <!-- Adjusted padding -->
+      <div style="padding-left: 35px; border-left: 2px solid #8e60a3;font-style: italic; position: relative;"> <!-- Adjusted padding -->
         <h3>Quantitative Analyst - Chapman Office</h3>
       </div>
     </div>
@@ -43,7 +43,7 @@ description: >
       <div style="font-weight: bold; color: #8e60a3; float: left; width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;"> <!-- Increased width and reduced font size -->
         Jan 2023 - Aug 2023
       </div>
-      <div style="padding-left: 35px; border-left: 2px solid #8e60a3; position: relative;"> <!-- Adjusted padding -->
+      <div style="padding-left: 35px; border-left: 2px solid #8e60a3;font-style: italic; position: relative;"> <!-- Adjusted padding -->
         <h3>Sales Operations Analyst - Arcserve Ltd.</h3>
       </div>
     </div>
@@ -53,7 +53,7 @@ description: >
       <div style="font-weight: bold; color: #8e60a3; float: left; width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;"> <!-- Increased width and reduced font size -->
         Oct 2022 - Jan 2023
       </div>
-      <div style="padding-left: 35px; border-left: 2px solid #8e60a3; position: relative;"> <!-- Adjusted padding -->
+      <div style="padding-left: 35px; border-left: 2px solid #8e60a3;font-style: italic; position: relative;"> <!-- Adjusted padding -->
         <h3>Data Analyst - Teleperformance Ltd.</h3>
       </div>
     </div>
