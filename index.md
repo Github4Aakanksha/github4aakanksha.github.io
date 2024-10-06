@@ -14,7 +14,7 @@ This project developed a trading strategy using machine learning based on sector
 <a href="https://github.com/Github4Aakanksha/ML/blob/main/Sectoral%20PE%20Analysis%20and%20Trading%20Strategy%20ML.ipynb" style="color:#6a0dad;">View project on GitHub</a>
 
 <img src="images/portfolio1.png?raw=true" width="400" height="200"/> <img src="images/portfolio 2.png?raw=true" width="400" height="200"/>
-<img src="images/heatmap_image_after_plot.png?raw=true" width="400" height="200"/> 
+<img src="images/heatmap_image_after_plot(1).png?raw=true" width="400" height="200"/> 
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
