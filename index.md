@@ -22,14 +22,6 @@ This project developed a trading strategy using machine learning based on sector
     <p><strong>Figure 2:</strong> Industrial Sector Trading Strategy</p>
     <img src="images/portfolio 2.png?raw=true" alt="Industrial Sector Trading Strategy" style="width: 100%; height: auto;"/>
   </div>
-  <div style="width: 30%; padding-right: 10px;">
-    <p><strong>Figure 3:</strong> Health Sector Heatmap</p>
-    <img src="images/heatmap_image_after_plot.png?raw=true" alt="Health Sector Heatmap" style="width: 100%; height: auto;"/>
-  </div>
-  <div style="width: 30%; padding-right: 10px;">
-    <p><strong>Figure 4:</strong> Industrial Sector Heatmap</p>
-    <img src="images/title.png?raw=true" alt="Industrial Sector Heatmap" style="width: 100%; height: auto;"/>
-  </div>
 </div>
 
 
