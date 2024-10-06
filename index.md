@@ -3,7 +3,7 @@
 ---
 
 ### *Sectoral PE Analysis and Trading Strategy with Machine Learning*
-This project focuses on developing a trading strategy based on sectoral price-to-earnings (PE) ratios for the health and industrial sectors using machine learning techniques. The process involves applying Fisher transformations to normalize the data and optimizing threshold values for buy/sell signals through hyperparameter tuning. Performance metrics such as Sharpe ratio, annualized returns, and Gini coefficient were used to evaluate the strategy. An equally weighted portfolio was constructed by combining the best-performing strategies from both sectors, demonstrating the potential of data-driven approaches in financial analysis and trading.
+This project developed a trading strategy using machine learning based on sectoral price-to-earnings (PE) ratios from the health and industrial sectors. By normalizing data with Fisher transformations and fine-tuning buy/sell signals, the strategy was evaluated using metrics like the Sharpe ratio and annual returns. Combining the top-performing strategies from both sectors into an equally weighted portfolio showed the effectiveness of data-driven techniques for improving financial decision-making and trading performance.
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-lightgrey?style=flat-square)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-lightgrey?style=flat-square)
@@ -12,6 +12,16 @@ This project focuses on developing a trading strategy based on sectoral price-to
 ![Pandas](https://img.shields.io/badge/Pandas-lightgrey?style=flat-square)
 
 <a href="https://github.com/Github4Aakanksha/ML/blob/main/Sectoral%20PE%20Analysis%20and%20Trading%20Strategy%20ML.ipynb" style="color:#6a0dad;">View project on GitHub</a>
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
+  <div style="width: 30%; padding-right: 10px;">
+    <p><strong>Figure 1:</strong> Health Sector Trading Strategy</p>
+    <img src="images/portfolio1.png" alt="Health Sector Trading Strategy" style="width: 100%; height: auto;"/>
+  </div>
+  <div style="width: 30%; padding-left: 10px; padding-right: 10px;">
+    <p><strong>Figure 2:</strong> Industrial Sector Trading Strategy</p>
+    <img src="images/portfolio 2.png" alt="Industrial Sector Trading Strategy" style="width: 100%; height: auto;"/>
+  </div>
 
 <img src="images/portfolio1.png?raw=true" width="400" height="200"/>
 <img src="images/portfolio 2.png?raw=true" width="400" height="200"/>
