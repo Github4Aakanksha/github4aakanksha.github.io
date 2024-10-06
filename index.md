@@ -26,7 +26,14 @@ This project developed a trading strategy using machine learning based on sector
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+### *Web Scraping Project: Faculty Information from IIM Ahmedabad*
+In this project, I developed a web scraping tool using Selenium, Regex, and BeautifulSoup to extract faculty information from the dynamic IIM Ahmedabad website. The script automates the process of navigating the site, interacting with various elements, and extracting relevant data such as faculty names, professions, areas of expertise, educational qualifications, and research areas from individual profile cards. It efficiently handles multiple pages by clicking through to next pages until all faculty profiles are scraped, ultimately storing the data in a Pandas DataFrame for further analysis.
+
+![Selenium](https://img.shields.io/badge/Selenium-lightgrey?style=flat-square)
+![Regex](https://img.shields.io/badge/Regex-lightgrey?style=flat-square)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-lightgrey?style=flat-square)
+![Python](https://img.shields.io/badge/Python-lightgrey?style=flat-square)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
