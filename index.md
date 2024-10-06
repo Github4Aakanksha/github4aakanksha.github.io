@@ -37,11 +37,11 @@ In this project, I developed a web scraping tool using Selenium, Regex, and Beau
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
   <div style="width: 45%; padding-right: 10px;">
     <p><strong>Figure 1:</strong> IIMA Homepage</p>
-    <img src="images/IIMA Webscrape.jpg?raw=true" alt="IIMA Homepage" style="width: 100%; height: auto;"/>
+    <img src="images/IIMA Webscrape.png?raw=true" alt="IIMA Homepage" style="width: 100%; height: auto;"/>
   </div>
   <div style="width: 45%; padding-right: 10px;">
     <p><strong>Figure 2:</strong> IIMA Faculty Page</p>
-    <img src="images/IIMA Faculty page.jpg?raw=true" alt="IIMA Faculty Page" style="width: 100%; height: auto;"/>
+    <img src="images/IIMA Faculty page.png?raw=true" alt="IIMA Faculty Page" style="width: 100%; height: auto;"/>
   </div>
 </div>
 
