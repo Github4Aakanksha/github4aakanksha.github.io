@@ -13,15 +13,8 @@ This project developed a trading strategy using machine learning based on sector
 
 <a href="https://github.com/Github4Aakanksha/ML/blob/main/Sectoral%20PE%20Analysis%20and%20Trading%20Strategy%20ML.ipynb" style="color:#6a0dad;">View project on GitHub</a>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
-  <div style="width: 30%; padding-right: 10px;">
-    <p><strong>Figure 1:</strong> Health Sector Trading Strategy</p>
-    <img src="images/portfolio1.png" alt="Health Sector Trading Strategy" style="width: 100%; height: auto;"/>
-  </div>
-  <div style="width: 30%; padding-left: 10px; padding-right: 10px;">
-    <p><strong>Figure 2:</strong> Industrial Sector Trading Strategy</p>
-    <img src="images/portfolio 2.png" alt="Industrial Sector Trading Strategy" style="width: 100%; height: auto;"/>
-  </div>
+<img src="images/portfolio1.png?raw=true" width="400" height="200"/>
+<img src="images/portfolio 2.png?raw=true" width="400" height="200"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
