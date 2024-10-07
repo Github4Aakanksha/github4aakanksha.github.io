@@ -111,9 +111,6 @@ In this project, I developed a web scraping tool using Selenium, Regex, and Beau
 - Applied the "Ease vs. Impact" matrix as an innovative approach to prioritize tasks
 - Leveraged data through Excel, extracting performance insights to provide recommendations on budget-aligned initiatives
 
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
