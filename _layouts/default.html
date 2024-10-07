@@ -48,15 +48,13 @@
             {% endif %}
          </header>
       </div>
-      <div class="right-column" style="width: 45%; overflow-y: auto;">
-         <section>
-            {{ content }}
-         </section>
-         <footer>
-            {% if site.github.is_project_page %}
-            {% endif %}
-         </footer>
-      </div>
+      <section>
+         {{ content }}
+      </section>
+      <footer>
+         {% if site.github.is_project_page %}
+         {% endif %}
+      </footer>
    </div>
    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
 </body>
