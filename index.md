@@ -1,6 +1,30 @@
 ## Portfolio
 
 ---
+### *Instagram Caption Analysis Flask Application*
+This project involves creating a Flask application that analyzes Instagram captions for sentiment and extracts hashtags. The application takes an Instagram caption as input and provides the sentiment polarity, subjectivity, and any hashtags present in the caption. The primary goal is to create a tool that assists content creators in understanding the emotional tone of their captions and identifying popular hashtags, ultimately helping them craft more engaging and impactful posts on Instagram.
+
+![Flask](https://img.shields.io/badge/Flask-lightgrey?style=flat-square)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-lightgrey?style=flat-square)
+![Instaloader](https://img.shields.io/badge/Instaloader-lightgrey?style=flat-square)
+![VADER](https://img.shields.io/badge/VADER-lightgrey?style=flat-square)
+
+<a href="https://github.com/Github4Aakanksha/ML/blob/main/Sectoral%20PE%20Analysis%20and%20Trading%20Strategy%20ML.ipynb" style="color:#6a0dad;">View project on GitHub</a>
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
+  <div style="width: 30%; padding-right: 10px;">
+    <p><strong>Figure 1:</strong> Sentiment Polarity</p>
+    <img src="images/Sentiment polarity.png" alt="Sentiment Polarity" style="width: 100%; height: auto;"/>
+  </div>
+  <div style="width: 30%; padding-left: 10px; padding-right: 10px;">
+    <p><strong>Figure 2:</strong> Top 10 Hashtags</p>
+    <img src="images/Hashtags.png" alt="Top 10 Hashtags" style="width: 100%; height: auto;"/>
+  </div>
+  <div style="width: 30%; padding-left: 10px;">
+    <p><strong>Figure 3:</strong> Avg. Engagement by Hour</p>
+    <img src="images/Avg Engagement by Hour.png" alt="Avg. Engagement by Hour" style="width: 100%; height: auto;"/>
+  </div>
+</div>
 
 ### *Sectoral PE Analysis and Trading Strategy with Machine Learning*
 This project developed a trading strategy using machine learning based on sectoral price-to-earnings (PE) ratios from the health and industrial sectors. By normalizing data with Fisher transformations and fine-tuning buy/sell signals, the strategy was evaluated using metrics like the Sharpe ratio and annual returns. Combining the top-performing strategies from both sectors into an equally weighted portfolio showed the effectiveness of data-driven techniques for improving financial decision-making and trading performance.
