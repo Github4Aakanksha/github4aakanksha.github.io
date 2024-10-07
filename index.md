@@ -22,6 +22,8 @@ This project involves creating a Flask application that analyzes Instagram capti
   </div>
 </div>
 
+---
+
 ### Sectoral PE Analysis & Trading Strategy with Machine Learning
 This project developed a trading strategy using machine learning based on sectoral price-to-earnings (PE) ratios from the health and industrial sectors. By normalizing data with Fisher transformations and fine-tuning buy/sell signals, the strategy was evaluated using metrics like the Sharpe ratio and annual returns. Combining the top-performing strategies from both sectors into an equally weighted portfolio showed the effectiveness of data-driven techniques for improving financial decision-making and trading performance.
 
@@ -43,6 +45,8 @@ This project developed a trading strategy using machine learning based on sector
     <img src="images/portfolio 2.png?raw=true" alt="Industrial Sector Trading Strategy" style="width: 100%; height: auto;"/>
   </div>
 </div>
+
+---
 
 ### Sentiment Analysis- Forex Trading Strategy
 This project involves developing a Forex trading strategy to predict GBP/USD exchange rate movements using NLP and machine learning. By conducting sentiment analysis on economic news extracted via the NY Times API from 2003 to 2024, we created two strategies: Strategy A generates trading signals through NLP-based sentiment analysis, while Strategy B employs predictive analytics for market trend forecasting. Both strategies were rigorously optimized through backtesting and hyperparameter tuning, achieving a 1.4% annualized return and outperforming the HFRI Currency Index. 
