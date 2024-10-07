@@ -4,6 +4,7 @@
 ### *Instagram Caption Analysis Flask Application*
 This project involves creating a Flask application that analyzes Instagram captions for sentiment and extracts hashtags. The application takes an Instagram caption as input and provides the sentiment polarity, subjectivity, and any hashtags present in the caption. The primary goal is to create a tool that assists content creators in understanding the emotional tone of their captions and identifying popular hashtags, ultimately helping them craft more engaging and impactful posts on Instagram.
 
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-lightgrey?style=flat-square)
 ![Flask](https://img.shields.io/badge/Flask-lightgrey?style=flat-square)
 ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-lightgrey?style=flat-square)
 ![Instaloader](https://img.shields.io/badge/Instaloader-lightgrey?style=flat-square)
