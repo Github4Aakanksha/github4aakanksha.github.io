@@ -74,7 +74,7 @@ This project involves developing a Forex trading strategy to predict GBP/USD exc
 ### *Web Scraping Project: Faculty Information from IIM Ahmedabad*
 In this project, I developed a web scraping tool using Selenium, Regex, and BeautifulSoup to extract faculty information from the dynamic IIM Ahmedabad website. The script automates the process of navigating the site, interacting with various elements, and extracting relevant data such as faculty names, professions, areas of expertise, educational qualifications, and research areas from individual profile cards. It efficiently handles multiple pages by clicking through to next pages until all faculty profiles are scraped, ultimately storing the data in a Pandas DataFrame for further analysis.
 
-![Selenium](https://img.shields.io/badge/Selenium-lightgrey?style=flat-square)
+![Selenium](https://img.shields.io/badge/Selenium-lightgrey?style=flat-square&logo=selenium)
 ![Regex](https://img.shields.io/badge/Regex-lightgrey?style=flat-square)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-lightgrey?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-lightgrey?style=flat-square)
