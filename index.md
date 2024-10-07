@@ -68,8 +68,6 @@ This project involves creating a Flask application that analyzes Instagram capti
 ![Instaloader](https://img.shields.io/badge/Instaloader-lightgrey?style=flat-square)
 ![VADER](https://img.shields.io/badge/VADER-lightgrey?style=flat-square)
 
-<a href="https://github.com/Github4Aakanksha/ML/blob/main/Sectoral%20PE%20Analysis%20and%20Trading%20Strategy%20ML.ipynb" style="color:#6a0dad;">View project on GitHub</a>
-
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
   <div style="width: 45%; padding-right: 10px;">
     <p><strong>Figure 1:</strong> Sentiment Polarity</p>
