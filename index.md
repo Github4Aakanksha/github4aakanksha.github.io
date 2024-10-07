@@ -1,29 +1,24 @@
 ## Portfolio
 
 ---
-### *Instagram Caption Analysis Flask Application*
+### *Flask Application: Instagram Caption Analysis*
 This project involves creating a Flask application that analyzes Instagram captions for sentiment and extracts hashtags. The application takes an Instagram caption as input and provides the sentiment polarity, subjectivity, and any hashtags present in the caption. The primary goal is to create a tool that assists content creators in understanding the emotional tone of their captions and identifying popular hashtags, ultimately helping them craft more engaging and impactful posts on Instagram.
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-lightgrey?style=flat-square)
 ![Flask](https://img.shields.io/badge/Flask-lightgrey?style=flat-square)
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-lightgrey?style=flat-square)
 ![Instaloader](https://img.shields.io/badge/Instaloader-lightgrey?style=flat-square)
 ![VADER](https://img.shields.io/badge/VADER-lightgrey?style=flat-square)
 
 <a href="https://github.com/Github4Aakanksha/ML/blob/main/Sectoral%20PE%20Analysis%20and%20Trading%20Strategy%20ML.ipynb" style="color:#6a0dad;">View project on GitHub</a>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
-  <div style="width: 30%; padding-right: 10px;">
+  <div style="width: 45%; padding-right: 10px;">
     <p><strong>Figure 1:</strong> Sentiment Polarity</p>
     <img src="images/Sentiment polarity.png" alt="Sentiment Polarity" style="width: 100%; height: auto;"/>
   </div>
-  <div style="width: 30%; padding-left: 10px; padding-right: 10px;">
+  <div style="width: 45%; padding-left: 10px; padding-right: 10px;">
     <p><strong>Figure 2:</strong> Top 10 Hashtags</p>
     <img src="images/Hashtags.png" alt="Top 10 Hashtags" style="width: 100%; height: auto;"/>
-  </div>
-  <div style="width: 30%; padding-left: 10px;">
-    <p><strong>Figure 3:</strong> Avg. Engagement by Hour</p>
-    <img src="images/Avg Engagement by Hour.png" alt="Avg. Engagement by Hour" style="width: 100%; height: auto;"/>
   </div>
 </div>
 
