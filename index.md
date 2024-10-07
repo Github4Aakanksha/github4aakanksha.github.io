@@ -98,14 +98,13 @@ In this project, I developed a web scraping tool using Selenium, Regex, and Beau
 <a href="https://github.com/Github4Aakanksha/ML/blob/main/Webscraping%20Assessment.ipynb" style="color:#6a0dad;">View project on GitHub</a>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### Consulting Projects
 
-- [Project 1 Title](http://example.com/)
+- **M&A Prospecting and Analysis**:
+  - Employed Finviz and scraping tools for thorough financial research, pinpointing prospective companies for mergers and acquisitions
+  - Performed risk assessment, competitor and SWOT analysis, for selected companies, offering an overview of their financial landscape
+  - Identified high debt and insider trading, in an energy industry company, favoring mergers and acquisitions despite financial risks
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
