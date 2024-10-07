@@ -6,7 +6,7 @@
 At SumZero, Inc., I led a team to develop a trading strategy by integrating NLP and ChatGPT with S&P 500 stock price data from Yahoo Finance. We analyzed over 1,000 investment theses from SumZero using OpenAI’s API, achieving a sentiment analysis accuracy of 95.51%. By assigning trading signals (1 for bullish, -1 for bearish, 0 for neutral) based on sentiment scores, we generated actionable insights and incorporated a stop-loss mechanism. Our strategy delivered strong performance metrics, including a high Profit/Max Equity ratio and a positive Sharpe Ratio, while also exploring the extraction of non-GAAP metrics for further analysis.
 
 ![OpenAI API](https://img.shields.io/badge/Machine_Learning-lightgrey?style=flat-square&logo=openai)
-![Stop-Loss Mechanism](https://img.shields.io/badge/Stop-Loss_Mechanism-lightgrey?style=flat-square)
+![Stop Loss Mechanism](https://img.shields.io/badge/Stop_Loss_Mechanism-lightgrey?style=flat-square)
 ![Sharpe Ratio](https://img.shields.io/badge/Sharpe_Ratio-lightgrey?style=flat-square)
 ![GAAP metrics](https://img.shields.io/badge/GAAP_metrics-lightgrey?style=flat-square&logo=python)
 
