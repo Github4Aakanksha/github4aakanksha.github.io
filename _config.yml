@@ -10,7 +10,7 @@ description: >
     
     <!-- Experience 1 -->
     <div style="padding: 10px 0; position: relative;"> <!-- Reduced padding -->
-      <div style="font-weight: bold; color: #8856a7;  width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;"> <!-- Increased width and reduced font size -->
+      <div style="font-weight: bold; color: #8856a7; float: left;  width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;"> <!-- Increased width and reduced font size -->
         Jun 2024 - Aug 2024
       </div>
       <div style="padding-left: 35px;font-size: 0.9em; border-left: 2px solid #8856a7;   position: relative;"> <!-- Adjusted padding -->
@@ -20,7 +20,7 @@ description: >
 
     <!-- Experience 2 -->
     <div style="padding: 10px 0; position: relative;"> <!-- Reduced padding -->
-      <div style="font-weight: bold; color: #8856a7;  width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;"> <!-- Increased width and reduced font size -->
+      <div style="font-weight: bold; color: #8856a7; float: left;  width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;"> <!-- Increased width and reduced font size -->
         Apr 2024 - Jun 2024
       </div>
       <div style="padding-left: 35px;font-size: 0.9em; border-left: 2px solid #8856a7;   position: relative;"> <!-- Adjusted padding -->
@@ -30,7 +30,7 @@ description: >
 
     <!-- Experience 3 -->
     <div style="padding: 10px 0; position: relative;"> <!-- Reduced padding -->
-      <div style="font-weight: bold; color: #8856a7;  width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;"> <!-- Increased width and reduced font size -->
+      <div style="font-weight: bold; color: #8856a7; float: left;  width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;"> <!-- Increased width and reduced font size -->
         Aug 2023 - Sep 2023
       </div>
       <div style="padding-left: 35px;font-size: 0.9em; border-left: 2px solid #8856a7;  position: relative;"> <!-- Adjusted padding -->
@@ -40,7 +40,7 @@ description: >
 
     <!-- Experience 4 -->
     <div style="padding: 10px 0; position: relative;"> <!-- Reduced padding -->
-      <div style="font-weight: bold; color: #8856a7;  width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;"> <!-- Increased width and reduced font size -->
+      <div style="font-weight: bold; color: #8856a7; float: left;  width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;"> <!-- Increased width and reduced font size -->
         Jan 2023 - Aug 2023
       </div>
       <div style="padding-left: 35px;font-size: 0.9em; border-left: 2px solid #8856a7;  position: relative;"> <!-- Adjusted padding -->
@@ -50,7 +50,7 @@ description: >
 
     <!-- Experience 5 -->
     <div style="padding: 10px 0; position: relative;"> <!-- Reduced padding -->
-      <div style="font-weight: bold; color: #8856a7;  width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;"> <!-- Increased width and reduced font size -->
+      <div style="font-weight: bold; color: #8856a7; float: left;  width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;"> <!-- Increased width and reduced font size -->
         Oct 2022 - Jan 2023
       </div>
       <div style="padding-left: 35px;font-size: 0.9em; border-left: 2px solid #8856a7;  position: relative;"> <!-- Adjusted padding -->
