@@ -44,8 +44,8 @@ This project automates the collection and organization of real-time earthquake d
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
   <div style="width: 45%; padding-right: 10px;">
-    <p><strong>Figure 1:</strong> Image Description</p>
-    <img src="path/to/image1.png" alt="Image Description" style="width: 100%; height: auto;"/>
+    <p><strong>Figure 1:</strong> SCEDC Earthquake Map</p>
+    <img src="images/Earthquake Map From SCEDC.gif" alt="SCEDC Earthquake Map" style="width: 100%; height: auto;"/>
   </div>
   <div style="width: 45%; padding-right: 10px;">
     <p><strong>Figure 2:</strong> Image Description</p>
