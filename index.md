@@ -47,7 +47,7 @@ This project automates the collection and organization of real-time earthquake d
     <p><strong>Figure 1:</strong> SCEDC Earthquake Map</p>
     <img src="images/Earthquake Map From SCEDC.gif" alt="SCEDC Earthquake Map" style="width: 100%; height: auto;"/>
   </div>
-  <div style="width: 45%; padding-right: 10px;">
+  <div style="width: 60%; padding-right: 10px;">
     <p><strong>Figure 2:</strong> Earthquake Table SCEDC</p>
     <img src="images/Earthquake Table SCEDC.png" alt="Earthquake Table SCEDC" style="width: 100%; height: auto;"/>
   </div>
