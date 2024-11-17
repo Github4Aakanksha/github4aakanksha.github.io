@@ -36,6 +36,27 @@ At SumZero, Inc., I led a team to develop a trading strategy by integrating NLP 
 
 ---
 
+### Seismic Insights: Real-Time Earthquake Tracking with Google Cloud
+This project automates the process of collecting and organizing recent earthquake data from the Southern California Seismic Network (SCSN) website by leveraging Google Cloud making it easily accessible and user-friendly. By deploying a Python-based Google Cloud Function, it seamlessly retrieves critical earthquake details—magnitude, location, depth, and timestamp—and updates a Google Sheet, offering dynamic, real-time data synchronization. The system empowers users to easily append or replace data, ensuring continuous access to the latest seismic activity without manual intervention. To further enhance user experience, an optional Flask app provides a simple, intuitive interface for triggering updates and visualizing the data. Through the integration of powerful cloud tools like gspread and oauth2client, this solution offers a scalable, automated, and user-friendly way to track seismic events, making it accessible to both technical users and the general public. With this system, anyone can easily stay updated on recent earthquakes without any manual effort, as the data is automatically retrieved and updated in real-time. Whether you're a casual observer or a researcher, this cloud-powered solution ensures that seismic activity is always just a click away.
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-lightgrey?style=flat-square&logo=google-cloud)
+![Flask](https://img.shields.io/badge/Flask-lightgrey?style=flat-square&logo=flask)
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
+  <div style="width: 45%; padding-right: 10px;">
+    <p><strong>Figure 1:</strong> Image Description</p>
+    <img src="path/to/image1.png" alt="Image Description" style="width: 100%; height: auto;"/>
+  </div>
+  <div style="width: 45%; padding-right: 10px;">
+    <p><strong>Figure 2:</strong> Image Description</p>
+    <img src="path/to/image2.png" alt="Image Description" style="width: 100%; height: auto;"/>
+  </div>
+</div>
+
+<a href="https://github.com/your-repo-link" style="color:#6a0dad;">View project on GitHub</a>
+
+---
+
 ### Sectoral PE Analysis & Trading Strategy with Machine Learning
 This project developed a trading strategy using machine learning based on sectoral price-to-earnings (PE) ratios from the health and industrial sectors. By normalizing data with Fisher transformations and fine-tuning buy/sell signals, the strategy was evaluated using metrics like the Sharpe ratio and annual returns. Combining the top-performing strategies from both sectors into an equally weighted portfolio showed the effectiveness of data-driven techniques for improving financial decision-making and trading performance.
 
