@@ -48,7 +48,7 @@ This project automates the collection and organization of real-time earthquake d
 ![Flask](https://img.shields.io/badge/Flask-lightgrey?style=flat-square&logo=flask)
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
-  <div style="width: 40%; padding-right: 50px;">
+  <div style="width: 40%; padding-right: 10px;">
     <p><strong>Figure 1:</strong> SCEDC Earthquake Map</p>
     <img src="images/Earthquake Map From SCEDC.gif" alt="SCEDC Earthquake Map" style="width: 100%; height: auto;"/>
   </div>
@@ -173,14 +173,19 @@ In this project, I developed a web scraping tool using Selenium, Regex, and Beau
 ### M&A Prospecting and Analysis:
 <div style="text-align: justify;">
 - Employed Finviz and scraping tools for thorough financial research, pinpointing prospective companies for mergers and acquisitions
+  
 - Performed risk assessment, competitor and SWOT analysis, for selected companies, offering an overview of their financial landscape
+  
 - Identified high debt and insider trading, in an energy industry company, favoring mergers and acquisitions despite financial risks
 </div>
+
 
 ### Accenture Strategy Consulting Virtual Internship:
 <div style="text-align: justify;">
 - Led the redesign of a fictional grant program website, focusing on improving User Experience (UX) to deliver client solutions
+  
 - Applied the "Ease vs. Impact" matrix as an innovative approach to prioritize tasks
+  
 - Leveraged data through Excel, extracting performance insights to provide recommendations on budget-aligned initiatives
 </div>
 
