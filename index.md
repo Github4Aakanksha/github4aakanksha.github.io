@@ -3,7 +3,9 @@
 ---
 ### SumZero Investment Thesis Driven Trading Strategy
 
+<div style="text-align: justify;">
 At SumZero, Inc., I led a team to develop a trading strategy by integrating NLP and ChatGPT with S&P 500 stock price data from Yahoo Finance. We analyzed over 1,000 investment theses from SumZero using OpenAI’s API, achieving a sentiment analysis accuracy of 95.51%. By assigning trading signals (1 for bullish, -1 for bearish, 0 for neutral) and incorporating a stop-loss mechanism, our strategy delivered strong performance metrics, including a high Profit/Max Equity ratio and a positive Sharpe Ratio. We also explored the extraction of non-GAAP metrics for further analysis.
+</div>
 
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-lightgrey?style=flat-square&logo=openai)
 ![Stop Loss Mechanism](https://img.shields.io/badge/Stop_Loss_Mechanism-lightgrey?style=flat-square)
@@ -37,7 +39,10 @@ At SumZero, Inc., I led a team to develop a trading strategy by integrating NLP 
 ---
 
 ### Seismic Insights: Real-Time Earthquake Tracking with Google Cloud
+
+<div style="text-align: justify;">
 This project automates the collection and organization of real-time earthquake data from the Southern California Earthquake Data Center (SCEDC) using Google Cloud. A Python-based Google Cloud Function retrieves critical earthquake details—magnitude, location, depth, and timestamp—and updates a Google Sheet for seamless, real-time data synchronization. Users can easily append or replace data without manual intervention. An optional Flask app provides a simple interface to trigger updates and visualize the data. With the integration of gspread and oauth2client, this scalable, cloud-powered solution makes seismic activity accessible to both technical users and the general public.
+</div>
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-lightgrey?style=flat-square&logo=google-cloud)
 ![Flask](https://img.shields.io/badge/Flask-lightgrey?style=flat-square&logo=flask)
@@ -58,7 +63,9 @@ This project automates the collection and organization of real-time earthquake d
 ---
 
 ### Sectoral PE Analysis & Trading Strategy with Machine Learning
+<div style="text-align: justify;">
 This project developed a trading strategy using machine learning based on sectoral price-to-earnings (PE) ratios from the health and industrial sectors. By normalizing data with Fisher transformations and fine-tuning buy/sell signals, the strategy was evaluated using metrics like the Sharpe ratio and annual returns. Combining the top-performing strategies from both sectors into an equally weighted portfolio showed the effectiveness of data-driven techniques for improving financial decision-making and trading performance.
+</div>
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-lightgrey?style=flat-square)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-lightgrey?style=flat-square)
@@ -82,7 +89,10 @@ This project developed a trading strategy using machine learning based on sector
 ---
 
 ### Flask Application- Instagram Caption Analysis
+
+<div style="text-align: justify;">
 This project involves creating a Flask application that analyzes Instagram captions for sentiment and extracts hashtags. The application takes an Instagram caption as input and provides the sentiment polarity, subjectivity, and any hashtags present in the caption. The primary goal is to create a tool that assists content creators in understanding the emotional tone of their captions and identifying popular hashtags, ultimately helping them craft more engaging and impactful posts on Instagram.
+</div>
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-lightgrey?style=flat-square&logo=google-cloud)
 ![Flask](https://img.shields.io/badge/Flask-lightgrey?style=flat-square&logo=flask)
@@ -103,7 +113,10 @@ This project involves creating a Flask application that analyzes Instagram capti
 ---
 
 ### Sentiment Analysis- Forex Trading Strategy
+
+<div style="text-align: justify;">
 This project involves developing a Forex trading strategy to predict GBP/USD exchange rate movements using NLP and machine learning. By conducting sentiment analysis on economic news extracted via the NY Times API from 2003 to 2024, we created two strategies: Strategy A generates trading signals through NLP-based sentiment analysis, while Strategy B employs predictive analytics for market trend forecasting. Both strategies were rigorously optimized through backtesting and hyperparameter tuning, achieving a 1.4% annualized return and outperforming the HFRI Currency Index. 
+</div>
 
 ![Regex](https://img.shields.io/badge/Regex-lightgrey?style=flat-square)
 ![TextBlob](https://img.shields.io/badge/TextBlob-lightgrey?style=flat-square)
@@ -130,7 +143,10 @@ This project involves developing a Forex trading strategy to predict GBP/USD exc
 ---
 
 ### Web Scraping Project- Faculty Information from IIM Ahmedabad
+
+<div style="text-align: justify;">
 In this project, I developed a web scraping tool using Selenium, Regex, and BeautifulSoup to extract faculty information from the dynamic IIM Ahmedabad website. The script automates the process of navigating the site, interacting with various elements, and extracting relevant data such as faculty names, professions, areas of expertise, educational qualifications, and research areas from individual profile cards. It efficiently handles multiple pages by clicking through to next pages until all faculty profiles are scraped, ultimately storing the data in a Pandas DataFrame for further analysis.
+</div>
 
 ![Selenium](https://img.shields.io/badge/Selenium-lightgrey?style=flat-square&logo=selenium)
 ![Regex](https://img.shields.io/badge/Regex-lightgrey?style=flat-square)
@@ -154,16 +170,19 @@ In this project, I developed a web scraping tool using Selenium, Regex, and Beau
 
 ## Consulting Projects
 
+<div style="text-align: justify;">
 **M&A Prospecting and Analysis:**
 - Employed Finviz and scraping tools for thorough financial research, pinpointing prospective companies for mergers and acquisitions
 - Performed risk assessment, competitor and SWOT analysis, for selected companies, offering an overview of their financial landscape
 - Identified high debt and insider trading, in an energy industry company, favoring mergers and acquisitions despite financial risks
-  
+</div>
+
+<div style="text-align: justify;">
 **Accenture Strategy Consulting Virtual Internship:**
 - Led the redesign of a fictional grant program website, focusing on improving User Experience (UX) to deliver client solutions
 - Applied the "Ease vs. Impact" matrix as an innovative approach to prioritize tasks
 - Leveraged data through Excel, extracting performance insights to provide recommendations on budget-aligned initiatives
-
+</div>
 
 ---
 
