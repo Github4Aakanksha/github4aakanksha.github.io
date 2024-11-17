@@ -170,15 +170,15 @@ In this project, I developed a web scraping tool using Selenium, Regex, and Beau
 
 ## Consulting Projects
 
+### M&A Prospecting and Analysis:
 <div style="text-align: justify;">
-**M&A Prospecting and Analysis:**
 - Employed Finviz and scraping tools for thorough financial research, pinpointing prospective companies for mergers and acquisitions
 - Performed risk assessment, competitor and SWOT analysis, for selected companies, offering an overview of their financial landscape
 - Identified high debt and insider trading, in an energy industry company, favoring mergers and acquisitions despite financial risks
 </div>
 
+### Accenture Strategy Consulting Virtual Internship:
 <div style="text-align: justify;">
-**Accenture Strategy Consulting Virtual Internship:**
 - Led the redesign of a fictional grant program website, focusing on improving User Experience (UX) to deliver client solutions
 - Applied the "Ease vs. Impact" matrix as an innovative approach to prioritize tasks
 - Leveraged data through Excel, extracting performance insights to provide recommendations on budget-aligned initiatives
