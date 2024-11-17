@@ -46,17 +46,9 @@
          </ul>
          {% endif %}
       </header>
-      <div class="main-content" style="display: flex; flex: 1; overflow: hidden;">
-         <!-- Left column (main content) -->
-         <section style="flex: 1; padding-right: 20px; overflow-y: auto;">
-            {{ content }}
-         </section>
-         <!-- Right column (sidebar or additional info) -->
-         <aside style="flex: 0 0 300px; padding-left: 20px; border-left: 1px solid #ccc; overflow-y: auto;">
-            <!-- Example: Additional content for the right column -->
-            <p>Right column content (e.g., sidebar or additional info)</p>
-         </aside>
-      </div>
+      <section>
+         {{ content }}
+      </section>
       <footer>
          {% if site.github.is_project_page %}
          {% endif %}
