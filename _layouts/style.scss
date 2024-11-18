@@ -120,10 +120,12 @@ kbd {
 }
 
 header {
+  flex-basis: 40%;
   margin-bottom: 20px;
 }
 
 main {
+  flex-grow: 1;
   margin-bottom: 20px;
 }
 
