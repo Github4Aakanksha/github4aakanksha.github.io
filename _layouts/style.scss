@@ -56,6 +56,7 @@ a:hover small {
 }
 
 .wrapper {
+  display: flex;
   width:860px;
   margin:0 auto;
 }
@@ -128,6 +129,19 @@ main {
 
 footer {
   margin-top: 20px;
+}
+
+/* Left column style (config.yml data) */
+.left-column {
+    width: 30%;
+    padding: 20px;
+    border-right: 2px solid #ddd;
+}
+
+/* Right column style (content from index.md) */
+.right-column {
+    flex-grow: 1;
+    padding: 20px;
 }
 
 ul.downloads {
