@@ -200,10 +200,3 @@ In this project, I developed a web scraping tool using Selenium, Regex, and Beau
     font-family: 'Noto Sans', sans-serif;
   }
 </style>
----
-
-
-
-
----
-
