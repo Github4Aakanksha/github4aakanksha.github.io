@@ -17,14 +17,31 @@
    {% seo %}
    <link rel="stylesheet" href="{{ "/layouts/style.css" | relative_url }}" >
    <style>
-      .left-column {
-         text-align: left; /* Justify text alignment */
-         flex-basis: 40%; 
-      }
+   .wrapper {
+      display: flex; /* Flexbox layout */
+      flex-wrap: wrap; /* Allows wrapping to new lines for smaller screens */
+      min-height: 100vh;
+   }
+
+   .left-column {
+      flex: 0 0 40%; /* 40% width on larger screens */
+      text-align: left;
+   }
+
+   .right-column {
+      flex: 0 0 60%; /* 60% width on larger screens */
+      padding: 20px;
+   }
+
+   @media (max-width: 768px) {
+      .left-column,
       .right-column {
-         flex-basis: 60%; /* Occupy 75% of the container */
+         flex: 0 0 100%; /* Full width for both columns on smaller screens */
+         margin-bottom: 20px; /* Adds spacing between stacked columns */
       }
-   </style>
+   }
+</style>
+
 
    <!--[if lt IE 9]>
    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
