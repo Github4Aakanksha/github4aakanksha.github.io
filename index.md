@@ -48,7 +48,7 @@ This project automates the collection and organization of real-time earthquake d
 ![Flask](https://img.shields.io/badge/Flask-lightgrey?style=flat-square&logo=flask)
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
-  <div style="width: 40%; padding-right: 10px;">
+  <div style="width: 35%; padding-right: 10px;">
     <p><strong>Figure 1:</strong> SCEDC Earthquake Map</p>
     <img src="images/Earthquake Map From SCEDC.gif" alt="SCEDC Earthquake Map" style="width: 100%; height: auto;"/>
   </div>
