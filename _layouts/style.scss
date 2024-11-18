@@ -145,6 +145,7 @@ footer {
 .right-column {
     flex-grow: 1;
     padding: 20px;
+    width: 100%; /* This ensures the column expands to fill remaining space */
 }
 
 ul.downloads {
