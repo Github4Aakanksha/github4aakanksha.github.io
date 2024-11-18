@@ -136,11 +136,10 @@ footer {
 
 /* Left column style (config.yml data) */
 .left-column {
-  flex-basis: 40%;
-  padding: 20px;
-  border-right: 2px solid #ddd;
+    flex: 0 0 40%; /* 40% of the parent container */
+    padding: 20px;
+    border-right: 2px solid #ddd;
 }
-
 /* Right column style (content from index.md) */
 .right-column {
   flex-grow: 1;
