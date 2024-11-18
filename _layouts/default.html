@@ -21,19 +21,19 @@
       display: flex; /* Flexbox layout */
       flex-wrap: nowrap; /* Prevent wrapping to new lines */
       min-height: 100vh;
-      width: 860px; /* Limits the width of the container */
       margin: 0 auto; /* Centers the container */
+      max-width: 95%; /* Limit the container width to 95% of the viewport */
    }
 
    .left-column {
-      flex: 0 0 40%; /* 40% width on larger screens */
+      flex: 0 0 30%; /* 40% width on larger screens */
       text-align: left;
       padding: 20px; /* Adds internal spacing */
       border-right: 2px solid #ddd; /* Divider between columns */
    }
 
    .right-column {
-      flex: 0 0 60%; /* Makes the right column fill remaining space */
+      flex: 0 0 70%; /* Makes the right column fill remaining space */
       padding: 20px; /* Adds internal spacing */
    }
 
