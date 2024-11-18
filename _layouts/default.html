@@ -21,25 +21,31 @@
       display: flex; /* Flexbox layout */
       flex-wrap: wrap; /* Allows wrapping to new lines for smaller screens */
       min-height: 100vh;
+      width: 860px; /* Limits the width of the container */
+      margin: 0 auto; /* Centers the container */
    }
 
    .left-column {
       flex: 0 0 40%; /* 40% width on larger screens */
       text-align: left;
+      padding: 20px; /* Adds internal spacing */
+      border-right: 2px solid #ddd; /* Divider between columns */
    }
 
    .right-column {
-      flex: 0 0 60%; /* 60% width on larger screens */
-      padding: 20px;
+      flex-grow: 1; /* Makes the right column fill remaining space */
+      padding: 20px; /* Adds internal spacing */
    }
 
-   @media (max-width: 860px) {
-      .left-column,
-      .right-column {
-         flex: 0 0 100%; /* Full width for both columns on smaller screens */
-         margin-bottom: 20px; /* Adds spacing between stacked columns */
-      }
+   @media screen and (max-width: 960px) {
+   .left-column,
+   .right-column {
+      flex-basis: 100%; /* Stack columns vertically */
+      border-right: none; /* Remove divider */
    }
+}
+
+
 </style>
 
 
