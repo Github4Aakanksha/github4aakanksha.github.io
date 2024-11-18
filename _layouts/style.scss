@@ -133,7 +133,7 @@ footer {
 
 /* Left column style (config.yml data) */
 .left-column {
-    width: 400px;
+    flex-basis: 40%;
     padding: 20px;
     border-right: 2px solid #ddd;
 }
