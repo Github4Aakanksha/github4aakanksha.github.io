@@ -121,22 +121,19 @@ kbd {
 
 header {
   margin-bottom: 20px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 main {
   margin-bottom: 20px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 footer {
   margin-top: 20px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 /* Left column style (config.yml data) */
 .left-column {
-    width: 100%;
+    width: 200px;
     padding: 20px;
     border-right: 2px solid #ddd;
 }
