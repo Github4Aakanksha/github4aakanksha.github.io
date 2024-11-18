@@ -3,8 +3,12 @@
 ---
 ### SumZero Investment Thesis Driven Trading Strategy
 
+#### Business Problem:
+How can we make sense of text-based investment ideas on our website to create trading strategies and improve stock market returns?
+
+#### Solution:
 <div style="text-align: justify;">
-At SumZero, Inc., I led a team to develop a trading strategy by integrating NLP and ChatGPT with S&P 500 stock price data from Yahoo Finance. We analyzed over 1,000 investment theses from SumZero using OpenAI’s API, achieving a sentiment analysis accuracy of 95.51%. By assigning trading signals (1 for bullish, -1 for bearish, 0 for neutral) and incorporating a stop-loss mechanism, our strategy delivered strong performance metrics, including a high Profit/Max Equity ratio and a positive Sharpe Ratio. We also explored the extraction of non-GAAP metrics for further analysis.
+At SumZero, Inc., I led a team to develop a trading strategy by integrating NLP and ChatGPT with S&P 500 stock price data from Yahoo Finance. I analyzed over 1,000 investment theses from SumZero using OpenAI’s API, achieving a sentiment analysis accuracy of 95.51%. By assigning trading signals (1 for bullish, -1 for bearish, 0 for neutral) and incorporating a stop-loss mechanism, our strategy delivered strong performance metrics, including a high Profit/Max Equity ratio and a positive Sharpe Ratio. We also explored the extraction of non-GAAP metrics for further analysis.
 </div>
 
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-lightgrey?style=flat-square&logo=openai)
@@ -40,8 +44,12 @@ At SumZero, Inc., I led a team to develop a trading strategy by integrating NLP 
 
 ### Seismic Insights: Real-Time Earthquake Tracking with Google Cloud
 
+#### Business Problem:
+How can we automate real-time earthquake tracking and present the updates in a simple, user-friendly way for everyone?
+
+#### Solution:
 <div style="text-align: justify;">
-This project automates the collection and organization of real-time earthquake data from the Southern California Earthquake Data Center (SCEDC) using Google Cloud. A Python-based Google Cloud Function retrieves critical earthquake details—magnitude, location, depth, and timestamp—and updates a Google Sheet for seamless, real-time data synchronization. Users can easily append or replace data without manual intervention. An optional Flask app provides a simple interface to trigger updates and visualize the data. With the integration of gspread and oauth2client, this scalable, cloud-powered solution makes seismic activity accessible to both technical users and the general public.
+I developed a solution to automate the collection and organization of real-time earthquake data from the Southern California Earthquake Data Center (SCEDC) using Google Cloud. I created a Python-based Google Cloud Function that retrieves critical earthquake details—magnitude, location, depth, and timestamp—and updates a Google Sheet in real time, ensuring seamless data synchronization without manual intervention. To make the process even more user-friendly, I built an optional Flask app that provides a simple interface to trigger updates and visualize the data. By integrating tools like gspread and oauth2client, this scalable, cloud-powered project makes tracking seismic activity accessible for both technical users and the general public.
 </div>
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-lightgrey?style=flat-square&logo=google-cloud)
