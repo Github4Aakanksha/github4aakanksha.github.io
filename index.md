@@ -3,7 +3,7 @@
 ---
 ### SumZero Investment Thesis Driven Trading Strategy
 
-<strong>Business Problem:</strong> How can we make sense of text-based investment ideas on our website to create trading strategies and improve stock market returns?
+<strong>Business Problem:</strong> <em>How can we make sense of text-based investment ideas on our website to create trading strategies and improve stock market returns?</em>
 
 <div style="text-align: justify;">
 At SumZero, Inc., I led a team to develop a trading strategy by integrating NLP and ChatGPT with S&P 500 stock price data from Yahoo Finance. I analyzed over 1,000 investment theses from SumZero using OpenAI’s API, achieving a sentiment analysis accuracy of 95.51%. By assigning trading signals (1 for bullish, -1 for bearish, 0 for neutral) and incorporating a stop-loss mechanism, our strategy delivered strong performance metrics, including a high Profit/Max Equity ratio and a positive Sharpe Ratio. We also explored the extraction of non-GAAP metrics for further analysis.
@@ -42,7 +42,7 @@ At SumZero, Inc., I led a team to develop a trading strategy by integrating NLP 
 
 ### Seismic Insights: Real-Time Earthquake Tracking with Google Cloud
 
-<strong>Business Problem:</strong> How can we automate real-time earthquake tracking and present the updates in a simple, user-friendly way for everyone?
+<strong>Business Problem:</strong> <em>How can we automate real-time earthquake tracking and present the updates in a simple, user-friendly way for everyone?</em>
 
 <div style="text-align: justify;">
 I developed a solution to automate the collection and organization of real-time earthquake data from the Southern California Earthquake Data Center (SCEDC) using Google Cloud. I created a Python-based Google Cloud Function that retrieves critical earthquake details—magnitude, location, depth, and timestamp—and updates a Google Sheet in real time, ensuring seamless data synchronization without manual intervention. To make the process even more user-friendly, I built an optional Flask app that provides a simple interface to trigger updates and visualize the data. By integrating tools like gspread and oauth2client, this scalable, cloud-powered project makes tracking seismic activity accessible for both technical users and the general public.
@@ -72,7 +72,7 @@ I developed a solution to automate the collection and organization of real-time 
 
 ### Sectoral PE Analysis & Trading Strategy with Machine Learning
 
-<strong>Business Problem:</strong> How can we use price-to-earnings ratios from different sectors to create a balanced portfolio that improves investment decisions, trading results, and reduces risk?
+<strong>Business Problem:</strong> <em>How can we use price-to-earnings ratios from different sectors to create a balanced portfolio that improves investment decisions, trading results, and reduces risk?</em>
 
 <div style="text-align: justify;">
 This project developed a trading strategy using machine learning based on sectoral price-to-earnings (PE) ratios from the health and industrial sectors. By normalizing data with Fisher transformations and fine-tuning buy/sell signals, the strategy was evaluated using metrics like the Sharpe ratio and annual returns. Combining the top-performing strategies from both sectors into an equally weighted portfolio showed the effectiveness of data-driven techniques for improving financial decision-making and trading performance.
