@@ -208,6 +208,7 @@ To streamline the process of gathering faculty information for research or organ
 
 <style>
   body {
-    font-family: 'Noto Sans', sans-serif;
+    font-family: "Tinos", Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+
   }
 </style>
