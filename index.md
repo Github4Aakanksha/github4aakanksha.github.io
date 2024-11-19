@@ -208,7 +208,7 @@ To streamline the process of gathering faculty information for research or organ
 
 <style>
   body {
-    font-family: "Tinos", serif;
+    font-family: 'Noto Sans', sans-serif;
 
   }
 </style>
