@@ -50,6 +50,8 @@ I developed a solution to automate the collection and organization of real-time 
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-lightgrey?style=flat-square&logo=google-cloud)
 ![Flask](https://img.shields.io/badge/Flask-lightgrey?style=flat-square&logo=flask)
+![Python](https://img.shields.io/badge/Python-lightgrey?style=flat-square&logo=python)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-lightgrey?style=flat-square&logo=googlesheets)
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
   <div style="width: 35%; padding-right: 10px;">
@@ -75,7 +77,7 @@ I developed a solution to automate the collection and organization of real-time 
 <em><strong>Business Problem:</strong> How can we use price-to-earnings ratios from different sectors to create a balanced portfolio that improves investment decisions, trading results, and reduces risk?</em>
 
 <div style="text-align: justify;">
-This project developed a trading strategy using machine learning based on sectoral price-to-earnings (PE) ratios from the health and industrial sectors. By normalizing data with Fisher transformations and fine-tuning buy/sell signals, the strategy was evaluated using metrics like the Sharpe ratio and annual returns. Combining the top-performing strategies from both sectors into an equally weighted portfolio showed the effectiveness of data-driven techniques for improving financial decision-making and trading performance.
+I developed a trading strategy using machine learning based on sectoral price-to-earnings (PE) ratios from the health and industrial sectors. By normalizing the data with Fisher transformations and fine-tuning buy/sell signals, I evaluated the strategy using metrics such as the Sharpe ratio and annual returns. When I combined the best strategies from both the health and industrial sectors into one equally-balanced portfolio, it showed that using data-driven methods can lead to better investment decisions and improved trading results.
 </div>
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-lightgrey?style=flat-square)
@@ -101,8 +103,10 @@ This project developed a trading strategy using machine learning based on sector
 
 ### Flask Application- Instagram Caption Analysis
 
+<em><strong>Business Problem:</strong> How can we help content creators improve their social media posts?</em>
+
 <div style="text-align: justify;">
-This project involves creating a Flask application that analyzes Instagram captions for sentiment and extracts hashtags. The application takes an Instagram caption as input and provides the sentiment polarity, subjectivity, and any hashtags present in the caption. The primary goal is to create a tool that assists content creators in understanding the emotional tone of their captions and identifying popular hashtags, ultimately helping them craft more engaging and impactful posts on Instagram.
+At Next Step Projects,  I led the development of a Flask application that analyzes Instagram captions for sentiment and extracts hashtags. The application takes an Instagram caption as input and provides the sentiment polarity, subjectivity, and any hashtags present in the caption. My goal was to develop a tool that helps content creators understand the emotional tone of their captions and identify popular hashtags, ultimately enabling them to craft more engaging and impactful posts on Instagram.
 </div>
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-lightgrey?style=flat-square&logo=google-cloud)
@@ -125,8 +129,10 @@ This project involves creating a Flask application that analyzes Instagram capti
 
 ### Sentiment Analysis- Forex Trading Strategy
 
+<em><strong>Business Problem:</strong> How can we leverage economic news sentiment to create a Forex trading strategy that consistently outperforms the market standards?</em>
+
 <div style="text-align: justify;">
-This project involves developing a Forex trading strategy to predict GBP/USD exchange rate movements using NLP and machine learning. By conducting sentiment analysis on economic news extracted via the NY Times API from 2003 to 2024, we created two strategies: Strategy A generates trading signals through NLP-based sentiment analysis, while Strategy B employs predictive analytics for market trend forecasting. Both strategies were rigorously optimized through backtesting and hyperparameter tuning, achieving a 1.4% annualized return and outperforming the HFRI Currency Index. 
+In this project, I used the NY Times API to extract economic news articles and headlines, focusing on content mentioning the British Pound, and then analyzed the text to uncover sentiment trends and patterns that could influence Forex trading decisions. I developed a Forex trading strategy to predict GBP/USD exchange rate movements using NLP and machine learning. I conducted sentiment analysis on economic news extracted via the NY Times API from 2003 to 2024 and created two strategies: Strategy A, which generates trading signals through NLP-based sentiment analysis, and Strategy B, which employs predictive analytics for market trend forecasting. I rigorously optimized both strategies through backtesting and hyperparameter tuning, achieving a 1.4% annualized return and outperforming the HFRI Currency Index.
 </div>
 
 ![Regex](https://img.shields.io/badge/Regex-lightgrey?style=flat-square)
@@ -155,8 +161,10 @@ This project involves developing a Forex trading strategy to predict GBP/USD exc
 
 ### Web Scraping Project- Faculty Information from IIM Ahmedabad
 
+<em><strong>Business Problem:</strong> How can we automate the extraction of detailed faculty information from dynamic websites for efficient data analysis and research? </em>
+
 <div style="text-align: justify;">
-In this project, I developed a web scraping tool using Selenium, Regex, and BeautifulSoup to extract faculty information from the dynamic IIM Ahmedabad website. The script automates the process of navigating the site, interacting with various elements, and extracting relevant data such as faculty names, professions, areas of expertise, educational qualifications, and research areas from individual profile cards. It efficiently handles multiple pages by clicking through to next pages until all faculty profiles are scraped, ultimately storing the data in a Pandas DataFrame for further analysis.
+To streamline the process of gathering faculty information for research or organizational needs, I developed a web scraping tool using Selenium, Regex, and BeautifulSoup to extract faculty information from the dynamic IIM Ahmedabad website. The script automates the process of navigating the site, interacting with various elements, and extracting relevant data such as faculty names, professions, areas of expertise, educational qualifications, and research areas from individual profile cards. It efficiently handles multiple pages by clicking through to next pages until all faculty profiles are scraped, ultimately storing the data in a Pandas DataFrame for further analysis.
 </div>
 
 ![Selenium](https://img.shields.io/badge/Selenium-lightgrey?style=flat-square&logo=selenium)
@@ -182,25 +190,21 @@ In this project, I developed a web scraping tool using Selenium, Regex, and Beau
 ## Consulting Projects
 
 ### M&A Prospecting and Analysis:
-<div style="text-align: justify;">
   
 - Employed Finviz and scraping tools for thorough financial research, pinpointing prospective companies for mergers and acquisitions
   
 - Performed risk assessment, competitor and SWOT analysis, for selected companies, offering an overview of their financial landscape
   
 - Identified high debt and insider trading, in an energy industry company, favoring mergers and acquisitions despite financial risks
-</div>
 
 
 ### Accenture Strategy Consulting Virtual Internship:
-<div style="text-align: justify;">
   
 - Led the redesign of a fictional grant program website, focusing on improving User Experience (UX) to deliver client solutions
   
 - Applied the "Ease vs. Impact" matrix as an innovative approach to prioritize tasks
   
 - Leveraged data through Excel, extracting performance insights to provide recommendations on budget-aligned initiatives
-</div>
 
 <style>
   body {
