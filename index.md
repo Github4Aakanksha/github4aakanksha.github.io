@@ -192,6 +192,7 @@ To streamline the process of gathering faculty information for research or organ
 - Employed Finviz and scraping tools for thorough financial research, pinpointing prospective companies for mergers and acquisitions  
 - Performed risk assessment, competitor and SWOT analysis, for selected companies, offering an overview of their financial landscape  
 - Identified high debt and insider trading, in an energy industry company, favoring mergers and acquisitions despite financial risks
+
 ---
 ### Accenture Strategy Consulting Virtual Internship:
   
