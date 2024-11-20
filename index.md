@@ -1,4 +1,4 @@
-## Data Science Projects
+## DATA SCIENCE PROJECTS
 
 ---
 ### SumZero Investment Thesis Driven Trading Strategy
@@ -185,7 +185,7 @@ To streamline the process of gathering faculty information for research or organ
 
 <a href="https://github.com/Github4Aakanksha/ML/blob/main/Webscraping%20Assessment.ipynb" style="color:#6a0dad;">View project on GitHub</a>
 
-## Consulting Projects
+## CONSULTING PROJECTS
 
 ---
 
