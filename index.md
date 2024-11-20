@@ -227,7 +227,7 @@ In this project, I conducted time series analysis using Vector Auto-regression (
 
 ## CONSULTING PROJECTS
 
-### M&A Prospecting and Analysis:
+### Mergers & Acquisitions Prospecting and Analysis
   
 - <em> Employed Finviz and scraping tools for thorough financial research, pinpointing prospective companies for mergers and acquisitions  </em>
 - <em>Performed risk assessment, competitor and SWOT analysis, for selected companies, offering an overview of their financial landscape  </em>
@@ -235,7 +235,7 @@ In this project, I conducted time series analysis using Vector Auto-regression (
 
 ---
 
-### Accenture Strategy Consulting Virtual Internship:
+### Accenture Strategy Consulting Virtual Internship
   
 - <em> Led the redesign of a fictional grant program website, focusing on improving User Experience (UX) to deliver client solutions</em>  
 - <em> Applied the "Ease vs. Impact" matrix as an innovative approach to prioritize tasks</em>
