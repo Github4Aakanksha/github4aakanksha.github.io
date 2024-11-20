@@ -225,17 +225,18 @@ In this project, I conducted time series analysis using Vector Auto-regression (
 ---
 ### M&A Prospecting and Analysis:
  <em> 
-- Employed Finviz and scraping tools for thorough financial research, pinpointing prospective companies for mergers and acquisitions  
-- Performed risk assessment, competitor and SWOT analysis, for selected companies, offering an overview of their financial landscape  
-- Identified high debt and insider trading, in an energy industry company, favoring mergers and acquisitions despite financial risks </em>
+- Employed Finviz and scraping tools for thorough financial research, pinpointing prospective companies for mergers and acquisitions  </em>
+<em>- Performed risk assessment, competitor and SWOT analysis, for selected companies, offering an overview of their financial landscape  </em>
+<em>- Identified high debt and insider trading, in an energy industry company, favoring mergers and acquisitions despite financial risks </em>
 
 ---
 
 ### Accenture Strategy Consulting Virtual Internship:
  <em> 
-- Led the redesign of a fictional grant program website, focusing on improving User Experience (UX) to deliver client solutions  
-- Applied the "Ease vs. Impact" matrix as an innovative approach to prioritize tasks
-- Leveraged data through Excel, extracting performance insights to provide recommendations on budget-aligned initiatives </em>
+- Led the redesign of a fictional grant program website, focusing on improving User Experience (UX) to deliver client solutions</em>  
+<em>- Applied the "Ease vs. Impact" matrix as an innovative approach to prioritize tasks</em>
+<em>- Leveraged data through Excel, extracting performance insights to provide recommendations on budget-aligned initiatives </em>
+
 <style>
   body {
     font-family: 'Noto Sans', sans-serif;
