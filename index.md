@@ -185,6 +185,32 @@ To streamline the process of gathering faculty information for research or organ
 
 <a href="https://github.com/Github4Aakanksha/ML/blob/main/Webscraping%20Assessment.ipynb" style="color:#6a0dad;">View project on GitHub</a>
 
+### Macroeconomic Time Series Analysis using VAR Models
+
+<em><strong>Research Problem:</strong> How do key economic indicators like inflation, unemployment, and the Federal Funds rate interact and influence each other over time, and how can these relationships be used for forecasting? </em>
+
+<div style="text-align: justify;">
+In this project, I conducted time series analysis using Vector Auto-regression (VAR) models to replicate the findings of Stock and Watson’s 2001 paper. By analyzing key economic indicators like Inflation, Unemployment, and the Federal Funds Rate, I use tools like PACF plots, Granger Causality tests, and Factor Error Variance Decomposition (FEVD) to understand their interrelationships. These included exploring the direction of influence between them and understanding the contributions of each variable to forecast error variance. I also conducted impulse response analysis to evaluate the short-term impact of shocks to the system. The models forecast these indicators two years forward, providing insights into how economic factors influence each other and enhancing the accuracy of macroeconomic forecasting and policy analysis.
+</div>
+
+![VAR Models](https://img.shields.io/badge/VAR_Models-lightgrey?style=flat-square&logo=selenium)
+![Granger Causality Test](https://img.shields.io/badge/Granger_Causality_Test-lightgrey?style=flat-square)
+![PACF Plots](https://img.shields.io/badge/PACF_Plots-lightgrey?style=flat-square)
+![Factor Error Variance Decomposition](https://img.shields.io/badge/Factor_Error_Variance_Decomposition-lightgrey?style=flat-square)
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
+  <div style="width: 45%; padding-right: 10px;">
+    <p><strong>Figure 1:</strong> IIMA Homepage</p>
+    <img src="images/IIMA Webscrape.png?raw=true" alt="IIMA Homepage" style="width: 100%; height: auto;"/>
+  </div>
+  <div style="width: 45%; padding-right: 10px;">
+    <p><strong>Figure 2:</strong> IIMA Faculty Page</p>
+    <img src="images/IIMA Faculty page.png?raw=true" alt="IIMA Faculty Page" style="width: 100%; height: auto;"/>
+  </div>
+</div>
+
+<a href="https://github.com/Github4Aakanksha/ML/blob/main/Webscraping%20Assessment.ipynb" style="color:#6a0dad;">View project on GitHub</a>
+
 ## CONSULTING PROJECTS
 ---
 ### M&A Prospecting and Analysis:
