@@ -53,6 +53,8 @@ I developed a solution to automate the collection and organization of real-time 
 ![Python](https://img.shields.io/badge/Python-lightgrey?style=flat-square&logo=python)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-lightgrey?style=flat-square&logo=googlesheets)
 
+<a href="https://github.com/your-repo-link" style="color:#6a0dad;">View project on GitHub</a>
+
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
   <div style="width: 35%; padding-right: 10px;">
     <p><strong>Figure 1:</strong> SCEDC Earthquake Map</p>
@@ -67,8 +69,6 @@ I developed a solution to automate the collection and organization of real-time 
     <img src="images/CC Final.png" alt="Updated Google Sheets" style="width: 100%; height: auto;"/>
   </div>
 </div>
-
-<a href="https://github.com/your-repo-link" style="color:#6a0dad;">View project on GitHub</a>
 
 ---
 
@@ -113,6 +113,8 @@ At Next Step Projects,  I led the development of a Flask application that analyz
 ![Flask](https://img.shields.io/badge/Flask-lightgrey?style=flat-square&logo=flask)
 ![Instaloader](https://img.shields.io/badge/Instaloader-lightgrey?style=flat-square)
 ![VADER](https://img.shields.io/badge/VADER-lightgrey?style=flat-square)
+
+<a href="https://github.com/your-repo-link" style="color:#6a0dad;">View project on GitHub</a>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
   <div style="width: 45%; padding-right: 10px;">
@@ -172,6 +174,8 @@ To streamline the process of gathering faculty information for research or organ
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-lightgrey?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-lightgrey?style=flat-square)
 
+<a href="https://github.com/Github4Aakanksha/ML/blob/main/Webscraping%20Assessment.ipynb" style="color:#6a0dad;">View project on GitHub</a>
+
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
   <div style="width: 45%; padding-right: 10px;">
     <p><strong>Figure 1:</strong> IIMA Homepage</p>
@@ -182,8 +186,6 @@ To streamline the process of gathering faculty information for research or organ
     <img src="images/IIMA Faculty page.png?raw=true" alt="IIMA Faculty Page" style="width: 100%; height: auto;"/>
   </div>
 </div>
-
-<a href="https://github.com/Github4Aakanksha/ML/blob/main/Webscraping%20Assessment.ipynb" style="color:#6a0dad;">View project on GitHub</a>
 
 ---
 
@@ -199,6 +201,8 @@ In this project, I conducted time series analysis using Vector Auto-regression (
 ![Granger Causality Test](https://img.shields.io/badge/Granger_Causality_Test-lightgrey?style=flat-square)
 ![PACF Plots](https://img.shields.io/badge/PACF_Plots-lightgrey?style=flat-square)
 ![Factor Error Variance Decomposition](https://img.shields.io/badge/Factor_Error_Variance_Decomposition-lightgrey?style=flat-square)
+
+<a href="https://github.com/Github4Aakanksha/ML/blob/main/Webscraping%20Assessment.ipynb" style="color:#6a0dad;">View project on GitHub</a>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
   <div style="width: 45%; padding-right: 10px;">
@@ -218,8 +222,6 @@ In this project, I conducted time series analysis using Vector Auto-regression (
     <img src="images/unemployment forecast plot.png?raw=true" alt="Unemployment Forecast Plot" style="width: 100%; height: auto;"/>
   </div>
 </div>
-
-<a href="https://github.com/Github4Aakanksha/ML/blob/main/Webscraping%20Assessment.ipynb" style="color:#6a0dad;">View project on GitHub</a>
 
 ---
 
