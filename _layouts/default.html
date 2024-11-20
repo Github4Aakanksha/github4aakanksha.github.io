@@ -37,15 +37,16 @@
       padding: 20px; /* Adds internal spacing */
    }
 
-   @media screen and (max-width: 960px) {
-   .left-column,
-   .right-column {
-      flex-basis: 100%; /* Stack columns vertically */
-      border-right: none; /* Remove divider */
-   }
+@media screen and (max-width: 960px) {
+    .wrapper {
+        flex-wrap: wrap; /* Allow wrapping on smaller screens */
+    }
+    .left-column,
+    .right-column {
+        flex-basis: 100%; /* Full width for both columns */
+        border-right: none; /* Remove the divider */
+    }
 }
-
-
 </style>
 
 
