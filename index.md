@@ -186,24 +186,17 @@ To streamline the process of gathering faculty information for research or organ
 <a href="https://github.com/Github4Aakanksha/ML/blob/main/Webscraping%20Assessment.ipynb" style="color:#6a0dad;">View project on GitHub</a>
 
 ## CONSULTING PROJECTS
-
 ---
-
 ### M&A Prospecting and Analysis:
   
-- Employed Finviz and scraping tools for thorough financial research, pinpointing prospective companies for mergers and acquisitions
-  
-- Performed risk assessment, competitor and SWOT analysis, for selected companies, offering an overview of their financial landscape
-  
+- Employed Finviz and scraping tools for thorough financial research, pinpointing prospective companies for mergers and acquisitions  
+- Performed risk assessment, competitor and SWOT analysis, for selected companies, offering an overview of their financial landscape  
 - Identified high debt and insider trading, in an energy industry company, favoring mergers and acquisitions despite financial risks
-
-
+---
 ### Accenture Strategy Consulting Virtual Internship:
   
-- Led the redesign of a fictional grant program website, focusing on improving User Experience (UX) to deliver client solutions
-  
+- Led the redesign of a fictional grant program website, focusing on improving User Experience (UX) to deliver client solutions  
 - Applied the "Ease vs. Impact" matrix as an innovative approach to prioritize tasks
-  
 - Leveraged data through Excel, extracting performance insights to provide recommendations on budget-aligned initiatives
 
 <style>
