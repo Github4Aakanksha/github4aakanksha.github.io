@@ -193,19 +193,27 @@ To streamline the process of gathering faculty information for research or organ
 In this project, I conducted time series analysis using Vector Auto-regression (VAR) models to replicate the findings of Stock and Watson’s 2001 paper. By analyzing key economic indicators like Inflation, Unemployment, and the Federal Funds Rate, I use tools like PACF plots, Granger Causality tests, and Factor Error Variance Decomposition (FEVD) to understand their interrelationships. These included exploring the direction of influence between them and understanding the contributions of each variable to forecast error variance. I also conducted impulse response analysis to evaluate the short-term impact of shocks to the system. The models forecast these indicators two years forward, providing insights into how economic factors influence each other and enhancing the accuracy of macroeconomic forecasting and policy analysis.
 </div>
 
-![VAR Models](https://img.shields.io/badge/VAR_Models-lightgrey?style=flat-square&logo=selenium)
-![Granger Causality Test](https://img.shields.io/badge/Granger_Causality_Test-lightgrey?style=flat-square)
-![PACF Plots](https://img.shields.io/badge/PACF_Plots-lightgrey?style=flat-square)
-![Factor Error Variance Decomposition](https://img.shields.io/badge/Factor_Error_Variance_Decomposition-lightgrey?style=flat-square)
+![VAR Models](https://img.shields.io/badge/VAR_Models-lightgrey?style=flat-square&logo=VAR_Models)
+![Granger Causality Test](https://img.shields.io/badge/Granger_Causality_Test-lightgrey?style=square&logo=Granger_Causality_Test)
+![PACF Plots](https://img.shields.io/badge/PACF_Plots-lightgrey?style=square&logo=PACF_Plots)
+![Factor Error Variance Decomposition](https://img.shields.io/badge/Factor_Error_Variance_Decomposition-lightgrey?style=square&logo=Factor_Error_Variance_Decomposition)
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
   <div style="width: 45%; padding-right: 10px;">
-    <p><strong>Figure 1:</strong> IIMA Homepage</p>
-    <img src="images/IIMA Webscrape.png?raw=true" alt="IIMA Homepage" style="width: 100%; height: auto;"/>
+    <p><strong>Figure 1:</strong> Impulse Response Plots</p>
+    <img src="images/Impulse Response Plots.png?raw=true" alt="Impulse Response Plots" style="width: 100%; height: auto;"/>
   </div>
   <div style="width: 45%; padding-right: 10px;">
-    <p><strong>Figure 2:</strong> IIMA Faculty Page</p>
-    <img src="images/IIMA Faculty page.png?raw=true" alt="IIMA Faculty Page" style="width: 100%; height: auto;"/>
+    <p><strong>Figure 2:</strong> Inflation Forecast Plot</p>
+    <img src="images/Inflation Forecast Plot.png?raw=true" alt="Inflation Forecast Plot" style="width: 100%; height: auto;"/>
+  </div>
+  <div style="width: 45%; padding-right: 10px;">
+    <p><strong>Figure 3:</strong> PI Forecast Plot</p>
+    <img src="images/PI Forecast Plot.png?raw=true" alt="PI Forecast Plot" style="width: 100%; height: auto;"/>
+  </div>
+  <div style="width: 45%; padding-right: 10px;">
+    <p><strong>Figure 4:</strong> Unemployment Forecast Plot</p>
+    <img src="images/unemployment forecast plot.png?raw=true" alt="Unemployment Forecast Plot" style="width: 100%; height: auto;"/>
   </div>
 </div>
 
