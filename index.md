@@ -33,8 +33,8 @@ At SumZero, Inc., I led a team to develop a trading strategy by integrating NLP 
     <p><strong>Figure 4:</strong> Top Performing Stocks</p>
     <img src="images/Top Stocks.png" alt="Top Performing Stocks" style="width: 100%; height: auto;"/>
   </div><div style="width: 45%; padding-left: 10px;">
-    <p><strong>Figure 5:</strong> Cummulative Profit</p>
-    <img src="images/Profit.png" alt="Cummulative Profit" style="width: 100%; height: auto;"/>
+    <p><strong>Figure 5:</strong> Cumulative Profit</p>
+    <img src="images/Profit.png" alt="Cumulative Profit" style="width: 100%; height: auto;"/>
   </div>
 </div>
 
