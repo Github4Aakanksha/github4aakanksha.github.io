@@ -5,14 +5,14 @@ description: >
   <div style="color: white;"> <!-- Set the body text color -->
     Welcome to my portfolio page, where I share projects that blend creativity and data to solve real-world challenges. Explore my work and feel free to connect! 
     <br><br>
-    <strong style="color: #222 ;">WORK EXPERIENCE</strong>
+    <strong style="color: #dba857 ;">WORK EXPERIENCE</strong>
 
     <div style="position: relative; max-width: 800px; margin: 0 auto; padding: 10px 0;"> <!-- Reduced padding -->
     
       <!-- Experience 1 -->
       <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
         <div style="background-color: #ad3d50 ; border-radius: 10px; padding: 20px; margin-bottom: 20px; width: 80%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-          <div style="font-size: 0.9em; color: white;">Jun 2024 - Aug 2024</div>
+          <div style="font-size: 0.9em; color: #dba857;">Jun 2024 - Aug 2024</div>
           <em><strong style="font-size: 1.1em; color: #dba857 ;">Data Analyst Intern - Next Step Projects</strong></em>
         </div>
 
