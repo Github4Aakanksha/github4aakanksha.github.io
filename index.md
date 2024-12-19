@@ -1,7 +1,6 @@
 <h2 style="font-family: 'La Gagliane', sans-serif;">DATA SCIENCE PROJECTS</h2>
 ---
 
-### SumZero Investment Thesis Driven Trading Strategy
 <h3 style='color:#ad3d50;'>SumZero Investment Thesis Driven Trading Strategy</h3>
 
 <div style="text-align: justify;">
@@ -41,7 +40,7 @@ At SumZero, Inc., I led a team to develop a trading strategy by integrating NLP 
 
 ---
 
-### Seismic Insights: Real-Time Earthquake Tracking with Google Cloud
+<h3 style='color:#ad3d50;'>Seismic Insights: Real-Time Earthquake Tracking with Google Cloud</h3>
 
 <div style="text-align: justify;">
 <em><strong>Business Problem:</strong> How can we automate real-time earthquake tracking and present the updates in a simple, user-friendly way for everyone?</em>
@@ -73,7 +72,7 @@ I developed a solution to automate the collection and organization of real-time 
 
 ---
 
-### Sectoral PE Analysis & Trading Strategy with Machine Learning
+<h3 style='color:#ad3d50;'>Sectoral PE Analysis & Trading Strategy with Machine Learning</h3>
 
 <div style="text-align: justify;">
 <em><strong>Business Problem:</strong> How can we use price-to-earnings ratios from different sectors to create a balanced portfolio that improves investment decisions, trading results, and reduces risk?</em>
@@ -102,7 +101,7 @@ I developed a trading strategy using machine learning based on sectoral price-to
 
 ---
 
-### Flask Application- Instagram Caption Analysis
+<h3 style='color:#ad3d50;'>Flask Application- Instagram Caption Analysis</h3>
 
 <div style="text-align: justify;">
 <em><strong>Business Problem:</strong> How can we help content creators improve their social media posts?</em>
@@ -130,7 +129,7 @@ At Next Step Projects,  I led the development of a Flask application that analyz
 
 ---
 
-### Sentiment Analysis- Forex Trading Strategy
+<h3 style='color:#ad3d50;'>Sentiment Analysis- Forex Trading Strategy</h3>
 
 <div style="text-align: justify;">
 <em><strong>Business Problem:</strong> How can we leverage economic news sentiment to create a Forex trading strategy that consistently outperforms the market standards?</em>
@@ -162,7 +161,7 @@ In this project, I used the NY Times API to extract economic news articles and h
 
 ---
 
-### Web Scraping Project- Faculty Information from IIM Ahmedabad
+<h3 style='color:#ad3d50;'>Web Scraping Project- Faculty Information from IIM Ahmedabad</h3>
 
 <div style="text-align: justify;">
 <em><strong>Business Problem:</strong> How can we automate the extraction of detailed faculty information from dynamic websites for efficient data analysis and research? </em>
@@ -190,7 +189,7 @@ To streamline the process of gathering faculty information for research or organ
 
 ---
 
-### Macroeconomic Time Series Analysis using VAR Models
+<h3 style='color:#ad3d50;'>Macroeconomic Time Series Analysis using VAR Models</h3>
 
 <div style="text-align: justify;">
 <em><strong>Research Problem:</strong> How do key economic indicators like inflation, unemployment, and the Federal Funds rate interact and influence each other over time, and how can these relationships be used for forecasting? </em>
