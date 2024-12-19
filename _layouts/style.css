@@ -4,6 +4,13 @@
 @import url('fonts');
 @import url('rouge-github');
 
+@font-face {
+    font-family: 'La Gagliane';
+    src: url('layouts/LaGagliane.otf') format('opentype');
+    font-weight: normal; /* Adjust if there are bold/italic versions */
+    font-style: normal; /* Adjust if there's an italic version */
+}
+
 body {
   background-color: #fff;
   padding: 50px;
