@@ -1,6 +1,6 @@
 <h2 style="font-family: 'La Gagliane', sans-serif;">DATA SCIENCE PROJECTS</h2>
 ---
-<div style="background-color: #9c8697; padding: 20px; border-radius: 8px; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+<div style="background-color: #ad3d50 ; padding: 20px; border-radius: 8px; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <h3 style='color:#ece99b ;'>SumZero Investment Thesis Driven Trading Strategy</h3>
 
   <div style="text-align: justify;">
@@ -9,17 +9,12 @@
   At SumZero, Inc., I led a team to develop a trading strategy by integrating NLP and ChatGPT with S&P 500 stock price data from Yahoo Finance. I analyzed over 1,000 investment theses from SumZero using OpenAI’s API, achieving a sentiment analysis accuracy of 95.51%. By assigning trading signals (1 for bullish, -1 for bearish, 0 for neutral) and incorporating a stop-loss mechanism, our strategy delivered strong performance metrics, including a high Profit/Max Equity ratio and a positive Sharpe Ratio. We also explored the extraction of non-GAAP metrics for further analysis.
   </div>
 
-  <div style="text-align: center;">
+  <div style="text-align: justify;">
     <img src="https://img.shields.io/badge/OpenAI_API-lightgrey?style=flat-square&logo=openai" alt="OpenAI API"/>
     <img src="https://img.shields.io/badge/Stop_Loss_Mechanism-lightgrey?style=flat-square" alt="Stop Loss Mechanism"/>
     <img src="https://img.shields.io/badge/Sharpe_Ratio-lightgrey?style=flat-square" alt="Sharpe Ratio"/>
     <img src="https://img.shields.io/badge/GAAP_metrics-lightgrey?style=flat-square&logo=python" alt="GAAP metrics"/>
   </div>
-  
-  ![OpenAI API](https://img.shields.io/badge/OpenAI_API-lightgrey?style=flat-square&logo=openai)
-  ![Stop Loss Mechanism](https://img.shields.io/badge/Stop_Loss_Mechanism-lightgrey?style=flat-square)
-  ![Sharpe Ratio](https://img.shields.io/badge/Sharpe_Ratio-lightgrey?style=flat-square)
-  ![GAAP metrics](https://img.shields.io/badge/GAAP_metrics-lightgrey?style=flat-square&logo=python)
 
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
     <div style="width: 30%; padding-right: 10px;">
