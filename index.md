@@ -1,5 +1,5 @@
 ## DATA SCIENCE PROJECTS
-
+<h1 style="font-family: 'La Gagliane', sans-serif;">DATA SCIENCE PROJECTS</h1>
 ---
 ### SumZero Investment Thesis Driven Trading Strategy
 
