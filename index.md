@@ -1,7 +1,7 @@
 <h2 style="font-family: 'La Gagliane', sans-serif;">DATA SCIENCE PROJECTS</h2>
 ---
 <div style="background-color:  #d2d6cd ; padding: 20px; border-radius: 8px; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <h3 style='color:#ad3d50 ;'>SumZero Investment Thesis Driven Trading Strategy</h3>
+  <h3 style='color:#9c8686 ;'>SumZero Investment Thesis Driven Trading Strategy</h3>
 
   <div style="text-align: justify;">
   <em><strong>Business Problem:</strong> How can we make sense of text-based investment ideas on our website to create trading strategies and improve stock market returns?</em>
