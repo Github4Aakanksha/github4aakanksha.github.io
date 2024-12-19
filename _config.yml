@@ -2,7 +2,7 @@ title: "<span style='color:#ad3d50  ;font-family: \"La Gagliane\", sans-serif;  
 
 # Description section with timeline-like experience format
 description: > 
-  <div style="color: #dba857;"> <!-- Set the body text color -->
+  <div style="color: #222;"> <!-- Set the body text color -->
     Welcome to my portfolio page, where I share projects that blend creativity and data to solve real-world challenges. Explore my work and feel free to connect! 
     <br><br>
     <strong style="color: white; font-family: 'La Gagliane', sans-serif;">Experiences:</strong>
@@ -11,7 +11,7 @@ description: >
     
       <!-- Experience 1 -->
       <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-        <div style="background-color: #ad3d50 ; border-radius: 10px; padding: 20px; margin-bottom: 20px; width: 80%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+        <div style="background-color: #dba857 ; border-radius: 10px; padding: 20px; margin-bottom: 20px; width: 80%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
           <div style="font-size: 0.9em; color: white;">Jun 2024 - Aug 2024</div>
           <em><strong style="font-size: 1.1em; color: white ;">Data Analyst Intern - Next Step Projects</strong></em>
         </div>
