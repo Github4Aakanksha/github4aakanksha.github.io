@@ -1,8 +1,6 @@
 /* CSS equivalent for SCSS content */
 
 /* Remove @import statements since they are specific to SCSS */
-@import url('fonts');
-@import url('rouge-github');
 
 @font-face {
   font-family: 'La Gagliane';
