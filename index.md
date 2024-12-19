@@ -231,6 +231,6 @@ In this project, I conducted time series analysis using Vector Auto-regression (
 <style>
   body {
     font-family: 'Noto Sans', sans-serif;
-
+    color: white;
   }
 </style>
