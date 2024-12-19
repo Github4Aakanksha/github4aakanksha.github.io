@@ -1,6 +1,6 @@
 <h2 style="font-family: 'La Gagliane', sans-serif;">DATA SCIENCE PROJECTS</h2>
 ---
-<div style="background-color: #ad3d50 ; padding: 20px; border-radius: 8px; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+<div style="background-color:  #9c8697 ; padding: 20px; border-radius: 8px; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <h3 style='color:#ece99b ;'>SumZero Investment Thesis Driven Trading Strategy</h3>
 
   <div style="text-align: justify;">
@@ -9,7 +9,7 @@
   At SumZero, Inc., I led a team to develop a trading strategy by integrating NLP and ChatGPT with S&P 500 stock price data from Yahoo Finance. I analyzed over 1,000 investment theses from SumZero using OpenAI’s API, achieving a sentiment analysis accuracy of 95.51%. By assigning trading signals (1 for bullish, -1 for bearish, 0 for neutral) and incorporating a stop-loss mechanism, our strategy delivered strong performance metrics, including a high Profit/Max Equity ratio and a positive Sharpe Ratio. We also explored the extraction of non-GAAP metrics for further analysis.
   </div>
 
-  <div style="text-align: justify;">
+  <div style="text-align: center;">
     <img src="https://img.shields.io/badge/OpenAI_API-lightgrey?style=flat-square&logo=openai" alt="OpenAI API"/>
     <img src="https://img.shields.io/badge/Stop_Loss_Mechanism-lightgrey?style=flat-square" alt="Stop Loss Mechanism"/>
     <img src="https://img.shields.io/badge/Sharpe_Ratio-lightgrey?style=flat-square" alt="Sharpe Ratio"/>
@@ -42,34 +42,37 @@
 </div>
 
 ---
+<div style="background-color: #86919c ; padding: 20px; border-radius: 8px; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <h3 style='color:#ad3d50;'>Seismic Insights: Real-Time Earthquake Tracking with Google Cloud</h3>
 
-<h3 style='color:#ad3d50;'>Seismic Insights: Real-Time Earthquake Tracking with Google Cloud</h3>
-
-<div style="text-align: justify;">
-<em><strong>Business Problem:</strong> How can we automate real-time earthquake tracking and present the updates in a simple, user-friendly way for everyone?</em>
-<br><br>
-I developed a solution to automate the collection and organization of real-time earthquake data from the Southern California Earthquake Data Center (SCEDC) using Google Cloud. I created a Python-based Google Cloud Function that retrieves critical earthquake details—magnitude, location, depth, and timestamp—and updates a Google Sheet in real time, ensuring seamless data synchronization without manual intervention. To make the process even more user-friendly, I built an optional Flask app that provides a simple interface to trigger updates and visualize the data. By integrating tools like gspread and oauth2client, this scalable, cloud-powered project makes tracking seismic activity accessible for both technical users and the general public.
-</div>
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-lightgrey?style=flat-square&logo=google-cloud)
-![Flask](https://img.shields.io/badge/Flask-lightgrey?style=flat-square&logo=flask)
-![Python](https://img.shields.io/badge/Python-lightgrey?style=flat-square&logo=python)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-lightgrey?style=flat-square&logo=googlesheets)
-
-<a href="https://github.com/Github4Aakanksha/ML/blob/main/Earthquake%20Webscarping%20-%20Google%20Sheets.ipynb" style="color:#538bb0;">View project on GitHub</a>
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
-  <div style="width: 35%; padding-right: 10px;">
-    <p><strong>Figure 1:</strong> SCEDC Earthquake Map</p>
-    <img src="images/Earthquake Map From SCEDC.gif" alt="SCEDC Earthquake Map" style="width: 100%; height: auto;"/>
+  <div style="text-align: justify;">
+  <em><strong>Business Problem:</strong> How can we automate real-time earthquake tracking and present the updates in a simple, user-friendly way for everyone?</em>
+  <br><br>
+  I developed a solution to automate the collection and organization of real-time earthquake data from the Southern California Earthquake Data Center (SCEDC) using Google Cloud. I created a Python-based Google Cloud Function that retrieves critical earthquake details—magnitude, location, depth, and timestamp—and updates a Google Sheet in real time, ensuring seamless data synchronization without manual intervention. To make the process even more user-friendly, I built an optional Flask app that provides a simple interface to trigger updates and visualize the data. By integrating tools like gspread and oauth2client, this scalable, cloud-powered project makes tracking seismic activity accessible for both technical users and the general public.
   </div>
-  <div style="width: 60%; padding-right: 10px;">
-    <p><strong>Figure 2:</strong> Earthquake Table SCEDC</p>
-    <img src="images/Earthquake Table SCEDC.png" alt="Earthquake Table SCEDC" style="width: 100%; height: auto;"/>
+
+  <div style="text-align: center;">
+    <img src="https://img.shields.io/badge/Google_Cloud-lightgrey?style=flat-square&logo=google-cloud" alt="Google Cloud"/>
+    <img src="https://img.shields.io/badge/Flask-lightgrey?style=flat-square&logo=flask" alt="Flask"/>
+    <img src="https://img.shields.io/badge/Python-lightgrey?style=flat-square&logo=python" alt="Python"/>
+    <img src="https://img.shields.io/badge/Google%20Sheets-lightgrey?style=flat-square&logo=googlesheets" alt="Google Sheets"/>
   </div>
-  <div style="width: 100%; padding-right: 10px;">
-    <p><strong>Figure 3:</strong> Updated Google Sheets</p>
-    <img src="images/CC Final.png" alt="Updated Google Sheets" style="width: 100%; height: auto;"/>
+
+  <a href="https://github.com/Github4Aakanksha/ML/blob/main/Earthquake%20Webscarping%20-%20Google%20Sheets.ipynb" style="color:#538bb0;">View project on GitHub</a>
+
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
+    <div style="width: 35%; padding-right: 10px;">
+      <p><strong>Figure 1:</strong> SCEDC Earthquake Map</p>
+      <img src="images/Earthquake Map From SCEDC.gif" alt="SCEDC Earthquake Map" style="width: 100%; height: auto;"/>
+    </div>
+    <div style="width: 60%; padding-right: 10px;">
+      <p><strong>Figure 2:</strong> Earthquake Table SCEDC</p>
+      <img src="images/Earthquake Table SCEDC.png" alt="Earthquake Table SCEDC" style="width: 100%; height: auto;"/>
+    </div>
+    <div style="width: 100%; padding-right: 10px;">
+      <p><strong>Figure 3:</strong> Updated Google Sheets</p>
+      <img src="images/CC Final.png" alt="Updated Google Sheets" style="width: 100%; height: auto;"/>
+    </div>
   </div>
 </div>
 
