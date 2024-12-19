@@ -1,7 +1,5 @@
 ## DATA SCIENCE PROJECTS
 
-<span style='color:#ad3d50  ;font-family: \"La Gagliane\", sans-serif;  ''>DATA SCIENCE PROJECTS</span>
-
 ---
 ### SumZero Investment Thesis Driven Trading Strategy
 
@@ -233,5 +231,9 @@ In this project, I conducted time series analysis using Vector Auto-regression (
 <style>
   body {
     font-family: 'Noto Sans', sans-serif;
+  }
+  /* Font style for headings */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: \"La Gagliane\", sans-serif;
   }
 </style>
