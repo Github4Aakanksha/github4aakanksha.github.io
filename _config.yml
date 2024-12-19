@@ -2,7 +2,7 @@ title: "<span style='color:#ad3d50  ;font-family: \"La Gagliane\", sans-serif;  
 
 # Description section with timeline-like experience format
 description: > 
-  <div style="color: white;"> <!-- Set the body text color -->
+  <div style="color: #222;"> <!-- Set the body text color -->
     Welcome to my portfolio page, where I share projects that blend creativity and data to solve real-world challenges. Explore my work and feel free to connect! 
     <br><br>
     <strong style="color: #ece99b ;">WORK EXPERIENCE</strong>
@@ -46,12 +46,12 @@ description: >
         
     </div>
 
-    <a href="https://www.linkedin.com/in/aakanksha-dutta/" target="_blank" style="color:white ;">
+    <a href="https://www.linkedin.com/in/aakanksha-dutta/" target="_blank" style="color:#ece99b ;">
       <img src="images/LinkedIn_icon.svg.png" alt="LinkedIn" style="width:50px;height:40px;margin-right:5px;">
       View My LinkedIn
     </a>
     <br><br>
-    <a href="https://medium.com/@aakanksha.dutta4" target="_blank" style="color:white ;">
+    <a href="https://medium.com/@aakanksha.dutta4" target="_blank" style="color:#ece99b ;">
       <img src="images/1712115722819.jpeg" alt="Medium" style="width:60px;height:50px;margin-right:5px;">
       Visit My Medium
     </a>
