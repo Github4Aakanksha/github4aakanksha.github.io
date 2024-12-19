@@ -10,6 +10,12 @@ description: >
     <div style="position: relative; max-width: 800px; margin: 0 auto; padding: 10px 0;"> <!-- Reduced padding -->
     
       <!-- Experience 1 -->
+      <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+        <div style="background-color: #2d2d2d; border-radius: 10px; padding: 20px; margin-bottom: 20px; width: 45%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+          <div style="font-size: 0.9em; color: #ad3d50; font-family: 'La Gagliane', sans-serif;">Jun 2024 - Aug 2024</div>
+          <strong style="font-size: 1.1em; color: white;">Data Analyst Intern - Next Step Projects</strong>
+        </div>
+  
       <div style="padding: 10px 0; position: relative;"> <!-- Reduced padding -->
         <div style="font-weight: bold; color: #ad3d50 ;font-family: \"La Gagliane\", sans-serif; float: left;  width: 30%; text-align: right; padding-right: 15px; font-size: 0.9em;"> <!-- Increased width and reduced font size -->
           Jun 2024 - Aug 2024
