@@ -1,5 +1,11 @@
 
 @import "rouge-github";
+@font-face {
+    font-family: 'La Gagliane';
+    src: url('layouts/LaGagliane.otf') format('opentype');
+    font-weight: normal; /* Adjust if there are bold/italic versions */
+    font-style: normal; /* Adjust if there's an italic version */
+}
 
 body {
   background-color: #fff;
@@ -10,6 +16,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
+  font-family: 'La Gagliane', sans-serif;
   color: #F5F5DC;
   margin:0 0 20px;
 }
