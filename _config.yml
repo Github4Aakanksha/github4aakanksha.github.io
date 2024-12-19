@@ -5,7 +5,7 @@ description: >
   <div style="color: white;"> <!-- Set the body text color -->
     Welcome to my portfolio page, where I share projects that blend creativity and data to solve real-world challenges. Explore my work and feel free to connect! 
     <br><br>
-    <strong style="color: #222 ; font-family: 'La Gagliane', sans-serif;">Experiences:</strong>
+    <strong style="color: #222 ;">Experiences:</strong>
 
     <div style="position: relative; max-width: 800px; margin: 0 auto; padding: 10px 0;"> <!-- Reduced padding -->
     
