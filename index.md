@@ -1,4 +1,4 @@
-<h2 style="font-family: 'La Gagliane', sans-serif;">DATA SCIENCE PROJECTS</h2>
+<h2 style="font-family: 'La Gagliane', sans-serif; color: #ece99b">DATA SCIENCE PROJECTS</h2>
 ---
 <div style="background-color: #d2d6cd ; padding: 20px; border-radius: 8px; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <h3 style='color: #222 ;'>SumZero Investment Thesis Driven Trading Strategy</h3>
@@ -43,7 +43,7 @@
 
 ---
 <div style="background-color: #d2d6cd ; padding: 20px; border-radius: 8px; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <h3 style='color:#ece99b;'>Seismic Insights: Real-Time Earthquake Tracking with Google Cloud</h3>
+  <h3 style='color:#222;'>Seismic Insights: Real-Time Earthquake Tracking with Google Cloud</h3>
 
   <div style="text-align: justify;">
   <em><strong>Business Problem:</strong> How can we automate real-time earthquake tracking and present the updates in a simple, user-friendly way for everyone?</em>
