@@ -1,57 +1,57 @@
-title: "<em><span style='color:#ece99b  ;font-family: \"La Gagliane\", sans-serif;  ''>Aakanksha Dutta</span></em>"
+title: "<em><span style='color:#ad3d50  ;font-family: \"La Gagliane\", sans-serif;  ''>Aakanksha Dutta</span></em>"
 
 # Description section with timeline-like experience format
 description: > 
-  <div style="color: white;"> <!-- Set the body text color -->
+  <div style="color: #ad3d50;"> <!-- Set the body text color -->
     <em>Welcome to my portfolio page, where I share projects that blend creativity and data to solve real-world challenges. Explore my work and feel free to connect!</em> 
     <br><br>
-    <strong style="color:#ece99b ;">WORK EXPERIENCE</strong>
+    <strong style="color:#ad3d50 ;">WORK EXPERIENCE</strong>
 
     <div style="position: relative; max-width: 800px; margin: 0 auto; padding: 10px 0;"> <!-- Reduced padding -->
     
       <!-- Experience 1 -->
       <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
         <div style="background-color: #6a7362 ; border-radius: 10px; padding: 20px; margin-bottom: 20px; width: 80%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-          <div style="font-size: 0.9em; color: white;">Jun 2024 - Aug 2024</div>
-          <em><strong style="font-size: 1.1em; color: white ;">Data Analyst Intern - Next Step Projects</strong></em>
+          <div style="font-size: 0.9em; color: #ad3d50;">Jun 2024 - Aug 2024</div>
+          <em><strong style="font-size: 1.1em; color: #ad3d50 ;">Data Analyst Intern - Next Step Projects</strong></em>
         </div>
 
       <!-- Experience 2 -->
       <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
         <div style="background-color:#6a7362 ; border-radius: 10px; padding: 20px; margin-bottom: 20px; width: 80%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-          <div style="font-size: 0.9em; color: white ;">Apr 2024 - Jun 2024</div>
-          <em><strong style="font-size: 1.1em; color: white ;">Project Lead & Financial Data Analyst - Sumzero</strong></em>
+          <div style="font-size: 0.9em; color: #ad3d50 ;">Apr 2024 - Jun 2024</div>
+          <em><strong style="font-size: 1.1em; color: #ad3d50 ;">Project Lead & Financial Data Analyst - Sumzero</strong></em>
         </div>
 
       <!-- Experience 3 -->
       <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
         <div style="background-color: #6a7362 ; border-radius: 10px; padding: 20px; margin-bottom: 20px; width: 80%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-          <div style="font-size: 0.9em; color: white;">Aug 2023 - Sep 2023</div>
-          <em><strong style="font-size: 1.1em; color: white ;">Quantitative Analyst - Chapman Office</strong></em>
+          <div style="font-size: 0.9em; color: #ad3d50;">Aug 2023 - Sep 2023</div>
+          <em><strong style="font-size: 1.1em; color: #ad3d50 ;">Quantitative Analyst - Chapman Office</strong></em>
         </div>
 
       <!-- Experience 4 -->
       <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
         <div style="background-color:#6a7362; border-radius: 10px; padding: 20px; margin-bottom: 20px; width: 80%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-          <div style="font-size: 0.9em; color: white;">Jan 2023 - Aug 2023</div>
-          <em><strong style="font-size: 1.1em; color: white ;">Sales Operations Analyst - Arcserve Ltd.</strong></em>
+          <div style="font-size: 0.9em; color: #ad3d50;">Jan 2023 - Aug 2023</div>
+          <em><strong style="font-size: 1.1em; color: #ad3d50 ;">Sales Operations Analyst - Arcserve Ltd.</strong></em>
         </div>
 
       <!-- Experience 5 -->
       <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
         <div style="background-color: #6a7362 ; border-radius: 10px; padding: 20px; margin-bottom: 20px; width: 80%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-          <div style="font-size: 0.9em; color: white;">Oct 2022 - Jan 2023</div>
-          <em><strong style="font-size: 1.1em; color: white ;">Data Analyst - Teleperformance Ltd.</strong></em>
+          <div style="font-size: 0.9em; color: #ad3d50;">Oct 2022 - Jan 2023</div>
+          <em><strong style="font-size: 1.1em; color: #ad3d50 ;">Data Analyst - Teleperformance Ltd.</strong></em>
         </div>
         
     </div>
 
-    <a href="https://www.linkedin.com/in/aakanksha-dutta/" target="_blank" style="color:#ece99b ;">
+    <a href="https://www.linkedin.com/in/aakanksha-dutta/" target="_blank" style="color:#ad3d50 ;">
       <img src="images/LinkedIn_icon.svg.png" alt="LinkedIn" style="width:50px;height:40px;margin-right:5px;">
       View My LinkedIn
     </a>
     <br><br>
-    <a href="https://medium.com/@aakanksha.dutta4" target="_blank" style="color:#ece99b ;">
+    <a href="https://medium.com/@aakanksha.dutta4" target="_blank" style="color:#ad3d50 ;">
       <img src="images/1712115722819.jpeg" alt="Medium" style="width:60px;height:50px;margin-right:5px;">
       Visit My Medium
     </a>
