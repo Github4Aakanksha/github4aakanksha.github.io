@@ -1,6 +1,6 @@
-<h2 style="font-family: 'La Gagliane', sans-serif; color: #ece99b">DATA SCIENCE PROJECTS</h2>
+
 <h2 style="font-family: 'La Gagliane', sans-serif; color: #ece99b"><em>DATA SCIENCE PROJECTS</em></h2>
-<h2 style="font-family: 'La Gagliane', sans-serif; color: #ece99b"><em>Data Science Projects</em></h2>
+
 
 ---
 
