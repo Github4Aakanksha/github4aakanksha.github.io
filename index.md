@@ -1,4 +1,7 @@
 <h2 style="font-family: 'La Gagliane', sans-serif; color: #ece99b">DATA SCIENCE PROJECTS</h2>
+<em><h2 style="font-family: 'La Gagliane', sans-serif; color: #ece99b">DATA SCIENCE PROJECTS</h2></em>
+<em><h2 style="font-family: 'La Gagliane', sans-serif; color: #ece99b">Data Science Projects</h2></em>
+
 ---
 
 <div style="background-color: #d2d6cd ; padding: 20px; border-radius: 8px; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
