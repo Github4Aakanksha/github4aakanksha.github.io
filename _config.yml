@@ -7,11 +7,6 @@ description: >
     <br><br>
     <h2 style="color:#ece99b ;font-family: \"La Gagliane\", sans-serif;">WORK EXPERIENCE</h2>
 
-<!-- Toggle Button -->
-  <button id="toggleExperience" style="background-color: #ece99b; color: #213C4E; border: none; padding: 10px 20px; border-radius: 5px; font-size: 1.2em; cursor: pointer; font-family: 'La Gagliane', sans-serif;">
-    WORK EXPERIENCE
-  </button>
-
     <div style="position: relative; max-width: 800px; margin: 0 auto; padding: 10px 0;"> <!-- Reduced padding -->
     
       <!-- Experience 1 -->
@@ -67,18 +62,6 @@ description: >
       Visit My Medium
     </a>
   </div>
-
-<!-- JavaScript for toggle functionality -->
-<script>
-  document.getElementById("toggleExperience").addEventListener("click", function() {
-    const experienceSection = document.getElementById("experienceSection");
-    if (experienceSection.style.display === "none") {
-      experienceSection.style.display = "block";
-    } else {
-      experienceSection.style.display = "none";
-    }
-  });
-</script>
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
