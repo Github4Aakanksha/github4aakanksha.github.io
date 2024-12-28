@@ -68,6 +68,18 @@ description: >
     </a>
   </div>
 
+<!-- JavaScript for toggle functionality -->
+<script>
+  document.getElementById("toggleExperience").addEventListener("click", function() {
+    const experienceSection = document.getElementById("experienceSection");
+    if (experienceSection.style.display === "none") {
+      experienceSection.style.display = "block";
+    } else {
+      experienceSection.style.display = "none";
+    }
+  });
+</script>
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
