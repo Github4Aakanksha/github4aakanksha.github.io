@@ -7,6 +7,11 @@ description: >
     <br><br>
     <h2 style="color:#ece99b ;font-family: \"La Gagliane\", sans-serif;">WORK EXPERIENCE</h2>
 
+<!-- Toggle Button -->
+  <button id="toggleExperience" style="background-color: #ece99b; color: #213C4E; border: none; padding: 10px 20px; border-radius: 5px; font-size: 1.2em; cursor: pointer; font-family: 'La Gagliane', sans-serif;">
+    WORK EXPERIENCE
+  </button>
+
     <div style="position: relative; max-width: 800px; margin: 0 auto; padding: 10px 0;"> <!-- Reduced padding -->
     
       <!-- Experience 1 -->
