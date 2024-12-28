@@ -6,8 +6,6 @@ description: >
     <em>Welcome to my portfolio page, where I share projects that blend creativity and data to solve real-world challenges. Explore my work and feel free to connect!</em> 
     <br><br>
    
-    <h4 style="font-family: 'La Gagliane', sans-serif; color: #ece99b;">Work Experience</h4> <img src="images/icons8-resume-80.png" alt="Resume"> 
-
     <div style="display: flex; align-items: center;">
     <h4 style="font-family: 'La Gagliane', sans-serif; color: #ece99b; margin-right: 10px;">Work Experience</h4>
     <img src="images/icons8-job-seeker-50.png" alt="Resume" style="width: 40px; height: auto;"/>
