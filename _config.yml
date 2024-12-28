@@ -1,4 +1,4 @@
-title: "<span style='color:#4F4944; font-family: \"La Gagliane\", sans-serif;'>Aakanksha Dutta</span>"
+title: "<span style='color:#E84942; font-family: \"La Gagliane\", sans-serif;'>Aakanksha Dutta</span>"
 
 # Description section with timeline-like experience format
 description: > 
@@ -29,7 +29,7 @@ description: >
 
     <!-- Experience 3 -->
     
-      <div style="background-color: #4F4944; border-radius: 10px; padding: 20px; margin-bottom: 20px; width: 80%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+      <div style="background-color:#E84942 ; border-radius: 10px; padding: 20px; margin-bottom: 20px; width: 80%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
         <div style="font-size: 0.9em; color: #d2d6cd;"><em> Aug 2023 - Sep 2023</em> </div>
         <em><strong style="font-size: 1.1em; color: #d2d6cd;">Quantitative Analyst - Chapman Office</strong></em>
       </div>
