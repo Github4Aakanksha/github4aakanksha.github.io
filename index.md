@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/Google%20Sheets-lightgrey?style=flat-square&logo=googlesheets" alt="Google Sheets"/>
   </div>
 
-  <a href="https://github.com/Github4Aakanksha/ML/blob/main/Earthquake%20Webscarping%20-%20Google%20Sheets.ipynb" style="color: #213C4E;">View project on GitHub</a>
+  <a href="https://github.com/Github4Aakanksha/ML/blob/main/Earthquake%20Webscarping%20-%20Google%20Sheets.ipynb" style="color: #ece99b;">View project on GitHub</a>
 
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
     <div style="width: 35%; padding-right: 10px;">
@@ -98,7 +98,7 @@
     <img src="https://img.shields.io/badge/Pandas-lightgrey?style=flat-square&logo=pandas" alt="Pandas"/>
   </div>
   
-  <a href="https://github.com/Github4Aakanksha/ML/blob/main/Sectoral%20PE%20Analysis%20and%20Trading%20Strategy%20ML.ipynb" style="color:#538bb0;">View project on GitHub</a>
+  <a href="https://github.com/Github4Aakanksha/ML/blob/main/Sectoral%20PE%20Analysis%20and%20Trading%20Strategy%20ML.ipynb" style="color:#ece99b;">View project on GitHub</a>
 
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
     <div style="width: 45%; padding-right: 10px;">
@@ -129,7 +129,7 @@ At Next Step Projects,  I led the development of a Flask application that analyz
     <img src="https://img.shields.io/badge/VADER-lightgrey?style=flat-square" alt="VADER"/>
   </div>
 
-  <a href="https://github.com/your-repo-link" style="color:#538bb0;">View project on GitHub</a>
+  <a href="https://github.com/your-repo-link" style="color:#ece99b;">View project on GitHub</a>
 
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
     <div style="width: 45%; padding-right: 10px;">
@@ -159,7 +159,7 @@ In this project, I used the NY Times API to extract economic news articles and h
     <img src="https://img.shields.io/badge/Machine_Learning-lightgrey?style=flat-square" alt="Machine Learning"/>
   </div>
 
-  <a href="https://github.com/athk13/FX-Sentiment-Analysis-Trading-Strategy" style="color:#538bb0;">View project on GitHub</a>
+  <a href="https://github.com/athk13/FX-Sentiment-Analysis-Trading-Strategy" style="color:#ece99b;">View project on GitHub</a>
 
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
     <div style="width: 30%; padding-right: 10px;">
@@ -194,7 +194,7 @@ To streamline the process of gathering faculty information for research or organ
     <img src="https://img.shields.io/badge/Python-lightgrey?style=flat-square" alt="Python"/>
   </div>
 
-  <a href="https://github.com/Github4Aakanksha/ML/blob/main/Webscraping%20Assessment.ipynb" style="color:#538bb0;">View project on GitHub</a>
+  <a href="https://github.com/Github4Aakanksha/ML/blob/main/Webscraping%20Assessment.ipynb" style="color:#ece99b;">View project on GitHub</a>
 
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
     <div style="width: 45%; padding-right: 10px;">
@@ -225,7 +225,7 @@ In this project, I conducted time series analysis using Vector Auto-regression (
   </div>
   
 
-  <a href="https://github.com/Github4Aakanksha/ML/blob/main/Time%20Series%20VAR%20Forecasting.ipynb" style="color:#538bb0;">View project on GitHub</a>
+  <a href="https://github.com/Github4Aakanksha/ML/blob/main/Time%20Series%20VAR%20Forecasting.ipynb" style="color:#ece99b;">View project on GitHub</a>
 
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
     <div style="width: 45%; padding-right: 10px;">
