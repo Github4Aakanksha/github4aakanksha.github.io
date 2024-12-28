@@ -11,7 +11,7 @@ description: >
     
       <!-- Experience 1 -->
       <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-      <div style="background-color: #6a7362; border-radius: 10px; padding: 20px; margin-bottom: 20px; width: 80%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+      <div style="background-color: #213C4E; border-radius: 10px; padding: 20px; margin-bottom: 20px; width: 80%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
         <div style="font-size: 0.9em; color: #ece99b;">Jun 2024 - Aug 2024</div>
         <em><strong style="font-size: 1.1em; color:#ece99b;">Data Analyst Intern - Next Step Projects</strong></em>
       </div>
