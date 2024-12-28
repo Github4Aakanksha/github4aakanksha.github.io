@@ -63,12 +63,11 @@
   </div>
 
   <a href="https://github.com/Github4Aakanksha/ML/blob/main/Earthquake%20Webscarping%20-%20Google%20Sheets.ipynb"
-    <a href="https://github.com/Github4Aakanksha/ML/blob/main/Earthquake%20Webscarping%20-%20Google%20Sheets.ipynb" 
      style="
        display: inline-block;
        padding: 10px 20px;
-       background-color: lightgrey;
-       color: #000;
+       background-color: #213C4E;
+       color: white;
        text-decoration: none;
        border-radius: 10px; /* Curved edges */
        font-size: 0.9em;
