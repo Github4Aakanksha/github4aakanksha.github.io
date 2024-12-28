@@ -62,7 +62,18 @@
     <img src="https://img.shields.io/badge/Google%20Sheets-lightgrey?style=flat-square&logo=googlesheets" alt="Google Sheets"/>
   </div>
 
- 
+ <a href="https://github.com/Github4Aakanksha/ML/blob/main/Earthquake%20Webscarping%20-%20Google%20Sheets.ipynb"
+     style="
+       display: inline-block;
+       padding: 10px 20px;
+       background-color: #213C4E;
+       color: white;
+       text-decoration: none;
+       border-radius: 10px; /* Curved edges */
+       font-size: 0.9em;
+       font-family: Arial, sans-serif;
+       box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Optional shadow for button effect */
+     ">View project on GitHub</a>
 
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
     <div style="width: 35%; padding-right: 10px;">
@@ -78,18 +89,6 @@
       <img src="images/CC Final.png" alt="Updated Google Sheets" style="width: 100%; height: auto;"/>
     </div>
   </div>
-   <a href="https://github.com/Github4Aakanksha/ML/blob/main/Earthquake%20Webscarping%20-%20Google%20Sheets.ipynb"
-     style="
-       display: inline-block;
-       padding: 10px 20px;
-       background-color: #213C4E;
-       color: white;
-       text-decoration: none;
-       border-radius: 10px; /* Curved edges */
-       font-size: 0.9em;
-       font-family: Arial, sans-serif;
-       box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Optional shadow for button effect */
-     ">View project on GitHub</a>
 </div>
 
 ---
