@@ -8,6 +8,11 @@ description: >
    
     <h4 style="font-family: 'La Gagliane', sans-serif; color: #ece99b;">Work Experience</h4> <img src="images/icons8-resume-80.png" alt="Resume"> 
 
+    <div style="display: flex; align-items: center;">
+    <h4 style="font-family: 'La Gagliane', sans-serif; color: #ece99b; margin-right: 10px;">Work Experience</h4>
+    <img src="images/icons8-resume-80.png" alt="Resume" style="width: 40px; height: auto;"/>
+    </div>
+
     <div style="position: relative; max-width: 800px; margin: 0 auto; padding: 10px 0;"> <!-- Reduced padding -->
     
       <!-- Experience 1 -->
