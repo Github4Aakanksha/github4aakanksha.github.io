@@ -5,7 +5,7 @@
 ---
 
 <div style="background-color: #d2d6cd ; padding: 20px; border-radius: 8px; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <h3 style='color: #222 ;'>SumZero Investment Thesis Driven Trading Strategy</h3>
+  <h3 style='color: #213C4E ;'>SumZero Investment Thesis Driven Trading Strategy</h3>
 
   <div style="text-align: justify;">
   <em><strong>Business Problem:</strong> How can we make sense of text-based investment ideas on our website to create trading strategies and improve stock market returns?</em>
@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/Google%20Sheets-lightgrey?style=flat-square&logo=googlesheets" alt="Google Sheets"/>
   </div>
 
-  <a href="https://github.com/Github4Aakanksha/ML/blob/main/Earthquake%20Webscarping%20-%20Google%20Sheets.ipynb" style="color:#538bb0;">View project on GitHub</a>
+  <a href="https://github.com/Github4Aakanksha/ML/blob/main/Earthquake%20Webscarping%20-%20Google%20Sheets.ipynb" style="color: #213C4E;">View project on GitHub</a>
 
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
     <div style="width: 35%; padding-right: 10px;">
