@@ -1,11 +1,6 @@
-
-<h2 style="font-family: 'La Gagliane', sans-serif; color: #ece99b; display: inline-block; margin-right: 10px;">DATA SCIENCE PROJECTS</h2> <img src="images/icons8-science-fiction-50.png" alt="DataScience" style="display: inline-block;" />
-<img src="images/icons8-science-fiction-50 (1).png" alt="DataScience" style="display: inline-block;"/>
-
 <div style="display: flex; align-items: center;">
-    <h2 style="font-family: 'La Gagliane', sans-serif; color: #213C4E; margin-right: 10px;">DATA SCIENCE PROJECTS</h2>
+    <h2 style="font-family: 'La Gagliane', sans-serif; color: #ece99b; margin-right: 10px;">DATA SCIENCE PROJECTS</h2>
     <img src="images/icons8-science-fiction-50.png" alt="DataScience" style="width: 50px; height: auto; margin-right: 10px;"/>
-    <img src="images/icons8-science-fiction-50 (1).png" alt="DataScience" style="width: 50px; height: auto;"/>
 </div>
 
 ---
