@@ -4,7 +4,7 @@
 
 @font-face {
   font-family: 'La Gagliane';
-  src: url('layouts/LaGagliane.woff') format('woff');
+  src: url(“./LaGagliane.woff”) format('woff');
   font-weight: normal;
   font-style: normal;
 }
