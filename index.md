@@ -5,7 +5,7 @@
 ---
 
 <div style="background-color: #d2d6cd ; padding: 20px; border-radius: 8px; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <h3 style='color: #213C4E ;'>SumZero Investment Thesis Driven Trading Strategy</h3>
+  <h3 style='color: #222 ;'>SumZero Investment Thesis Driven Trading Strategy</h3>
 
   <div style="text-align: justify;">
   <em><strong>Business Problem:</strong> How can we make sense of text-based investment ideas on our website to create trading strategies and improve stock market returns?</em>
@@ -109,7 +109,17 @@
     <img src="https://img.shields.io/badge/Pandas-lightgrey?style=flat-square&logo=pandas" alt="Pandas"/>
   </div>
   
-  <a href="https://github.com/Github4Aakanksha/ML/blob/main/Sectoral%20PE%20Analysis%20and%20Trading%20Strategy%20ML.ipynb" style="color:#ece99b;">View project on GitHub</a>
+  <a href="https://github.com/Github4Aakanksha/ML/blob/main/Sectoral%20PE%20Analysis%20and%20Trading%20Strategy%20ML.ipynb" style="
+       display: inline-block;
+       padding: 10px 20px;
+       background-color: #213C4E;
+       color: white;
+       text-decoration: none;
+       border-radius: 10px; /* Curved edges */
+       font-size: 0.9em;
+       font-family: Arial, sans-serif;
+       box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Optional shadow for button effect */
+     ">View project on GitHub</a>
 
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
     <div style="width: 45%; padding-right: 10px;">
@@ -140,7 +150,17 @@ At Next Step Projects,  I led the development of a Flask application that analyz
     <img src="https://img.shields.io/badge/VADER-lightgrey?style=flat-square" alt="VADER"/>
   </div>
 
-  <a href="https://github.com/your-repo-link" style="color:#ece99b;">View project on GitHub</a>
+  <a href="https://github.com/your-repo-link" style="
+       display: inline-block;
+       padding: 10px 20px;
+       background-color: #213C4E;
+       color: white;
+       text-decoration: none;
+       border-radius: 10px; /* Curved edges */
+       font-size: 0.9em;
+       font-family: Arial, sans-serif;
+       box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Optional shadow for button effect */
+     ">View project on GitHub</a>
 
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
     <div style="width: 45%; padding-right: 10px;">
@@ -170,7 +190,17 @@ In this project, I used the NY Times API to extract economic news articles and h
     <img src="https://img.shields.io/badge/Machine_Learning-lightgrey?style=flat-square" alt="Machine Learning"/>
   </div>
 
-  <a href="https://github.com/athk13/FX-Sentiment-Analysis-Trading-Strategy" style="color:#ece99b;">View project on GitHub</a>
+  <a href="https://github.com/athk13/FX-Sentiment-Analysis-Trading-Strategy" style="
+       display: inline-block;
+       padding: 10px 20px;
+       background-color: #213C4E;
+       color: white;
+       text-decoration: none;
+       border-radius: 10px; /* Curved edges */
+       font-size: 0.9em;
+       font-family: Arial, sans-serif;
+       box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Optional shadow for button effect */
+     ">View project on GitHub</a>
 
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
     <div style="width: 30%; padding-right: 10px;">
@@ -205,7 +235,17 @@ To streamline the process of gathering faculty information for research or organ
     <img src="https://img.shields.io/badge/Python-lightgrey?style=flat-square" alt="Python"/>
   </div>
 
-  <a href="https://github.com/Github4Aakanksha/ML/blob/main/Webscraping%20Assessment.ipynb" style="color:#ece99b;">View project on GitHub</a>
+  <a href="https://github.com/Github4Aakanksha/ML/blob/main/Webscraping%20Assessment.ipynb" style="
+       display: inline-block;
+       padding: 10px 20px;
+       background-color: #213C4E;
+       color: white;
+       text-decoration: none;
+       border-radius: 10px; /* Curved edges */
+       font-size: 0.9em;
+       font-family: Arial, sans-serif;
+       box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Optional shadow for button effect */
+     ">View project on GitHub</a>
 
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
     <div style="width: 45%; padding-right: 10px;">
@@ -236,7 +276,17 @@ In this project, I conducted time series analysis using Vector Auto-regression (
   </div>
   
 
-  <a href="https://github.com/Github4Aakanksha/ML/blob/main/Time%20Series%20VAR%20Forecasting.ipynb" style="color:#ece99b;">View project on GitHub</a>
+  <a href="https://github.com/Github4Aakanksha/ML/blob/main/Time%20Series%20VAR%20Forecasting.ipynb" style="
+       display: inline-block;
+       padding: 10px 20px;
+       background-color: #213C4E;
+       color: white;
+       text-decoration: none;
+       border-radius: 10px; /* Curved edges */
+       font-size: 0.9em;
+       font-family: Arial, sans-serif;
+       box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Optional shadow for button effect */
+     ">View project on GitHub</a>
 
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
     <div style="width: 45%; padding-right: 10px;">
