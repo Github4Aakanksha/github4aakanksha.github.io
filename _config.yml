@@ -1,4 +1,4 @@
-title: "<span style='color:#404345; font-family: \"La Gagliane\", sans-serif;'>Aakanksha Dutta</span>"
+title: "<span style='color:#ece99b; font-family: \"La Gagliane\", sans-serif;'>Aakanksha Dutta</span>"
 
 # Description section with timeline-like experience format
 description: > 
@@ -13,7 +13,7 @@ description: >
     
       <!-- Experience 1 -->
       <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-      <div style="background-color: #213C4E; border-radius: 10px; padding: 20px; margin-bottom: 20px; width: 80%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+      <div style="background-color: #404345; border-radius: 10px; padding: 20px; margin-bottom: 20px; width: 80%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
         <div style="font-size: 0.9em; color: #d2d6cd;"><em>Jun 2024 - Aug 2024</em></div>
         <em> <strong style="font-size: 1.1em; color: #d2d6cd;">Data Analyst Intern - Next Step Projects</strong></em>
       </div>
