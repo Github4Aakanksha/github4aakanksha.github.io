@@ -22,25 +22,18 @@
   </div>
 
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
-    <div style="width: 30%; padding-right: 10px;">
-      <p><strong>Figure 1:</strong> Investment Timeline</p>
-      <img src="images/Timeline.png" alt="Investment Timeline" style="width: 100%; height: auto;"/>
-    </div>
     <div style="width: 30%; padding-left: 10px; padding-right: 10px;">
-      <p><strong>Figure 2:</strong> Sumzero Sentiment Accuracy</p>
+      <p><strong>Figure 1:</strong> Sumzero Sentiment Accuracy</p>
       <img src="images/Sumzero sentiment accuracy.png" alt="Sumzero Sentiment Accuracy" style="width: 100%; height: auto;"/>
     </div>
     <div style="width: 30%; padding-left: 10px;">
-      <p><strong>Figure 3:</strong> Mean Annualized Returns</p>
+      <p><strong>Figure 2:</strong> Mean Annualized Returns</p>
       <img src="images/Mean Annualized Returns.png" alt="TMean Annualized Returns" style="width: 100%; height: auto;"/>
     </div>
   </div>
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
     <div style="width: 45%; padding-left: 10px;">
-      <p><strong>Figure 4:</strong> Top Performing Stocks</p>
-      <img src="images/Top Stocks.png" alt="Top Performing Stocks" style="width: 100%; height: auto;"/>
-    </div><div style="width: 45%; padding-left: 10px;">
-      <p><strong>Figure 5:</strong> Cumulative Profit</p>
+      <p><strong>Figure 3:</strong> Cumulative Profit</p>
       <img src="images/Profit.png" alt="Cumulative Profit" style="width: 100%; height: auto;"/>
     </div>
   </div>
