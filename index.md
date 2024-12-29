@@ -30,8 +30,7 @@
       <p><strong>Figure 2:</strong> Mean Annualized Returns</p>
       <img src="images/Mean Annualized Returns.png" alt="TMean Annualized Returns" style="width: 100%; height: auto;"/>
     </div>
-    <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
-        <div style="width: 30%; padding-left: 10px;">
+    <div style="width: 30%; padding-left: 10px;">
         <p><strong>Figure 3:</strong> Cumulative Profit</p>
         <img src="images/Profit.png" alt="Cumulative Profit" style="width: 100%; height: auto;"/>
     </div>
