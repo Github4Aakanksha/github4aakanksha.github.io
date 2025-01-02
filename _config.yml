@@ -1,4 +1,4 @@
-title: "<span style='color:#ece99b; font-family: \"La Gagliane\", sans-serif;'>Aakanksha Dutta</span>"
+title: "<span style='color:#855a5c; font-family: \"La Gagliane\", sans-serif;'>Aakanksha Dutta</span>"
 
 # Description section with timeline-like experience format
 description: > 
@@ -37,7 +37,7 @@ description: >
 
     <!-- Experience 4 -->
     
-      <div style="background-color:#7f545c; border-radius: 10px; padding: 20px; margin-bottom: 20px; width: 80%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+      <div style="background-color:#855a5c; border-radius: 10px; padding: 20px; margin-bottom: 20px; width: 80%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
         <div style="font-size: 0.9em; color: white;"><em> Jan 2023 - Aug 2023</em> </div>
         <em><strong style="font-size: 1.1em; color: white;">Sales Operations Analyst - Arcserve Ltd.</strong></em>
       </div>
@@ -45,7 +45,7 @@ description: >
 
     <!-- Experience 5 -->
     
-      <div style="background-color: #7f545c; border-radius: 10px; padding: 20px; margin-bottom: 20px; width: 80%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+      <div style="background-color: #855a5c; border-radius: 10px; padding: 20px; margin-bottom: 20px; width: 80%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
         <div style="font-size: 0.9em; color: white;"><em> Oct 2022 - Jan 2023</em> </div>
         <em><strong style="font-size: 1.1em; color: white;">Data Analyst - Teleperformance Ltd.</strong></em>
       </div>
