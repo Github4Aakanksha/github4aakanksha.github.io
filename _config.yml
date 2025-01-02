@@ -14,40 +14,40 @@ description: >
       <!-- Experience 1 -->
       <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
       <div style="background-color: #7f545c; border-radius: 10px; padding: 20px; margin-bottom: 20px; width: 80%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-        <div style="font-size: 0.9em; color: #d2d6cd;"><em>Jun 2024 - Aug 2024</em></div>
-        <em> <strong style="font-size: 1.1em; color: #d2d6cd;">Data Analyst Intern - Next Step Projects</strong></em>
+        <div style="font-size: 0.9em; color: white;"><em>Jun 2024 - Aug 2024</em></div>
+        <em> <strong style="font-size: 1.1em; color: white;">Data Analyst Intern - Next Step Projects</strong></em>
       </div>
     
 
     <!-- Experience 2 -->
     
       <div style="background-color:#7f545c; border-radius: 10px; padding: 20px; margin-bottom: 20px; width: 80%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-        <div style="font-size: 0.9em; color: #d2d6cd;"><em> Apr 2024 - Jun 2024</em> </div>
-        <em><strong style="font-size: 1.1em; color:#d2d6cd;">Project Lead & Financial Data Analyst - Sumzero</strong></em>
+        <div style="font-size: 0.9em; color: white;"><em> Apr 2024 - Jun 2024</em> </div>
+        <em><strong style="font-size: 1.1em; color: white;">Project Lead & Financial Data Analyst - Sumzero</strong></em>
       </div>
    
 
     <!-- Experience 3 -->
     
       <div style="background-color:#7f545c; border-radius: 10px; padding: 20px; margin-bottom: 20px; width: 80%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-        <div style="font-size: 0.9em; color: #d2d6cd;"><em> Aug 2023 - Sep 2023</em> </div>
-        <em><strong style="font-size: 1.1em; color: #d2d6cd;">Quantitative Analyst - Chapman Office</strong></em>
+        <div style="font-size: 0.9em; color: white;"><em> Aug 2023 - Sep 2023</em> </div>
+        <em><strong style="font-size: 1.1em; color: white;">Quantitative Analyst - Chapman Office</strong></em>
       </div>
   
 
     <!-- Experience 4 -->
     
       <div style="background-color:#7f545c; border-radius: 10px; padding: 20px; margin-bottom: 20px; width: 80%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-        <div style="font-size: 0.9em; color: #d2d6cd;"><em> Jan 2023 - Aug 2023</em> </div>
-        <em><strong style="font-size: 1.1em; color: #d2d6cd;">Sales Operations Analyst - Arcserve Ltd.</strong></em>
+        <div style="font-size: 0.9em; color: white;"><em> Jan 2023 - Aug 2023</em> </div>
+        <em><strong style="font-size: 1.1em; color: white;">Sales Operations Analyst - Arcserve Ltd.</strong></em>
       </div>
     
 
     <!-- Experience 5 -->
     
       <div style="background-color: #7f545c; border-radius: 10px; padding: 20px; margin-bottom: 20px; width: 80%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-        <div style="font-size: 0.9em; color: #d2d6cd;"><em> Oct 2022 - Jan 2023</em> </div>
-        <em><strong style="font-size: 1.1em; color: #d2d6cd;">Data Analyst - Teleperformance Ltd.</strong></em>
+        <div style="font-size: 0.9em; color: white;"><em> Oct 2022 - Jan 2023</em> </div>
+        <em><strong style="font-size: 1.1em; color: white;">Data Analyst - Teleperformance Ltd.</strong></em>
       </div>
     </div>
 
