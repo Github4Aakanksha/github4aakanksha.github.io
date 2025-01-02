@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-    <h2 style="font-family: 'La Gagliane', sans-serif; color: #ece99b; margin-right: 10px;">DATA SCIENCE PROJECTS</h2>
+    <h2 style="color: #ece99b; margin-right: 10px;">DATA SCIENCE PROJECTS</h2>
     <img src="images/icons8-science-fiction-50 (1).png" alt="DataScience" style="width: 50px; height: auto; margin-right: 10px;"/>
 </div>
 
