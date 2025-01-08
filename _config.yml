@@ -6,10 +6,8 @@ description: >
     Welcome to my portfolio page, where I share projects that blend creativity and data to solve real-world challenges. Explore my work and feel free to connect! 
     <br><br>
    
-    <h3 style="color:#3f90c1;">WORK EXPERIENCE</h3>
-
     <div style="color: #222 ;font-family: Arial, sans-serif; max-width: 800px; margin: auto;">
-   <h2 style="text-align: center; color: #3f90c1;">Work Experience Timeline</h2>
+   <h3 style="text-align: center; color: #3f90c1;">WORK EXPERIENCE TIMELINE</h3>
    <div class="timeline-container">
       <div class="timeline-item left">
          <div class="timeline-content">
