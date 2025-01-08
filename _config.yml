@@ -90,19 +90,6 @@ description: >
       width: 50%;
    }
 
-   /* Small dots at connection points */
-   .timeline-item::before {
-      content: "";
-      position: absolute;
-      top: 20px;
-      left: 50%;
-      width: 10px; /* Smaller width */
-      height: 10px; /* Smaller height */
-      background: #3f90c1;
-      border-radius: 50%;
-      transform: translate(-50%, -50%);
-      z-index: 1;
-   }
 
    /* Left-side content */
    .timeline-item.left {
