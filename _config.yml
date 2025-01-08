@@ -68,8 +68,8 @@ description: >
    /* Timeline container */
    .timeline-container {
       position: relative;
-      margin: 20px 0;
-      padding: 20px 0;
+      margin: 5px 0;
+      padding: 5px 0;
    }
 
    /* Vertical dashed line */
