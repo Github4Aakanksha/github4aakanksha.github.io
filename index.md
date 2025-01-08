@@ -5,7 +5,7 @@
 
 ---
 
-<div style="background-color: #f4f4f4 ; padding: 20px; border-radius: 8px; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+<div style="background-color: #ede0d4 ; padding: 20px; border-radius: 8px; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <h3 style='color: #222 ;'>SumZero Investment Thesis Driven Trading Strategy</h3>
 
   <div style="text-align: justify;">
