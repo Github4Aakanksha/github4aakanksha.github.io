@@ -104,15 +104,15 @@ description: >
 
    
 
-   /* Adjust content positioning */
+   /* Adjust content positioning (distance of the text from the center line) */
    .timeline-item.left .timeline-content {
       text-align: right;
-      margin-right: 10px;
+      margin-right: 20px;
    }
 
    .timeline-item.right .timeline-content {
       text-align: left;
-      margin-left: 10px;
+      margin-left: 20px;
    }
 
    /* Date styling */
