@@ -8,6 +8,39 @@ description: >
    
     <h3 style="color:#3f90c1;">WORK EXPERIENCE</h3>
 
+    <div class="timeline">
+      <div class="timeline-item">
+         <div class="timeline-date">Jun 2024 - Aug 2024</div>
+         <div class="timeline-content">
+            <strong>Data Analyst Intern - Next Step Projects</strong>
+         </div>
+      </div>
+      <div class="timeline-item">
+         <div class="timeline-date">Apr 2024 - Jun 2024</div>
+         <div class="timeline-content">
+            <strong>Project Lead & Financial Data Analyst - Sumzero</strong>
+         </div>
+      </div>
+      <div class="timeline-item">
+         <div class="timeline-date">Aug 2023 - Sep 2023</div>
+         <div class="timeline-content">
+            <strong>Quantitative Analyst - Chapman Office</strong>
+         </div>
+      </div>
+      <div class="timeline-item">
+         <div class="timeline-date">Jan 2023 - Aug 2023</div>
+         <div class="timeline-content">
+            <strong>Sales Operations Analyst - Arcserve Ltd.</strong>
+         </div>
+      </div>
+      <div class="timeline-item">
+         <div class="timeline-date">Oct 2022 - Jan 2023</div>
+         <div class="timeline-content">
+            <strong>Data Analyst - Teleperformance Ltd.</strong>
+         </div>
+      </div>
+   </div>
+
     <ul style="list-style-type: none; padding: 0;">
                 <li style="margin-bottom: 10px;">
                     Jun 2024 - Aug 2024<br>
