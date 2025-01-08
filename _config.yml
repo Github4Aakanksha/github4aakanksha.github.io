@@ -130,6 +130,89 @@ description: >
    }
   </style>
 
+  <div style="font-family: Arial, sans-serif; padding: 20px; max-width: 800px; margin: auto;">
+   <h2 style="text-align: center; color: #3f90c1;">Work Experience Timeline</h2>
+   <div class="timeline-container">
+      <div class="timeline-item left">
+         <div class="timeline-date">Jun 2024 - Aug 2024</div>
+         <h3 style="margin: 0;">Data Analyst Intern</h3>
+         <p style="margin: 0;">Next Step Projects</p>
+      </div>
+
+      <div class="timeline-item right">
+         <div class="timeline-date">Apr 2024 - Jun 2024</div>
+         <h3 style="margin: 0;">Project Lead & Financial Data Analyst</h3>
+         <p style="margin: 0;">Sumzero</p>
+      </div>
+
+      <div class="timeline-item left">
+         <div class="timeline-date">Aug 2023 - Sep 2023</div>
+         <h3 style="margin: 0;">Quantitative Analyst</h3>
+         <p style="margin: 0;">Chapman Office</p>
+      </div>
+
+      <div class="timeline-item right">
+         <div class="timeline-date">Jan 2023 - Aug 2023</div>
+         <h3 style="margin: 0;">Sales Operations Analyst</h3>
+         <p style="margin: 0;">Arcserve Ltd.</p>
+      </div>
+
+      <div class="timeline-item left">
+         <div class="timeline-date">Oct 2022 - Jan 2023</div>
+         <h3 style="margin: 0;">Data Analyst</h3>
+         <p style="margin: 0;">Teleperformance Ltd.</p>
+      </div>
+   </div>
+  </div>
+
+  <style>
+   /* Timeline container */
+   .timeline-container {
+      position: relative;
+      margin: 20px 0;
+      padding: 20px 0;
+   }
+
+   /* Vertical dashed line */
+   .timeline-container::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 50%;
+      width: 0;
+      height: 100%;
+      border-left: 2px dashed #3f90c1;
+      transform: translateX(-50%);
+   }
+
+   /* Timeline item */
+   .timeline-item {
+      position: relative;
+      margin: 10px 0;
+      width: 50%;
+      font-size: 14px;
+   }
+
+   /* Left-side text */
+   .timeline-item.left {
+      text-align: right;
+      margin-right: 55%;
+   }
+
+   /* Right-side text */
+   .timeline-item.right {
+      text-align: left;
+      margin-left: 55%;
+   }
+
+   /* Date styling */
+   .timeline-date {
+      font-size: 14px;
+      font-weight: bold;
+      color: #3f90c1;
+      margin-bottom: 4px;
+   }
+  </style>
 
 
     <ul style="list-style-type: none; padding: 0;">
