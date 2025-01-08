@@ -107,12 +107,12 @@ description: >
    /* Adjust content positioning */
    .timeline-item.left .timeline-content {
       text-align: right;
-      margin-right: 20px;
+      margin-right: 10px;
    }
 
    .timeline-item.right .timeline-content {
       text-align: left;
-      margin-left: 20px;
+      margin-left: 10px;
    }
 
    /* Date styling */
