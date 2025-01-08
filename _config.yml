@@ -10,16 +10,16 @@ description: >
 
     <div style="font-family: Arial, sans-serif; padding: 20px; max-width: 800px; margin: auto;">
    <h2 style="text-align: center; color: #3f90c1;">Work Experience Timeline</h2>
-   
+   <div class="timeline-container">
       <div class="timeline-item left">
          <div class="timeline-content">
             <div class="timeline-date">Jun 2024 - Aug 2024</div>
-            <div class="timeline-box">
+            
                <h3>Data Analyst Intern</h3>
                <p>Next Step Projects</p>
             </div>
-         </div>
-      
+         
+      </div>
 
       <div class="timeline-item right">
          <div class="timeline-content">
