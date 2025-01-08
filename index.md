@@ -36,7 +36,7 @@
   </div>
 </div>
 
-
+---
 <div style="background-color: #f4f4f4 ; padding: 20px; border-radius: 8px; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <h3 style='color:#222;'>Seismic Insights: Real-Time Earthquake Tracking with Google Cloud</h3>
 
@@ -82,7 +82,7 @@
   </div>
 </div>
 
-
+---
 <div style="background-color: #f4f4f4 ; padding: 20px; border-radius: 8px; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <h3 style='color:#222;'>Sectoral PE Analysis & Trading Strategy with Machine Learning</h3>
 
@@ -124,7 +124,7 @@
   </div>
 </div>
 
-
+---
 <div style="background-color: #f4f4f4 ; padding: 20px; border-radius: 8px; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <h3 style='color: #222;'>Flask Application- Instagram Caption Analysis</h3>
 
@@ -165,7 +165,7 @@ At Next Step Projects,  I led the development of a Flask application that analyz
   </div>
 </div>
 
-
+---
 <div style="background-color: #f4f4f4 ; padding: 20px; border-radius: 8px; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <h3 style='color: #222;'>Sentiment Analysis- Forex Trading Strategy</h3>
 
@@ -210,7 +210,7 @@ In this project, I used the NY Times API to extract economic news articles and h
   </div>
 </div>
 
-
+---
 <div style="background-color: #f4f4f4 ; padding: 20px; border-radius: 8px; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <h3 style='color: #222;'>Web Scraping Project- Faculty Information from IIM Ahmedabad</h3>
 
@@ -251,7 +251,7 @@ To streamline the process of gathering faculty information for research or organ
   </div>
 </div>
 
-
+---
 <div style="background-color: #f4f4f4 ; padding: 20px; border-radius: 8px; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <h3 style='color: #222;'>Macroeconomic Time Series Analysis using VAR Models</h3>
 
