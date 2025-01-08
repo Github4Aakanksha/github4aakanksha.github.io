@@ -1,12 +1,12 @@
-title: "<h2><span style='color:#ece99b;'>Aakanksha Dutta</span></h2>"
+title: "<h2><span style='color:#222;'>Aakanksha Dutta</span></h2>"
 
 # Description section with timeline-like experience format
 description: > 
-  <div style="color: white ;"> <!-- Set the body text color -->
+  <div style="color: #222 ;"> <!-- Set the body text color -->
     <em>Welcome to my portfolio page, where I share projects that blend creativity and data to solve real-world challenges. Explore my work and feel free to connect!</em> 
     <br><br>
    
-    <h2 style="color: #ece99b;">WORK EXPERIENCE</h2>
+    <h2 style="color: #222;">WORK EXPERIENCE</h2>
     
 
     <div style="position: relative; max-width: 800px; margin: 0 auto; padding: 10px 0;"> <!-- Reduced padding -->
