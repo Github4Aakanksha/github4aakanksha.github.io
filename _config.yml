@@ -87,7 +87,7 @@ description: >
    /* Timeline item */
    .timeline-item {
       position: relative;
-      margin: 5px 0;
+      margin: 20px 0;
       width: 50%;
    }
 
@@ -105,7 +105,7 @@ description: >
    /* Content container */
    .timeline-content {
       background: #f4f4f4;
-      padding: 5px 10px; /* Reduced padding */
+      padding: 5px 5px; /* Reduced padding */
       border-radius: 6px; /* Slightly smaller rounded corners */
       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
       font-size: 14px;
@@ -127,7 +127,7 @@ description: >
       font-size: 16px;
       font-weight: bold;
       color: #3f90c1;
-      margin-bottom: 4px;
+      margin-bottom: 0;
    }
   </style>
 
