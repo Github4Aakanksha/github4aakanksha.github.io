@@ -12,7 +12,7 @@ description: >
    <h2 style="text-align: center; color: #3f90c1;">Work Experience Timeline</h2>
    <div class="timeline-container">
       <div class="timeline-item left">
-        
+         <div class="timeline-content">
             <div class="timeline-date">Jun 2024 - Aug 2024</div>
               <div class="timeline-box">
                <h3>Data Analyst Intern</h3>
