@@ -102,14 +102,7 @@ description: >
       left: 50%;
    }
 
-   /* Content container */
-   .timeline-content {
-      background: #f4f4f4;
-      padding: 5px 5px; /* Reduced padding */
-      border-radius: 6px; /* Slightly smaller rounded corners */
-      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-      font-size: 14px;
-   }
+   
 
    /* Adjust content positioning */
    .timeline-item.left .timeline-content {
