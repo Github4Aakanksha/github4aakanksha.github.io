@@ -141,6 +141,126 @@ description: >
    }
   </style>
 
+  <div style="font-family: Arial, sans-serif; padding: 20px; max-width: 800px; margin: auto;">
+   <h2 style="text-align: center; color: #3f90c1;">Work Experience Timeline</h2>
+   <div class="timeline-container">
+      <div class="timeline-item left">
+         <div class="timeline-content">
+            <div class="timeline-date">Jun 2024 - Aug 2024</div>
+            <div class="timeline-box">
+               <h3>Data Analyst Intern</h3>
+               <p>Next Step Projects</p>
+            </div>
+         </div>
+      </div>
+
+      <div class="timeline-item right">
+         <div class="timeline-content">
+            <div class="timeline-date">Apr 2024 - Jun 2024</div>
+            <div class="timeline-box">
+               <h3>Project Lead & Financial Data Analyst</h3>
+               <p>Sumzero</p>
+            </div>
+         </div>
+      </div>
+
+      <div class="timeline-item left">
+         <div class="timeline-content">
+            <div class="timeline-date">Aug 2023 - Sep 2023</div>
+            <div class="timeline-box">
+               <h3>Quantitative Analyst</h3>
+               <p>Chapman Office</p>
+            </div>
+         </div>
+      </div>
+
+      <div class="timeline-item right">
+         <div class="timeline-content">
+            <div class="timeline-date">Jan 2023 - Aug 2023</div>
+            <div class="timeline-box">
+               <h3>Sales Operations Analyst</h3>
+               <p>Arcserve Ltd.</p>
+            </div>
+         </div>
+      </div>
+
+      <div class="timeline-item left">
+         <div class="timeline-content">
+            <div class="timeline-date">Oct 2022 - Jan 2023</div>
+            <div class="timeline-box">
+               <h3>Data Analyst</h3>
+               <p>Teleperformance Ltd.</p>
+            </div>
+         </div>
+      </div>
+   </div>
+  </div>
+
+  <style>
+   /* Timeline container */
+   .timeline-container {
+      position: relative;
+      margin: 20px 0;
+      padding: 20px 0;
+   }
+
+   /* Vertical dashed line */
+   .timeline-container::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 50%;
+      width: 0;
+      height: 100%;
+      border-left: 2px dashed #3f90c1;
+      transform: translateX(-50%);
+   }
+
+   /* Timeline item */
+   .timeline-item {
+      position: relative;
+      margin: 20px 0;
+      width: 50%;
+   }
+
+   /* Left-side content */
+   .timeline-item.left {
+      left: 0;
+   }
+
+   /* Right-side content */
+   .timeline-item.right {
+      left: 50%;
+   }
+
+   /* Content container */
+   .timeline-content {
+      background: #f4f4f4;
+      padding: 10px 15px; /* Reduced padding */
+      border-radius: 6px; /* Slightly smaller rounded corners */
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      font-size: 14px;
+   }
+
+   /* Adjust content positioning */
+   .timeline-item.left .timeline-content {
+      text-align: right;
+      margin-right: 20px;
+   }
+
+   .timeline-item.right .timeline-content {
+      text-align: left;
+      margin-left: 20px;
+   }
+
+   /* Date styling */
+   .timeline-date {
+      font-size: 16px;
+      font-weight: bold;
+      color: #3f90c1;
+      margin-bottom: 8px;
+   }
+  </style>
 
 
 
