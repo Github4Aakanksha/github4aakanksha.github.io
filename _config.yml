@@ -1,4 +1,4 @@
-title: "<h3><span style='color:#b08968;'>Aakanksha Dutta</span></h3>"
+title: "<h3><span style='color:#da627d;'>Aakanksha Dutta</span></h3>"
 
 # Description section with timeline-like experience format
 description: > 
@@ -7,7 +7,7 @@ description: >
     <br><br>
    
     <div style="color: #222 ;font-family: Arial, sans-serif; max-width: 800px; margin: auto;">
-   <h3 style="text-align: center; color: #b08968;">WORK EXPERIENCE TIMELINE</h3>
+   <h3 style="text-align: center; color: #da627d;">WORK EXPERIENCE TIMELINE</h3>
    <div class="timeline-container">
       <div class="timeline-item left">
          <div class="timeline-content">
@@ -73,7 +73,7 @@ description: >
       left: 50%;
       width: 0;
       height: 100%;
-      border-left: 2px dashed #b08968;
+      border-left: 2px dashed #da627d;
       transform: translateX(-50%);
    }
 
@@ -112,18 +112,18 @@ description: >
    .timeline-date {
       font-size: 16px;
       font-weight: bold;
-      color: #b08968;
+      color: #da627d;
       margin-bottom: 0;
    }
   </style>
 
   
-    <a href="https://www.linkedin.com/in/aakanksha-dutta/" target="_blank" style="color:#b08968 ;">
+    <a href="https://www.linkedin.com/in/aakanksha-dutta/" target="_blank" style="color:#da627d ;">
       <img src="images/icons8-linkedin-50.png" alt="LinkedIn">
       View My LinkedIn
     </a>
     <br><br>
-    <a href="https://medium.com/@aakanksha.dutta4" target="_blank" style="color:#b08968 ;">
+    <a href="https://medium.com/@aakanksha.dutta4" target="_blank" style="color:#da627d ;">
       <img src="images/icons8-medium-monogram-64.png" alt="Medium">
       Visit My Medium
     </a>
