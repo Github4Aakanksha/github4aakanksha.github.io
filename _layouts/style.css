@@ -141,7 +141,7 @@ footer {
 
 /* Left column style (config.yml data) */
 .left-column {
-    flex: 0 0 40%; /* 40% of the parent container */
+    flex: 0 0 50%; /* 40% of the parent container */
     padding: 0;
     border-right: 2px solid #ddd;
 }
