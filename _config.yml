@@ -7,7 +7,40 @@ description: >
     <br><br>
    
     <h3 style="color: #213C4E;">WORK EXPERIENCE</h3>
-    
+
+    <div style="position: relative; max-width: 800px; margin: 0 auto; padding: 10px 0;">
+                <!-- Experience 1 -->
+                <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+                    <div style="background-color: #855a5c; border-radius: 10px; padding: 20px; margin-bottom: 20px; width: 80%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+                        <div style="font-size: 0.9em; color: white;"><em>Jun 2024 - Aug 2024</em></div>
+                        <em><strong style="font-size: 1.1em; color: white;">Data Analyst Intern - Next Step Projects</strong></em>
+                    </div>
+
+                    <!-- Experience 2 -->
+                    <div style="background-color:#855a5c; border-radius: 10px; padding: 20px; margin-bottom: 20px; width: 80%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+                        <div style="font-size: 0.9em; color: white;"><em>Apr 2024 - Jun 2024</em></div>
+                        <em><strong style="font-size: 1.1em; color: white;">Project Lead & Financial Data Analyst - Sumzero</strong></em>
+                    </div>
+
+                    <!-- Experience 3 -->
+                    <div style="background-color:#855a5c; border-radius: 10px; padding: 20px; margin-bottom: 20px; width: 80%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+                        <div style="font-size: 0.9em; color: white;"><em>Aug 2023 - Sep 2023</em></div>
+                        <em><strong style="font-size: 1.1em; color: white;">Quantitative Analyst - Chapman Office</strong></em>
+                    </div>
+
+                    <!-- Experience 4 -->
+                    <div style="background-color:#855a5c; border-radius: 10px; padding: 20px; margin-bottom: 20px; width: 80%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+                        <div style="font-size: 0.9em; color: white;"><em>Jan 2023 - Aug 2023</em></div>
+                        <em><strong style="font-size: 1.1em; color: white;">Sales Operations Analyst - Arcserve Ltd.</strong></em>
+                    </div>
+
+                    <!-- Experience 5 -->
+                    <div style="background-color: #855a5c; border-radius: 10px; padding: 20px; margin-bottom: 20px; width: 80%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+                        <div style="font-size: 0.9em; color: white;"><em>Oct 2022 - Jan 2023</em></div>
+                        <em><strong style="font-size: 1.1em; color: white;">Data Analyst - Teleperformance Ltd.</strong></em>
+                    </div>
+                </div>
+            </div>
 
     <div style="position: relative; max-width: 800px; margin: 0 auto; padding: 10px 0;"> <!-- Reduced padding -->
     
@@ -53,34 +86,6 @@ description: >
 
   </div>
 
-
-<div style="color: #808080;">
-  <h3 style="color: #213C4E;">WORK EXPERIENCE</h3>
-  <div style="background-color: #855a5c; border-radius: 10px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <div style="color: white;">
-      <div style="margin-bottom: 15px;">
-        <div style="font-size: 0.9em;"><em>Jun 2024 - Aug 2024</em></div>
-        <strong style="font-size: 1.1em;">Data Analyst Intern - Next Step Projects</strong>
-      </div>
-      <div style="margin-bottom: 15px;">
-        <div style="font-size: 0.9em;"><em>Apr 2024 - Jun 2024</em></div>
-        <strong style="font-size: 1.1em;">Project Lead & Financial Data Analyst - Sumzero</strong>
-      </div>
-      <div style="margin-bottom: 15px;">
-        <div style="font-size: 0.9em;"><em>Aug 2023 - Sep 2023</em></div>
-        <strong style="font-size: 1.1em;">Quantitative Analyst - Chapman Office</strong>
-      </div>
-      <div style="margin-bottom: 15px;">
-        <div style="font-size: 0.9em;"><em>Jan 2023 - Aug 2023</em></div>
-        <strong style="font-size: 1.1em;">Sales Operations Analyst - Arcserve Ltd.</strong>
-      </div>
-      <div style="margin-bottom: 15px;">
-        <div style="font-size: 0.9em;"><em>Oct 2022 - Jan 2023</em></div>
-        <strong style="font-size: 1.1em;">Data Analyst - Teleperformance Ltd.</strong>
-      </div>
-    </div>
-  </div>
-</div>
 
 
     <a href="https://www.linkedin.com/in/aakanksha-dutta/" target="_blank" style="color:#808080 ;">
