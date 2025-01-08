@@ -8,16 +8,15 @@ description: >
    
     <h3 style="color:#3f90c1;">WORK EXPERIENCE</h3>
 
-    <div style="font-family: Arial, sans-serif; padding: 20px; max-width: 800px; margin: auto;">
+    <div style= padding: 20px; max-width: 800px; margin: auto;">
    <h2 style="text-align: center; color: #3f90c1;">Work Experience Timeline</h2>
    <div class="timeline-container">
       <!-- Timeline item -->
       <div class="timeline-item">
          <div class="timeline-date">Jun 2024 - Aug 2024</div>
-         <div class="timeline-box">
             <h3>Data Analyst Intern</h3>
             <p>Next Step Projects</p>
-         </div>
+         
       </div>
 
       <!-- Timeline item -->
