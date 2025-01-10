@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center;justify-content: center;">
     <h1 style="color: white ; margin-right: 10px;">DATA SCIENCE PROJECTS</h1>
     <img src="images/icons8-science-fiction-50 (1).png" alt="DataScience" style="width: 50px; height: auto; margin-right: 10px;"/>
 </div>
