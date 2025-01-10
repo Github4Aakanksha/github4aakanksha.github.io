@@ -7,7 +7,7 @@ description: >
     <br><br>
    
     <div style="color: white ;font-family: Arial, sans-serif; max-width: 800px; margin: auto;">
-   <h3 style="text-align: center; color: white;">WORK EXPERIENCE TIMELINE</h3>
+   <h3 style="text-align: center; color: #ECE99B;">WORK EXPERIENCE TIMELINE</h3>
    <div class="timeline-container">
       <div class="timeline-item left">
          <div class="timeline-content">
@@ -112,7 +112,7 @@ description: >
    .timeline-date {
       font-size: 16px;
       font-weight: bold;
-      color: white;
+      color: #ECE99B;
       margin-bottom: 0;
    }
   </style>
