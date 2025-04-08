@@ -25,42 +25,50 @@
          
          font-weight: 400;
       }
-      
+
+      .wrapper {
+   display: flex;
+   flex-wrap: nowrap;
+   min-height: 100vh;
+   margin: 0 auto;
+   max-width: 90%;
+   box-sizing: border-box;
+}
+
+.left-column {
+   flex: 0 0 30%;
+   text-align: left;
+}
+
+.right-column {
+   flex: 0 0 60%;
+   padding: 20px;
+}
+
+@media screen and (max-width: 960px) {
    .wrapper {
-      display: flex; /* Flexbox layout */
-      flex-wrap: nowrap; /* Prevent wrapping to new lines */
-      min-height: 100vh;
-      margin: 0 auto; /* Centers the container */
-      max-width: 90%;
+      flex-direction: column;
+      flex-wrap: wrap;
+      align-items: center;
    }
 
-   .left-column {
-      flex: 0 0 30%; /* 40% width on larger screens */
-      text-align: left;
-      border-right: none; /* Divider between columns */
-      
-   }
-
-   .left-column-inner {
-    width: 50%; /* Take up half the width of the left column */
+   .left-column,
+   .right-column {
+      flex: 0 0 100%;
+      width: 100%;
+      max-width: 100%;
+      padding: 10px;
+      box-sizing: border-box;
    }
 
    .right-column {
-      flex: 0 0 60%; /* Makes the right column fill remaining space */
-      padding: 20px; /* Adds internal spacing */
+      text-align: center;
    }
-
-@media screen and (max-width: 960px) {
-    .wrapper {
-        flex-wrap: wrap; /* Allow wrapping on smaller screens */
-    }
-    .left-column,
-    .right-column {
-        flex-basis: 100%; /* Full width for both columns */
-        border-right: none; /* Remove the divider */
-    }
 }
+   
 </style>
+
+
 
 
    <!--[if lt IE 9]>
