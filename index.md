@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/badge/Google%20Sheets-3776AB?style=flat-square&logo=googlesheets" alt="Google Sheets"/>
   </div>
 
- <a href="[https://github.com/Github4Aakanksha/ML/blob/main/Earthquake%20Webscarping%20-%20Google%20Sheets.ipynb](https://github.com/Github4Aakanksha/Real-Time-Earthquake-Tracking)"
+ <a href="https://github.com/Github4Aakanksha/Real-Time-Earthquake-Tracking"
      style="
        display: inline-block;
        padding: 10px 20px;
