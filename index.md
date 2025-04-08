@@ -1,10 +1,9 @@
 <div style="display: flex; align-items: center;">
     <h1 style="color: #2774ae ; margin-right: 10px;">DATA SCIENCE PROJECTS</h1>
-    <img src="images/icons8-science-fiction-50 (1).png" alt="DataScience" style="width: 50px; height: auto; margin-right: 10px;"/>
 </div>
 
 
-<div style="background-color: #ccc ; padding: 20px; border-radius: 8px; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+<div style="background-color: #f4f4f4 ; padding: 20px; border-radius: 8px; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <h3 style='color: #222 ;'>SumZero Investment Thesis Driven Trading Strategy</h3>
 
   <div style="text-align: justify;">
