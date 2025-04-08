@@ -14,9 +14,9 @@
 
   <div style="text-align: center;">
     <img src="https://img.shields.io/badge/OpenAI_API-3776AB?style=flat-square&logo=openai" alt="OpenAI API"/>
-    <img src="https://img.shields.io/badge/Stop_Loss_Mechanism-red?style=flat-square" alt="Stop Loss Mechanism"/>
+    <img src="https://img.shields.io/badge/Stop_Loss_Mechanism-FFD100?style=flat-square" alt="Stop Loss Mechanism"/>
     <img src="https://img.shields.io/badge/Sharpe_Ratio-3776AB?style=flat-square" alt="Sharpe Ratio"/>
-    <img src="https://img.shields.io/badge/GAAP_metrics-red?style=flat-square&logo=python" alt="GAAP metrics"/>
+    <img src="https://img.shields.io/badge/GAAP_metrics-FFD100?style=flat-square&logo=python" alt="GAAP metrics"/>
   </div>
 
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
