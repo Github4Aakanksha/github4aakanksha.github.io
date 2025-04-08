@@ -1,4 +1,4 @@
-title: "<h2><span style='color:#222;'>Aakanksha Dutta</span></h2>"
+title: "<h2><span style='color:2774AE;'>Aakanksha Dutta</span></h2>"
 
 # Description section with timeline-like experience format
 description: > 
@@ -66,23 +66,30 @@ description: >
   
     <!-- Experience 2 -->
     <div style="padding: 10px 0; position: relative; border-bottom: 1px solid #ddd;">
-      <div style="font-weight: bold; color: #6e8cd4; font-size: 0.85em;">Jan 2024 - May 2024</div>
-      <div style="font-weight: bold; font-size: 1.1em;">Data Analyst and Project Mentor</div>
-      <div style="font-size: 0.9em;">UCLA Alumni Affairs</div>
+      <div style="font-weight: bold; color: #6e8cd4; font-size: 0.85em;">Apr 2024 - Jun 2024</div>
+      <div style="font-weight: bold; font-size: 1.1em;">Project Lead & Financial Data Analyst </div>
+      <div style="font-size: 0.9em;">Sumzero</div>
     </div>
 
         <!-- Experience 3 -->
     <div style="padding: 10px 0; position: relative; border-bottom: 1px solid #ddd;">
-      <div style="font-weight: bold; color: #6e8cd4; font-size: 0.85em;">Sep 2020 - Jul 2023</div>
-      <div style="font-weight: bold; font-size: 1.1em;">Data Analysis General Manager</div>
-      <div style="font-size: 0.9em;">WageIndicator Foundation Research Lab</div>
+      <div style="font-weight: bold; color: #6e8cd4; font-size: 0.85em;">Aug 2023 - Sep 2023</div>
+      <div style="font-weight: bold; font-size: 1.1em;">Quantitative Analyst </div>
+      <div style="font-size: 0.9em;">Chapman Office</div>
     </div>
   
     <!-- Experience 4 -->
     <div style="padding: 10px 0; position: relative;">
-      <div style="font-weight: bold; color: #6e8cd4; font-size: 0.85em;">May 2021 - Jul 2022</div>
-      <div style="font-weight: bold; font-size: 1.1em;">Business Development Intern</div>
-      <div style="font-size: 0.9em;">TATA Electronics Pvt. Ltd.</div>
+      <div style="font-weight: bold; color: #6e8cd4; font-size: 0.85em;">Jan 2023 - Aug 2023</div>
+      <div style="font-weight: bold; font-size: 1.1em;">Sales Operations Analyst </div>
+      <div style="font-size: 0.9em;">Arcserve Ltd.</div>
+    </div>
+
+    <!-- Experience 5 -->
+    <div style="padding: 10px 0; position: relative;">
+      <div style="font-weight: bold; color: #6e8cd4; font-size: 0.85em;">Oct 2022 - Jan 2023</div>
+      <div style="font-weight: bold; font-size: 1.1em;">Data Analyst</div>
+      <div style="font-size: 0.9em;"> Teleperformance Ltd.</div>
     </div>
 
   </div>
