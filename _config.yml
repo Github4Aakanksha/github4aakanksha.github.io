@@ -7,55 +7,6 @@ description: >
     <br><br>
    
     <div style="color: #222 ;font-family: Arial, sans-serif; max-width: 800px; margin: auto;">
-   <h3 style="text-align: center; color: #2774ae;">WORK EXPERIENCE TIMELINE</h3>
-   <div class="timeline-container">
-      <div class="timeline-item left">
-         <div class="timeline-content">
-            <div class="timeline-date">Jun 2024 - Aug 2024</div>
-              <div class="timeline-box">
-               <strong>Data Analyst Intern - Next Step Projects</strong>
-            </div>
-         </div>
-      </div>
-
-
-      <div class="timeline-item right">
-         <div class="timeline-content">
-            <div class="timeline-date">Apr 2024 - Jun 2024</div>
-            <div class="timeline-box">
-               <strong>Project Lead & Financial Data Analyst - Sumzero</strong>
-            </div>
-         </div>
-      </div>
-
-      <div class="timeline-item left">
-         <div class="timeline-content">
-            <div class="timeline-date">Aug 2023 - Sep 2023</div>
-            <div class="timeline-box">
-               <strong>Quantitative Analyst - Chapman Office</strong>
-            </div>
-         </div>
-      </div>
-
-      <div class="timeline-item right">
-         <div class="timeline-content">
-            <div class="timeline-date">Jan 2023 - Aug 2023</div>
-            <div class="timeline-box">
-               <strong>Sales Operations Analyst - Arcserve Ltd.</strong>
-            </div>
-         </div>
-      </div>
-
-      <div class="timeline-item left">
-         <div class="timeline-content">
-            <div class="timeline-date">Oct 2022 - Jan 2023</div>
-            <div class="timeline-box">
-               <strong>Data Analyst - Teleperformance Ltd.</strong>
-            </div>
-         </div>
-      </div>
-   </div>
-  </div>
 
     <!-- Experience 1 -->
     <div style="padding: 10px 0; position: relative; border-bottom: 1px solid #ddd;">
