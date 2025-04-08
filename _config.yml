@@ -54,17 +54,7 @@ description: >
       padding: 5px 0;
    }
 
-   /* Vertical dashed line */
-   .timeline-container::before {
-      content: "";
-      position: absolute;
-      top: 0;
-      left: 50%;
-      width: 0;
-      height: 100%;
-      border-left: 2px dashed #222;
-      transform: translateX(-50%);
-   }
+   
 
    /* Timeline item */
    .timeline-item {
@@ -107,12 +97,12 @@ description: >
   </style>
 
   
-    <a href="https://www.linkedin.com/in/aakanksha-dutta/" target="_blank" style="color:#222 ;">
+    <a href="https://www.linkedin.com/in/aakanksha-dutta/" target="_blank" style="color:#2774ae ;">
       <img src="images/icons8-linkedin-50.png" alt="LinkedIn">
       View My LinkedIn
     </a>
     <br><br>
-    <a href="https://medium.com/@aakanksha.dutta4" target="_blank" style="color:#222 ;">
+    <a href="https://medium.com/@aakanksha.dutta4" target="_blank" style="color:#2774ae ;">
       <img src="images/icons8-medium-monogram-64.png" alt="Medium">
       Visit My Medium
     </a>
