@@ -1,4 +1,4 @@
-title: "<h2><span style='color:2774AE;'>Aakanksha Dutta</span></h2>"
+title: "<h2><span style='color:#2774ae;'>Aakanksha Dutta</span></h2>"
 
 # Description section with timeline-like experience format
 description: > 
@@ -7,7 +7,7 @@ description: >
     <br><br>
    
     <div style="color: #222 ;font-family: Arial, sans-serif; max-width: 800px; margin: auto;">
-   <h3 style="text-align: center; color: #ECE99B;">WORK EXPERIENCE TIMELINE</h3>
+   <h3 style="text-align: center; color: #2774ae;">WORK EXPERIENCE TIMELINE</h3>
    <div class="timeline-container">
       <div class="timeline-item left">
          <div class="timeline-content">
@@ -59,35 +59,35 @@ description: >
 
     <!-- Experience 1 -->
     <div style="padding: 10px 0; position: relative; border-bottom: 1px solid #ddd;">
-      <div style="font-weight: bold; color: #6e8cd4; font-size: 0.85em;">Jun 2024 - Aug 2024</div>
+      <div style="font-weight: bold; color: #2774ae; font-size: 0.85em;">Jun 2024 - Aug 2024</div>
       <div style="font-weight: bold; font-size: 1.1em;">Data Analyst Intern</div>
       <div style="font-size: 0.9em;">Next Step Projects</div>
     </div>
   
     <!-- Experience 2 -->
     <div style="padding: 10px 0; position: relative; border-bottom: 1px solid #ddd;">
-      <div style="font-weight: bold; color: #6e8cd4; font-size: 0.85em;">Apr 2024 - Jun 2024</div>
+      <div style="font-weight: bold; color: #2774ae; font-size: 0.85em;">Apr 2024 - Jun 2024</div>
       <div style="font-weight: bold; font-size: 1.1em;">Project Lead & Financial Data Analyst </div>
       <div style="font-size: 0.9em;">Sumzero</div>
     </div>
 
         <!-- Experience 3 -->
     <div style="padding: 10px 0; position: relative; border-bottom: 1px solid #ddd;">
-      <div style="font-weight: bold; color: #6e8cd4; font-size: 0.85em;">Aug 2023 - Sep 2023</div>
+      <div style="font-weight: bold; color: #2774ae; font-size: 0.85em;">Aug 2023 - Sep 2023</div>
       <div style="font-weight: bold; font-size: 1.1em;">Quantitative Analyst </div>
       <div style="font-size: 0.9em;">Chapman Office</div>
     </div>
   
     <!-- Experience 4 -->
     <div style="padding: 10px 0; position: relative;">
-      <div style="font-weight: bold; color: #6e8cd4; font-size: 0.85em;">Jan 2023 - Aug 2023</div>
+      <div style="font-weight: bold; color: #2774ae; font-size: 0.85em;">Jan 2023 - Aug 2023</div>
       <div style="font-weight: bold; font-size: 1.1em;">Sales Operations Analyst </div>
       <div style="font-size: 0.9em;">Arcserve Ltd.</div>
     </div>
 
     <!-- Experience 5 -->
     <div style="padding: 10px 0; position: relative;">
-      <div style="font-weight: bold; color: #6e8cd4; font-size: 0.85em;">Oct 2022 - Jan 2023</div>
+      <div style="font-weight: bold; color: #2774ae; font-size: 0.85em;">Oct 2022 - Jan 2023</div>
       <div style="font-weight: bold; font-size: 1.1em;">Data Analyst</div>
       <div style="font-size: 0.9em;"> Teleperformance Ltd.</div>
     </div>
