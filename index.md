@@ -14,9 +14,9 @@
 
   <div style="text-align: center;">
     <img src="https://img.shields.io/badge/OpenAI_API-3776AB?style=flat-square&logo=openai" alt="OpenAI API"/>
-    <img src="https://img.shields.io/badge/Stop_Loss_Mechanism-2774ae?style=flat-square" alt="Stop Loss Mechanism"/>
-    <img src="https://img.shields.io/badge/Sharpe_Ratio-005587?style=flat-square" alt="Sharpe Ratio"/>
-    <img src="https://img.shields.io/badge/GAAP_metrics-lightgrey?style=flat-square&logo=python" alt="GAAP metrics"/>
+    <img src="https://img.shields.io/badge/Stop_Loss_Mechanism-3776AB?style=flat-square" alt="Stop Loss Mechanism"/>
+    <img src="https://img.shields.io/badge/Sharpe_Ratio-3776AB?style=flat-square" alt="Sharpe Ratio"/>
+    <img src="https://img.shields.io/badge/GAAP_metrics-3776AB?style=flat-square&logo=python" alt="GAAP metrics"/>
   </div>
 
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: nowrap;">
@@ -46,10 +46,10 @@
   </div>
 
   <div style="text-align: center;">
-    <img src="https://img.shields.io/badge/Google_Cloud-lightgrey?style=flat-square&logo=google-cloud" alt="Google Cloud"/>
-    <img src="https://img.shields.io/badge/Flask-lightgrey?style=flat-square&logo=flask" alt="Flask"/>
-    <img src="https://img.shields.io/badge/Python-lightgrey?style=flat-square&logo=python" alt="Python"/>
-    <img src="https://img.shields.io/badge/Google%20Sheets-lightgrey?style=flat-square&logo=googlesheets" alt="Google Sheets"/>
+    <img src="https://img.shields.io/badge/Google_Cloud-3776AB?style=flat-square&logo=google-cloud" alt="Google Cloud"/>
+    <img src="https://img.shields.io/badge/Flask-3776AB?style=flat-square&logo=flask" alt="Flask"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" alt="Python"/>
+    <img src="https://img.shields.io/badge/Google%20Sheets-3776AB?style=flat-square&logo=googlesheets" alt="Google Sheets"/>
   </div>
 
  <a href="https://github.com/Github4Aakanksha/ML/blob/main/Earthquake%20Webscarping%20-%20Google%20Sheets.ipynb"
@@ -92,11 +92,11 @@
   </div>
   
   <div style="text-align: center;">
-    <img src="https://img.shields.io/badge/Machine_Learning-lightgrey?style=flat-square" alt="Machine Learning"/>
-    <img src="https://img.shields.io/badge/Data_Analysis-lightgrey?style=flat-square" alt="Data Analysis"/>
-    <img src="https://img.shields.io/badge/Financial_Modeling-lightgrey?style=flat-square" alt="Financial Modeling"/>
-    <img src="https://img.shields.io/badge/Python-lightgrey?style=flat-square&logo=python" alt="Python"/>
-    <img src="https://img.shields.io/badge/Pandas-lightgrey?style=flat-square&logo=pandas" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/Machine_Learning-3776AB?style=flat-square" alt="Machine Learning"/>
+    <img src="https://img.shields.io/badge/Data_Analysis-3776AB?style=flat-square" alt="Data Analysis"/>
+    <img src="https://img.shields.io/badge/Financial_Modeling-3776AB?style=flat-square" alt="Financial Modeling"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" alt="Python"/>
+    <img src="https://img.shields.io/badge/Pandas-3776AB?style=flat-square&logo=pandas" alt="Pandas"/>
   </div>
   
   <a href="https://github.com/Github4Aakanksha/ML/blob/main/Sectoral%20PE%20Analysis%20and%20Trading%20Strategy%20ML.ipynb" style="
@@ -134,10 +134,10 @@ At Next Step Projects,  I led the development of a Flask application that analyz
   </div>
 
 <div style="text-align: center;">
-    <img src="https://img.shields.io/badge/Google_Cloud-lightgrey?style=flat-square&logo=google-cloud" alt="Google Cloud"/>
-    <img src="https://img.shields.io/badge/Flask-lightgrey?style=flat-square&logo=flask" alt="Flask"/>
-    <img src="https://img.shields.io/badge/Instaloader-lightgrey?style=flat-square" alt="Instaloader"/>
-    <img src="https://img.shields.io/badge/VADER-lightgrey?style=flat-square" alt="VADER"/>
+    <img src="https://img.shields.io/badge/Google_Cloud-3776AB?style=flat-square&logo=google-cloud" alt="Google Cloud"/>
+    <img src="https://img.shields.io/badge/Flask-3776AB?style=flat-square&logo=flask" alt="Flask"/>
+    <img src="https://img.shields.io/badge/Instaloader-3776AB?style=flat-square" alt="Instaloader"/>
+    <img src="https://img.shields.io/badge/VADER-3776AB?style=flat-square" alt="VADER"/>
   </div>
 
   <a href="https://github.com/your-repo-link" style="
@@ -175,10 +175,10 @@ In this project, I used the NY Times API to extract economic news articles and h
   </div>
 
 <div style="text-align: center;">
-    <img src="https://img.shields.io/badge/Regex-lightgrey?style=flat-square" alt="Regex"/>
-    <img src="https://img.shields.io/badge/TextBlob-lightgrey?style=flat-squarek" alt="TextBlob"/>
-    <img src="https://img.shields.io/badge/NLP-lightgrey?style=flat-square" alt="NLP"/>
-    <img src="https://img.shields.io/badge/Machine_Learning-lightgrey?style=flat-square" alt="Machine Learning"/>
+    <img src="https://img.shields.io/badge/Regex-3776AB?style=flat-square" alt="Regex"/>
+    <img src="https://img.shields.io/badge/TextBlob-3776AB?style=flat-squarek" alt="TextBlob"/>
+    <img src="https://img.shields.io/badge/NLP-3776AB?style=flat-square" alt="NLP"/>
+    <img src="https://img.shields.io/badge/Machine_Learning-3776AB?style=flat-square" alt="Machine Learning"/>
   </div>
 
   <a href="https://github.com/athk13/FX-Sentiment-Analysis-Trading-Strategy" style="
@@ -220,10 +220,10 @@ To streamline the process of gathering faculty information for research or organ
   </div>
 
 <div style="text-align: center;">
-    <img src="https://img.shields.io/badge/Regex-lightgrey?style=flat-square" alt="Regex"/>
-    <img src="https://img.shields.io/badge/Regex-lightgrey?style=flat-square" alt="Selenium"/>
-    <img src="https://img.shields.io/badge/BeautifulSoup-lightgrey?style=flat-square" alt="BeautifulSoup"/>
-    <img src="https://img.shields.io/badge/Python-lightgrey?style=flat-square" alt="Python"/>
+    <img src="https://img.shields.io/badge/Regex-3776AB?style=flat-square" alt="Regex"/>
+    <img src="https://img.shields.io/badge/Regex-3776AB?style=flat-square" alt="Selenium"/>
+    <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square" alt="BeautifulSoup"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python"/>
   </div>
 
   <a href="https://github.com/Github4Aakanksha/ML/blob/main/Webscraping%20Assessment.ipynb" style="
@@ -261,10 +261,10 @@ In this project, I conducted time series analysis using Vector Auto-regression (
   </div>
 
 <div style="text-align: center;">
-    <img src="https://img.shields.io/badge/VAR_Models-lightgrey?style=flat-square" alt="VAR Models"/>
-    <img src="https://img.shields.io/badge/Granger_Causality_Test-lightgrey?style=flat-square" alt="Granger Causality Test"/>
-    <img src="https://img.shields.io/badge/PACF_Plots-lightgrey?style=flat-square" alt="PACF Plots"/>
-    <img src="https://img.shields.io/badge/Factor_Error_Variance_Decomposition-lightgrey?style=flat-square" alt="Factor Error Variance Decomposition"/>
+    <img src="https://img.shields.io/badge/VAR_Models-3776AB?style=flat-square" alt="VAR Models"/>
+    <img src="https://img.shields.io/badge/Granger_Causality_Test-3776AB?style=flat-square" alt="Granger Causality Test"/>
+    <img src="https://img.shields.io/badge/PACF_Plots-3776AB?style=flat-square" alt="PACF Plots"/>
+    <img src="https://img.shields.io/badge/Factor_Error_Variance_Decomposition-3776AB?style=flat-square" alt="Factor Error Variance Decomposition"/>
   </div>
   
 
