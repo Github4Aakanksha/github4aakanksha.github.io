@@ -1,10 +1,10 @@
 <div style="display: flex; align-items: center;">
-    <h1 style="color: white ; margin-right: 10px;">DATA SCIENCE PROJECTS</h1>
+    <h1 style="color: #2774ae ; margin-right: 10px;">DATA SCIENCE PROJECTS</h1>
     <img src="images/icons8-science-fiction-50 (1).png" alt="DataScience" style="width: 50px; height: auto; margin-right: 10px;"/>
 </div>
 
 
-<div style="background-color: #f4f4f4 ; padding: 20px; border-radius: 8px; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+<div style="background-color: #ccc ; padding: 20px; border-radius: 8px; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <h3 style='color: #222 ;'>SumZero Investment Thesis Driven Trading Strategy</h3>
 
   <div style="text-align: justify;">
@@ -57,7 +57,7 @@
      style="
        display: inline-block;
        padding: 10px 20px;
-       background-color: #213C4E;
+       background-color:#003B5C;
        color: white;
        text-decoration: none;
        border-radius: 10px; /* Curved edges */
@@ -103,7 +103,7 @@
   <a href="https://github.com/Github4Aakanksha/ML/blob/main/Sectoral%20PE%20Analysis%20and%20Trading%20Strategy%20ML.ipynb" style="
        display: inline-block;
        padding: 10px 20px;
-       background-color: #213C4E;
+       background-color:#003B5C;
        color: white;
        text-decoration: none;
        border-radius: 10px; /* Curved edges */
@@ -144,7 +144,7 @@ At Next Step Projects,  I led the development of a Flask application that analyz
   <a href="https://github.com/your-repo-link" style="
        display: inline-block;
        padding: 10px 20px;
-       background-color: #213C4E;
+       background-color:#003B5C;
        color: white;
        text-decoration: none;
        border-radius: 10px; /* Curved edges */
@@ -185,7 +185,7 @@ In this project, I used the NY Times API to extract economic news articles and h
   <a href="https://github.com/athk13/FX-Sentiment-Analysis-Trading-Strategy" style="
        display: inline-block;
        padding: 10px 20px;
-       background-color: #213C4E;
+       background-color:#003B5C;
        color: white;
        text-decoration: none;
        border-radius: 10px; /* Curved edges */
@@ -230,7 +230,7 @@ To streamline the process of gathering faculty information for research or organ
   <a href="https://github.com/Github4Aakanksha/ML/blob/main/Webscraping%20Assessment.ipynb" style="
        display: inline-block;
        padding: 10px 20px;
-       background-color: #213C4E;
+       background-color:#003B5C;
        color: white;
        text-decoration: none;
        border-radius: 10px; /* Curved edges */
@@ -272,7 +272,7 @@ In this project, I conducted time series analysis using Vector Auto-regression (
   <a href="https://github.com/Github4Aakanksha/ML/blob/main/Time%20Series%20VAR%20Forecasting.ipynb" style="
        display: inline-block;
        padding: 10px 20px;
-       background-color: #213C4E;
+       background-color:#003B5C;
        color: white;
        text-decoration: none;
        border-radius: 10px; /* Curved edges */
