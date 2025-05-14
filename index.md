@@ -94,11 +94,12 @@ The analysis combined 280K+ corporate records with macroeconomic indicators to i
   </div>
 
   <div style="text-align: center;">
-    <img src="https://img.shields.io/badge/Google_Cloud-a77dbd?style=flat-square&logo=google-cloud" alt="Google Cloud"/>
-    <img src="https://img.shields.io/badge/Flask-3776AB?style=flat-square&logo=flask" alt="Flask"/>
-    <img src="https://img.shields.io/badge/Python-a77dbd?style=flat-square&logo=python" alt="Python"/>
-    <img src="https://img.shields.io/badge/Google%20Sheets-3776AB?style=flat-square&logo=googlesheets" alt="Google Sheets"/>
-  </div>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" title="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" title="Flask"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python"/>
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google Sheets" title="Google Sheets"/>
+</div>
+
 
  <a href="https://github.com/Github4Aakanksha/Real-Time-Earthquake-Tracking"
      style="
@@ -139,12 +140,12 @@ The analysis combined 280K+ corporate records with macroeconomic indicators to i
   </div>
   
   <div style="text-align: center;">
-    <img src="https://img.shields.io/badge/Machine_Learning-3776AB?style=flat-square" alt="Machine Learning"/>
-    <img src="https://img.shields.io/badge/Data_Analysis-a77dbd?style=flat-square" alt="Data Analysis"/>
-    <img src="https://img.shields.io/badge/Financial_Modeling-3776AB?style=flat-square" alt="Financial Modeling"/>
-    <img src="https://img.shields.io/badge/Python-a77dbd?style=flat-square&logo=python" alt="Python"/>
-    <img src="https://img.shields.io/badge/Pandas-3776AB?style=flat-square&logo=pandas" alt="Pandas"/>
-  </div>
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=expertai&logoColor=white" alt="Machine Learning" title="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-4CAF50?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Analysis" title="Data Analysis"/>
+  <img src="https://img.shields.io/badge/Financial_Modeling-0A66C2?style=for-the-badge&logo=leetcode&logoColor=white" alt="Financial Modeling" title="Financial Modeling"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" title="Pandas"/>
+</div>
   
   <a href="https://github.com/Github4Aakanksha/ML/blob/main/Sectoral%20PE%20Analysis%20and%20Trading%20Strategy%20ML.ipynb" style="
        display: inline-block;
@@ -180,11 +181,12 @@ At Next Step Projects,  I led the development of a Flask application that analyz
   </div>
 
 <div style="text-align: center;">
-    <img src="https://img.shields.io/badge/Google_Cloud-a77dbd?style=flat-square&logo=google-cloud" alt="Google Cloud"/>
-    <img src="https://img.shields.io/badge/Flask-3776AB?style=flat-square&logo=flask" alt="Flask"/>
-    <img src="https://img.shields.io/badge/Instaloader-a77dbd?style=flat-square" alt="Instaloader"/>
-    <img src="https://img.shields.io/badge/VADER-3776AB?style=flat-square" alt="VADER"/>
-  </div>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" title="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" title="Flask"/>
+  <img src="https://img.shields.io/badge/Instaloader-8A3AB9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instaloader" title="Instaloader"/>
+  <img src="https://img.shields.io/badge/VADER_Analysis-4CAF50?style=for-the-badge&logo=codeforces&logoColor=white" alt="VADER Sentiment" title="VADER Sentiment Analysis"/>
+</div>
+
 
   <a href="https://github.com/your-repo-link" style="
        display: inline-block;
@@ -220,11 +222,11 @@ In this project, I used the NY Times API to extract economic news articles and h
   </div>
 
 <div style="text-align: center;">
-    <img src="https://img.shields.io/badge/Regex-3776AB?style=flat-square" alt="Regex"/>
-    <img src="https://img.shields.io/badge/TextBlob-a77dbd?style=flat-squarek" alt="TextBlob"/>
-    <img src="https://img.shields.io/badge/NLP-3776AB?style=flat-square" alt="NLP"/>
-    <img src="https://img.shields.io/badge/Machine_Learning-a77dbd?style=flat-square" alt="Machine Learning"/>
-  </div>
+  <img src="https://img.shields.io/badge/Regex-FF9800?style=for-the-badge&logo=git&logoColor=white" alt="Regex" title="Regex"/>
+  <img src="https://img.shields.io/badge/TextBlob-9C27B0?style=for-the-badge&logo=python&logoColor=white" alt="TextBlob" title="TextBlob"/>
+  <img src="https://img.shields.io/badge/NLP-3F51B5?style=for-the-badge&logo=openai&logoColor=white" alt="Natural Language Processing" title="Natural Language Processing"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-4CAF50?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" title="Machine Learning"/>
+</div>
 
   <a href="https://github.com/athk13/FX-Sentiment-Analysis-Trading-Strategy" style="
        display: inline-block;
@@ -264,11 +266,11 @@ To streamline the process of gathering faculty information for research or organ
   </div>
 
 <div style="text-align: center;">
-    <img src="https://img.shields.io/badge/Regex-a77dbd?style=flat-square" alt="Regex"/>
-    <img src="https://img.shields.io/badge/Selenium-3776AB?style=flat-square" alt="Selenium"/>
-    <img src="https://img.shields.io/badge/BeautifulSoup-a77dbd?style=flat-square" alt="BeautifulSoup"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python"/>
-  </div>
+  <img src="https://img.shields.io/badge/Regex-FF5722?style=for-the-badge&logo=git&logoColor=white" alt="Regex" title="Regex"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" title="Selenium"/>
+  <img src="https://img.shields.io/badge/BeautifulSoup-964B00?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup" title="BeautifulSoup"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python"/>
+</div>
 
   <a href="https://github.com/Github4Aakanksha/ML/blob/main/Webscraping%20Assessment.ipynb" style="
        display: inline-block;
@@ -304,11 +306,12 @@ In this project, I conducted time series analysis using Vector Auto-regression (
   </div>
 
 <div style="text-align: center;">
-    <img src="https://img.shields.io/badge/VAR_Models-3776AB?style=flat-square" alt="VAR Models"/>
-    <img src="https://img.shields.io/badge/Granger_Causality_Test-a77dbd?style=flat-square" alt="Granger Causality Test"/>
-    <img src="https://img.shields.io/badge/PACF_Plots-3776AB?style=flat-square" alt="PACF Plots"/>
-    <img src="https://img.shields.io/badge/Factor_Error_Variance_Decomposition-a77dbd?style=flat-square" alt="Factor Error Variance Decomposition"/>
-  </div>
+  <img src="https://img.shields.io/badge/VAR_Models-4A90E2?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="VAR Models" title="VAR Models"/>
+  <img src="https://img.shields.io/badge/Granger_Causality_Test-9C27B0?style=for-the-badge&logo=python&logoColor=white" alt="Granger Causality Test" title="Granger Causality Test"/>
+  <img src="https://img.shields.io/badge/PACF_Plots-00BCD4?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="PACF Plots" title="PACF Plots"/>
+  <img src="https://img.shields.io/badge/Factor_Error_Variance_Decomposition-F57C00?style=for-the-badge&logo=databricks&logoColor=white" alt="Factor Error Variance Decomposition" title="Factor Error Variance Decomposition"/>
+</div>
+
   
 
   <a href="https://github.com/Github4Aakanksha/ML/blob/main/Time%20Series%20VAR%20Forecasting.ipynb" style="
