@@ -27,11 +27,11 @@ The analysis combined 280K+ corporate records with macroeconomic indicators, lev
   </div>
 
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
-    <div style="width: 35%; padding-right: 10px;">
+    <div style="width: 50%; padding-right: 10px;">
       <p><strong>Figure 1:</strong> Macro Economic Indicator </p>
       <img src="images/Inflation Trend (Moving Averages).png" alt="Macro Economic Indicator" style="width: 100%; height: auto;"/>
     </div>
-    <div style="width: 60%; padding-right: 10px;">
+    <div style="width: 50%; padding-right: 10px;">
       <p><strong>Figure 2:</strong> Pre-During-Post Analysis </p>
       <img src="images/Pre-Post Table.png" alt="Pre-During-Post Analysis" style="width: 100%; height: auto;"/>
     </div>
