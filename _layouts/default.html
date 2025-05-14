@@ -71,10 +71,9 @@
 
 @media screen and (max-width: 960px) {
    .banner {
-            height: 50vw; /* Taller relative to screen on mobile */
-            max-height: 250px;
-            min-height: 120px;
-         }
+    aspect-ratio: 2/1; /* More vertical space on mobile */
+    max-height: none; /* Remove height restrictions */
+  }
    
   body {
     padding: 0; /* Ensure no padding on mobile */
