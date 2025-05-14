@@ -27,16 +27,16 @@ The analysis combined 280K+ corporate records with macroeconomic indicators, lev
 
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
     <div style="width: 35%; padding-right: 10px;">
-      <p><strong>Figure 1:</strong> SCEDC Earthquake Map</p>
-      <img src="images/Earthquake Map From SCEDC.gif" alt="SCEDC Earthquake Map" style="width: 100%; height: auto;"/>
+      <p><strong>Figure 1:</strong> Macro Economic Indicator </p>
+      <img src="images/Inflation Trend (Moving Averages).png" alt="Macro Economic Indicator" style="width: 100%; height: auto;"/>
     </div>
     <div style="width: 60%; padding-right: 10px;">
-      <p><strong>Figure 2:</strong> Earthquake Table SCEDC</p>
-      <img src="images/Earthquake Table SCEDC.png" alt="Earthquake Table SCEDC" style="width: 100%; height: auto;"/>
+      <p><strong>Figure 2:</strong> Pre-During-Post Analysis </p>
+      <img src="images/Pre-Post Table.png" alt="Pre-During-Post Analysis" style="width: 100%; height: auto;"/>
     </div>
     <div style="width: 100%; padding-right: 10px;">
-      <p><strong>Figure 3:</strong> Updated Google Sheets</p>
-      <img src="images/CC Final.png" alt="Updated Google Sheets" style="width: 100%; height: auto;"/>
+      <p><strong>Figure 3:</strong> Daily Sector Returns & Interest Rate Correlation</p>
+      <img src="images/Corr.png" alt="Daily Sector Returns & Interest Rate Correlation" style="width: 100%; height: auto;"/>
     </div>
   </div>
 </div>
