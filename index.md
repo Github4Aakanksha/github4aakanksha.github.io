@@ -34,9 +34,17 @@ The analysis combined 280K+ corporate records with macroeconomic indicators, lev
       <p><strong>Figure 2:</strong> Pre-During-Post Analysis </p>
       <img src="images/Pre-Post Table.png" alt="Pre-During-Post Analysis" style="width: 100%; height: auto;"/>
     </div>
-    <div style="width: 100%; padding-right: 10px;">
-      <p><strong>Figure 3:</strong> Daily Sector Returns & Interest Rate Correlation</p>
+    <div style="width: 30%; padding-right: 10px;">
+      <p><strong>Figure 3:</strong>Correlation: Daily Sector Returns & Interest Rate</p>
       <img src="images/Corr.png" alt="Daily Sector Returns & Interest Rate Correlation" style="width: 100%; height: auto;"/>
+    </div>
+    <div style="width: 30%; padding-right: 10px;">
+      <p><strong>Figure 4:</strong> Daily Avg Manufacturing Returns </p>
+      <img src="images/Daily Avg Manufacturing Returns.png" alt="Daily Avg Manufacturing Returns" style="width: 100%; height: auto;"/>
+    </div>
+    <div style="width: 30%; padding-right: 10px;">
+      <p><strong>Figure 5:</strong> Interest rate Vs Daily Avg Return </p>
+      <img src="images/Interest rate Vs Daily Avg Return.png" alt="Interest rate Vs Daily Avg Return" style="width: 100%; height: auto;"/>
     </div>
   </div>
 </div>
