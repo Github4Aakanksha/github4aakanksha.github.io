@@ -222,7 +222,7 @@ In this project, I used the NY Times API to extract economic news articles and h
   </div>
 
 <div style="text-align: center;">
-  <img src="https://img.shields.io/badge/Regex-FF9800?style=for-the-badge&logo=git&logoColor=white" alt="Regex" title="Regex"/>
+  <img src="https://img.shields.io/badge/Time Series Forecasting-FF9800?style=for-the-badge&logo=git&logoColor=white" alt="Time Series Forecasting" title="Time Series Forecasting"/>
   <img src="https://img.shields.io/badge/TextBlob-9C27B0?style=for-the-badge&logo=python&logoColor=white" alt="TextBlob" title="TextBlob"/>
   <img src="https://img.shields.io/badge/NLP-3F51B5?style=for-the-badge&logo=openai&logoColor=white" alt="Natural Language Processing" title="Natural Language Processing"/>
   <img src="https://img.shields.io/badge/Machine_Learning-4CAF50?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" title="Machine Learning"/>
