@@ -23,6 +23,7 @@ The analysis combined 280K+ corporate records with macroeconomic indicators, lev
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" title="Advanced SQL Analytics"/>
     <img src="https://img.shields.io/badge/Time_Series_Analysis-6f42c1?style=for-the-badge&logo=grafana&logoColor=white" alt="Time Series" title="Time Series Analysis"/>
     <img src="https://img.shields.io/badge/Data_Visualization-FF6F00?style=for-the-badge&logo=tableau&logoColor=white" alt="Data Viz" title="Data Visualization"/>
+    <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" title="Snowflake"/>
   </div>
 
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
