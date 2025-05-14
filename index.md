@@ -11,12 +11,21 @@
   For the Central Bank of Gondwana, I analyzed whether their 2023–2024 rate cuts boosted manufacturing sector returns while inadvertently harming financial firms—a critical question for future policy design. Using SQL-based time-series analysis, I evaluated the impact of Gondwana’s monetary policy across key sectors. By segmenting data into Pre-Policy, During-Policy, and Post-Policy periods, I identified:
 
 A 38% surge in manufacturing returns during the rate cuts, sustained at 6% above pre-policy levels.
+<ul style="margin: 12px 0; padding-left: 20px;">
+    <li><strong>38% surge in manufacturing returns</strong> during the rate cuts, sustained at <strong>6% above pre-policy levels</strong></li>
+    <li><strong>Declining financial sector performance</strong> due to compressed bank profit margins from lower interest rates</li>
+    <li><strong>Validated policy timing</strong> through inflation/interest rate trends using moving averages (2-week to 6-month windows)</li>
+  </ul>
 
-Declining financial sector performance, as lower interest rates compressed bank profit margins.
+  The analysis combined 280K+ corporate records with macroeconomic indicators, leveraging:
+  <ul style="margin: 12px 0; padding-left: 20px;">
+    <li>SQL window functions</li>
+    <li>Multi-table joins</li> 
+    <li>Dynamic aggregations</li>
+  </ul>
+  to isolate sector-specific effects.
+</div>
 
-Inflation and interest rate trends via moving averages (2-week to 6-month windows) to validate policy timing.
-
-The analysis combined 280K+ corporate records with macroeconomic indicators, leveraging SQL window functions, multi-table joins, and dynamic aggregations to isolate sector-specific effects.
   </div>
 
   <div style="text-align: center;">
