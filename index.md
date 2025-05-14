@@ -61,7 +61,7 @@ The analysis combined 280K+ corporate records with macroeconomic indicators to i
   </div>
 
   <div style="text-align: center;">
-  <img src="https://img.shields.io/badge/OpenAI_API-3776AB?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" title="OpenAI API"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" title="OpenAI API"/>
   <img src="https://img.shields.io/badge/Stop_Loss_Mechanism-a77dbd?style=for-the-badge&logo=datadog&logoColor=white" alt="Stop Loss Mechanism" title="Stop Loss Mechanism"/>
   <img src="https://img.shields.io/badge/Sharpe_Ratio-3776AB?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Sharpe Ratio" title="Sharpe Ratio"/>
   <img src="https://img.shields.io/badge/GAAP_Metrics-a77dbd?style=for-the-badge&logo=python&logoColor=white" alt="GAAP metrics" title="GAAP Metrics"/>
