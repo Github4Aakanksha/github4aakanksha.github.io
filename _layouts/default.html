@@ -35,7 +35,7 @@
 
       /* New Banner Styles */
       .banner {
-         width: 100%;
+         width: 100vw; /* Use viewport width to ensure full width */
          height: 40vw; /* Responsive height based on viewport width */
          max-height: 300px; /* Maximum height for larger screens */
          min-height: 150px; /* Minimum height for smaller screens */
@@ -71,9 +71,14 @@
 
 @media screen and (max-width: 960px) {
    .banner {
-    aspect-ratio: 3/1; /* More vertical space on mobile */
-    max-height: none; /* Remove height restrictions */
+    width: 100vw;
+      height: auto; /* Let height adjust naturally */
+      aspect-ratio: 3/1; /* Maintain tall ratio */
+      min-height: 0; /* Remove fixed minimum */
   }
+   .banner img {
+      object-fit: contain; /* Ensure full image is visible */
+   }
    
   body {
     padding: 0; /* Ensure no padding on mobile */
