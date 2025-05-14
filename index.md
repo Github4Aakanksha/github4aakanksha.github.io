@@ -2,6 +2,44 @@
     <h1 style="color: #2774ae ; margin-right: 10px;">DATA SCIENCE PROJECTS</h1>
 </div>
 
+<div style="background-color: #fff ; padding: 20px; border-radius: 8px; margin-bottom: 30px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <h3 style='color:#222;'>Monetary Policy Impact Analysis: SQL-Driven Sector Performance Evaluation</h3>
+<em><strong>Business Problem:</strong> How does an expansionary monetary policy (interest rate cuts) affect different economic sectors, and can we quantify its asymmetric impact?</em>
+ <br><br>
+  <div style="text-align: justify;color: #727272;">
+  
+  For the Central Bank of Gondwana, I analyzed whether their 2023–2024 rate cuts boosted manufacturing sector returns while inadvertently harming financial firms—a critical question for future policy design. Using SQL-based time-series analysis, I evaluated the impact of Gondwana’s monetary policy across key sectors. By segmenting data into Pre-Policy, During-Policy, and Post-Policy periods, I identified:
+
+A 38% surge in manufacturing returns during the rate cuts, sustained at 6% above pre-policy levels.
+
+Declining financial sector performance, as lower interest rates compressed bank profit margins.
+
+Inflation and interest rate trends via moving averages (2-week to 6-month windows) to validate policy timing.
+
+The analysis combined 280K+ corporate records with macroeconomic indicators, leveraging SQL window functions, multi-table joins, and dynamic aggregations to isolate sector-specific effects.
+  </div>
+
+  <div style="text-align: center;">
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" title="Advanced SQL Analytics"/>
+    <img src="https://img.shields.io/badge/Time_Series_Analysis-6f42c1?style=for-the-badge&logo=grafana&logoColor=white" alt="Time Series" title="Time Series Analysis"/>
+    <img src="https://img.shields.io/badge/Data_Visualization-FF6F00?style=for-the-badge&logo=tableau&logoColor=white" alt="Data Viz" title="Data Visualization"/>
+  </div>
+
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
+    <div style="width: 35%; padding-right: 10px;">
+      <p><strong>Figure 1:</strong> SCEDC Earthquake Map</p>
+      <img src="images/Earthquake Map From SCEDC.gif" alt="SCEDC Earthquake Map" style="width: 100%; height: auto;"/>
+    </div>
+    <div style="width: 60%; padding-right: 10px;">
+      <p><strong>Figure 2:</strong> Earthquake Table SCEDC</p>
+      <img src="images/Earthquake Table SCEDC.png" alt="Earthquake Table SCEDC" style="width: 100%; height: auto;"/>
+    </div>
+    <div style="width: 100%; padding-right: 10px;">
+      <p><strong>Figure 3:</strong> Updated Google Sheets</p>
+      <img src="images/CC Final.png" alt="Updated Google Sheets" style="width: 100%; height: auto;"/>
+    </div>
+  </div>
+</div>
 
 <div style="background-color: #fff ; padding: 20px; border-radius: 8px; margin-bottom: 30px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <h3 style='color: #222 ;'>SumZero Investment Thesis Driven Trading Strategy</h3>
