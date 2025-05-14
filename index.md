@@ -27,7 +27,7 @@ The analysis combined 280K+ corporate records with macroeconomic indicators, lev
   </div>
 
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
-    <div style="width: 50%; padding-right: 10px;">
+    <div style="width: 45%; padding-right: 10px;">
       <p><strong>Figure 1:</strong> Macro Economic Indicator </p>
       <img src="images/Inflation Trend (Moving Averages).png" alt="Macro Economic Indicator" style="width: 100%; height: auto;"/>
     </div>
