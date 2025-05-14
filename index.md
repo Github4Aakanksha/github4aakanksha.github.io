@@ -19,10 +19,6 @@ The analysis combined 280K+ corporate records with macroeconomic indicators to i
     <li>SQL window functions</li>
     <li>Multi-table joins</li> 
     <li>Dynamic aggregations</li>
-
-
-</div>
-
   </div>
 
   <div style="text-align: center;">
