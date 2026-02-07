@@ -15,7 +15,7 @@ Using historical delivery sequences, I implemented a hybrid framework that predi
 <li>Demonstrated that focusing on neighborhood-level delivery patterns can significantly improve routing efficiency while reducing computational and operational complexity</li>
 
 <div style="text-align: center;">
-  <img src="https://img.shields.io/badge/Last-Mile_Routing-FE7F00?style=for-the-badge&logo=delivery&logoColor=white" alt="Last-Mile Routing" title="Last-Mile Routing"/>
+  <img src="https://img.shields.io/badge/Last-Mile_Routing-4479A1?style=for-the-badge&logo=delivery&logoColor=white" alt="Last-Mile Routing" title="Last-Mile Routing"/>
   <img src="https://img.shields.io/badge/Probabilistic_Modeling-6C63FF?style=for-the-badge&logo=python&logoColor=white" alt="Probabilistic Modeling" title="Probabilistic Modeling"/>
   <img src="https://img.shields.io/badge/Spatial_Hierarchies-FF2D55?style=for-the-badge&logo=mapbox&logoColor=white" alt="Spatial Hierarchies" title="Spatial Hierarchies"/>
   <img src="https://img.shields.io/badge/Traveling_Salesman_Problem-00BFA5?style=for-the-badge&logo=graph&logoColor=white" alt="Traveling Salesman Problem" title="Traveling Salesman Problem"/>
