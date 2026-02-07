@@ -15,12 +15,35 @@ Using historical delivery sequences, I implemented a hybrid framework that predi
 <li>Demonstrated that focusing on neighborhood-level delivery patterns can significantly improve routing efficiency while reducing computational and operational complexity</li>
 
 <div style="text-align: center;">
-  <img src="https://img.shields.io/badge/Last_Mile_Routing-4479A1?style=for-the-badge&logo=delivery&logoColor=white" alt="Last-Mile Routing" title="Last-Mile Routing"/>
+  <img src="https://img.shields.io/badge/Last_Mile_Routing-4479A1?style=for-the-badge&logo=delivery&logoColor=white" alt="Last Mile Routing" title="Last-Mile Routing"/>
   <img src="https://img.shields.io/badge/Probabilistic_Modeling-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="Probabilistic Modeling" title="Probabilistic Modeling"/>
   <img src="https://img.shields.io/badge/Spatial_Hierarchies-FF2D55?style=for-the-badge&logo=mapbox&logoColor=white" alt="Spatial Hierarchies" title="Spatial Hierarchies"/>
   <img src="https://img.shields.io/badge/Traveling_Salesman_Problem-a77dbd?style=for-the-badge&logo=graph&logoColor=white" alt="Traveling Salesman Problem" title="Traveling Salesman Problem"/>
 </div>
 
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
+    <div style="width: 45%; padding-right: 10px;">
+      <p><strong>Figure 1:</strong> Model Framework from Amazon Team’s Paper </p>
+      <img src="images/Screenshot 2025-05-24 183544.png" alt="Model Framework" style="width: 100%; height: auto;"/>
+    </div>
+    <div style="width: 50%; padding-right: 10px;">
+      <p><strong>Figure 2:</strong> Pre-During-Post Analysis </p>
+      <img src="images/Pre-Post Table.png" alt="Pre-During-Post Analysis" style="width: 100%; height: auto;"/>
+    </div>
+    <div style="width: 30%; padding-right: 10px;">
+      <p><strong>Figure 3:</strong>Correlation: Daily Sector Returns & Interest Rate</p>
+      <img src="images/Corr.png" alt="Daily Sector Returns & Interest Rate Correlation" style="width: 100%; height: auto;"/>
+    </div>
+    <div style="width: 30%; padding-right: 10px;">
+      <p><strong>Figure 4:</strong> Daily Avg Manufacturing Returns </p>
+      <img src="images/Daily Avg Manufacturing Returns.png" alt="Daily Avg Manufacturing Returns" style="width: 100%; height: auto;"/>
+    </div>
+    <div style="width: 30%; padding-right: 10px;">
+      <p><strong>Figure 5:</strong> Interest rate Vs Daily Avg Return </p>
+      <img src="images/Interest rate Vs Daily Avg Return.png" alt="Interest rate Vs Daily Avg Return" style="width: 100%; height: auto;"/>
+    </div>
+  </div>
+</div>
 
 <div style="background-color: #fff ; padding: 20px; border-radius: 8px; margin-bottom: 30px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <h3 style='color:#222;'>Monetary Policy Impact Analysis: SQL-Driven Sector Performance Evaluation</h3>
