@@ -10,7 +10,18 @@
   Last-mile delivery is one of the most expensive and operationally complex challenges in logistics. This project reproduces and evaluates a top-performing solution from the Amazon Last Mile Routing Challenge, where researchers from MIT developed a data-driven approach to improve delivery route efficiency using real-world logistics data.
 
 Using historical delivery sequences, I implemented a hybrid framework that predicts delivery zone transitions using probabilistic modeling and converts those predictions into optimized delivery routes using <strong>Traveling Salesman Problem (TSP)</strong> optimization. The project demonstrates how combining machine learning with classical optimization can replicate human-like routing behavior and improve delivery planning efficiency.
-      
+
+<li>Reproduced MIT’s Amazon Last Mile Routing solution, showing that predicting the right set of delivery stops (71% accuracy) drives more value than perfecting the order of stop sequencing (10% accuracy), enabling faster and cheaper route planning</li>
+<li>Demonstrated that focusing on neighborhood-level delivery patterns can significantly improve routing efficiency while reducing computational and operational complexity</li>
+
+<div style="text-align: center;">
+  <img src="https://img.shields.io/badge/Last-Mile_Routing-FE7F00?style=for-the-badge&logo=delivery&logoColor=white" alt="Last-Mile Routing" title="Last-Mile Routing"/>
+  <img src="https://img.shields.io/badge/Probabilistic_Modeling-6C63FF?style=for-the-badge&logo=python&logoColor=white" alt="Probabilistic Modeling" title="Probabilistic Modeling"/>
+  <img src="https://img.shields.io/badge/Spatial_Hierarchies-FF2D55?style=for-the-badge&logo=mapbox&logoColor=white" alt="Spatial Hierarchies" title="Spatial Hierarchies"/>
+  <img src="https://img.shields.io/badge/Traveling_Salesman_Problem-00BFA5?style=for-the-badge&logo=graph&logoColor=white" alt="Traveling Salesman Problem" title="Traveling Salesman Problem"/>
+</div>
+
+
 <div style="background-color: #fff ; padding: 20px; border-radius: 8px; margin-bottom: 30px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <h3 style='color:#222;'>Monetary Policy Impact Analysis: SQL-Driven Sector Performance Evaluation</h3>
 <em><strong>Business Problem:</strong> How does an expansionary monetary policy (interest rate cuts) affect different economic sectors, and can we quantify its asymmetric impact?</em>
