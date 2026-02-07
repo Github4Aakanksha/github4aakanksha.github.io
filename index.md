@@ -27,20 +27,16 @@ Using historical delivery sequences, I implemented a hybrid framework that predi
       <img src="images/Screenshot 2025-05-24 183544.png" alt="Model Framework" style="width: 100%; height: auto;"/>
     </div>
     <div style="width: 50%; padding-right: 10px;">
-      <p><strong>Figure 2:</strong> Pre-During-Post Analysis </p>
-      <img src="images/Pre-Post Table.png" alt="Pre-During-Post Analysis" style="width: 100%; height: auto;"/>
+      <p><strong>Figure 2:</strong> TSP Solution Flow Diagram </p>
+      <img src="images/Screenshot 2025-06-04 024603.png" alt="TSP Solution Flow Diagram" style="width: 100%; height: auto;"/>
     </div>
     <div style="width: 30%; padding-right: 10px;">
-      <p><strong>Figure 3:</strong>Correlation: Daily Sector Returns & Interest Rate</p>
+      <p><strong>Figure 3:</strong>Route Comparison Map: Actual Vs Predicted</p>
       <img src="images/Corr.png" alt="Daily Sector Returns & Interest Rate Correlation" style="width: 100%; height: auto;"/>
     </div>
     <div style="width: 30%; padding-right: 10px;">
-      <p><strong>Figure 4:</strong> Daily Avg Manufacturing Returns </p>
+      <p><strong>Figure 4:</strong> Illustration of the Predicted Stop Route Via TSP </p>
       <img src="images/Daily Avg Manufacturing Returns.png" alt="Daily Avg Manufacturing Returns" style="width: 100%; height: auto;"/>
-    </div>
-    <div style="width: 30%; padding-right: 10px;">
-      <p><strong>Figure 5:</strong> Interest rate Vs Daily Avg Return </p>
-      <img src="images/Interest rate Vs Daily Avg Return.png" alt="Interest rate Vs Daily Avg Return" style="width: 100%; height: auto;"/>
     </div>
   </div>
 </div>
