@@ -3,6 +3,15 @@
 </div>
 
 <div style="background-color: #fff ; padding: 20px; border-radius: 8px; margin-bottom: 30px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <h3 style='color:#222;'>Reproducing MIT’s Winning Solution to the Amazon Last-Mile Routing Challenge</h3>
+<em><strong>Business Problem:</strong> How can we accurately predict and optimize last-mile delivery routes by combining real driver behavior patterns with route optimization algorithms?</em>
+ <br><br>
+  <div style="text-align: justify;color:  #222;">
+  Last-mile delivery is one of the most expensive and operationally complex challenges in logistics. This project reproduces and evaluates a top-performing solution from the Amazon Last Mile Routing Challenge, where researchers from MIT developed a data-driven approach to improve delivery route efficiency using real-world logistics data.
+
+Using historical delivery sequences, I implemented a hybrid framework that predicts delivery zone transitions using probabilistic modeling and converts those predictions into optimized delivery routes using Traveling Salesman Problem (TSP) optimization. The project demonstrates how combining machine learning with classical optimization can replicate human-like routing behavior and improve delivery planning efficiency.
+      
+<div style="background-color: #fff ; padding: 20px; border-radius: 8px; margin-bottom: 30px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <h3 style='color:#222;'>Monetary Policy Impact Analysis: SQL-Driven Sector Performance Evaluation</h3>
 <em><strong>Business Problem:</strong> How does an expansionary monetary policy (interest rate cuts) affect different economic sectors, and can we quantify its asymmetric impact?</em>
  <br><br>
