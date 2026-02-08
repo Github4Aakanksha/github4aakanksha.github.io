@@ -620,6 +620,52 @@ In this project, I conducted time series analysis using Vector Auto-regression (
 </div>
 </details>
 
+<div style="display: flex; align-items: center; margin-top: 40px;">
+    <h1 style="color: #2774ae; margin-right: 10px;">PAPERS</h1>
+</div>
+
+<details style="
+    margin-bottom: 20px; 
+    border-radius: 8px; 
+    background-color: #fff; 
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2), 0 10px 20px rgba(0,0,0,0.15);
+    overflow: hidden;
+">
+  <summary style="
+        cursor: pointer; 
+        padding: 10px 15px; 
+        font-size: 1.1em; 
+        font-weight: bold; 
+        color: #222;
+    ">
+    Example Paper Title Goes Here
+  </summary>
+
+  <div style="padding: 20px; color: #222; text-align: justify;">
+    <em><strong>Research Focus:</strong> One-line description of your paper’s main research question.</em>
+    <br><br>
+    <p>
+      Add a short summary explaining what problem the paper solves,
+      what methods you used, and why it matters.
+    </p>
+    <a href="PASTE_PAPER_LINK_HERE"
+       style="
+       display: inline-block;
+       padding: 10px 20px;
+       background-color:#003B5C;
+       color: white;
+       text-decoration: none;
+       border-radius: 10px;
+       font-size: 0.9em;
+       font-family: Arial, sans-serif;
+       box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+     ">
+       View Paper
+    </a>
+
+  </div>
+</details>
+
 
 
 <style>
