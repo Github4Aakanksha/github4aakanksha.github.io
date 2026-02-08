@@ -2,8 +2,10 @@
     <h1 style="color: #2774ae ; margin-right: 10px;">DATA SCIENCE PROJECTS</h1>
 </div>
 
+<details style="margin-bottom: 20px;">
+  <summary style="cursor: pointer; font-size: 1.2em; font-weight: bold; color: #222;">Reproducing MIT’s Winning Solution to the Amazon Last-Mile Routing Challenge</summary>
+
 <div style="background-color: #fff ; padding: 20px; border-radius: 8px; margin-bottom: 30px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2), 0 10px 20px rgba(0, 0, 0, 0.15);">
-  <h3 style='color:#222;'>Reproducing MIT’s Winning Solution to the Amazon Last-Mile Routing Challenge</h3>
 <em><strong>Business Problem:</strong> How can we accurately predict and optimize last-mile delivery routes by combining real driver behavior patterns with route optimization algorithms?</em>
  <br><br>
   <div style="text-align: justify;color:  #222;">
@@ -53,6 +55,7 @@ Using historical delivery sequences, I implemented a hybrid framework that predi
     </div>
   </div>
 </div>
+</details>
 
 <div style="background-color: #fff ; padding: 20px; border-radius: 8px; margin-bottom: 30px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2), 0 10px 20px rgba(0, 0, 0, 0.15);">
   <h3 style='color:#222;'>AI Workflow Automation with N8N</h3>
