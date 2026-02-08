@@ -21,7 +21,7 @@ Using historical delivery sequences, I implemented a hybrid framework that predi
   <img src="https://img.shields.io/badge/Traveling_Salesman_Problem-a77dbd?style=for-the-badge&logo=graph&logoColor=white" alt="Traveling Salesman Problem" title="Traveling Salesman Problem"/>
 </div>
 
-<a href="https://github.com/Github4Aakanksha/Real-Time-Earthquake-Tracking"
+<a href="https://github.com/Github4Aakanksha/Amazon-Last-Mile-Route-Optimization"
      style="
        display: inline-block;
        padding: 10px 20px;
