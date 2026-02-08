@@ -16,7 +16,7 @@
         font-size: 1.1em; 
         font-weight: bold; 
         color: #222;
-        background-color: #f9f9f9; /* light header color */
+        background-color: #fff; 
     ">
     Reproducing MIT’s Winning Solution to the Amazon Last-Mile Routing Challenge
   </summary>
