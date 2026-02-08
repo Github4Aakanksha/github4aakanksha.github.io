@@ -621,7 +621,7 @@ In this project, I conducted time series analysis using Vector Auto-regression (
 </details>
 
 <div style="display: flex; align-items: center; margin-top: 40px;">
-    <h1 style="color: #2774ae; margin-right: 10px;">PAPERS</h1>
+    <h1 style="color: #2774ae; margin-right: 10px;">RESEARCH PAPERS</h1>
 </div>
 
 <details style="
@@ -643,10 +643,51 @@ A Traveling Salesman Problem Approach
   </summary>
 
   <div style="padding: 20px; color: #222; text-align: justify;">
-    <em><strong>Research Focus:</strong>  Improving the efficiency of last-mile delivery routes using real-world logistics data.</em>
+    <em><strong>Research Focus:</strong>  Improving the efficiency of last-mile delivery routes using real-world logistics data</em>
     <br><br>
     <p>
-      This paper aims to reproduce and analyze the methodology employed by Chen Wu, Yin Song, Verdi March and Eden Duthie, one of the top-performing team in the challenge. The analysis focuses on three key datasets - actual delivery sequences, route scoring outputs, and package-related metadata - and outlines the preprocessing and analytical framework applied. Initial data integration and visualization steps are used to assess the consistency of the current approach with that of the reference team, serving as a foundation for subsequent optimization and modeling efforts. This paper reproduces the challenge by: (1) Modeling zone transitions using a probabilistic Prediction by Partial Matching (PPM) model, (2)Evaluating sequence prediction accuracy using both exact-match and set-based metrics, and (3) Generating executable routes by integrating zone-level predictions with Traveling Salesman Problem (TSP) optimization.
+      This paper aims to reproduce and analyze the methodology employed by MIT researchers (Chen Wu, Yin Song, Verdi March and Eden Duthie), one of the top-performing team in the challenge. The analysis focuses on three key datasets - actual delivery sequences, route scoring outputs, and package-related metadata - and outlines the preprocessing and analytical framework applied. This paper reproduces the challenge by: (1) Modeling zone transitions using a probabilistic Prediction by Partial Matching (PPM) model, (2)Evaluating sequence prediction accuracy using both exact-match and set-based metrics, and (3) Generating executable routes by integrating zone-level predictions with Traveling Salesman Problem (TSP) optimization.
+    </p>
+    <a href="https://github.com/Github4Aakanksha/Amazon-Last-Mile-Route-Optimization/blob/main/Research_Capstone.pdf"
+       style="
+       display: inline-block;
+       padding: 10px 20px;
+       background-color:#003B5C;
+       color: white;
+       text-decoration: none;
+       border-radius: 10px;
+       font-size: 0.9em;
+       font-family: Arial, sans-serif;
+       box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+     ">
+       View Paper
+    </a>
+
+  </div>
+</details>
+
+<details style="
+    margin-bottom: 20px; 
+    border-radius: 8px; 
+    background-color: #fff; 
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2), 0 10px 20px rgba(0,0,0,0.15);
+    overflow: hidden;
+">
+  <summary style="
+        cursor: pointer; 
+        padding: 10px 15px; 
+        font-size: 1.1em; 
+        font-weight: bold; 
+        color: #222;
+    ">
+    A Study of the Incentives Addressing the Demographic Crisis in South Korea
+  </summary>
+
+  <div style="padding: 20px; color: #222; text-align: justify;">
+    <em><strong>Research Focus:</strong>  Evaluating the effectiveness of South Korea’s pro-natalist policies using econometric analysis to identify the socio-economic and demographic drivers influencing fertility decisions</em>
+    <br><br>
+    <p>
+      South Korea is experiencing one of the world’s fastest fertility declines despite extensive government incentives to encourage childbirth. This study analyzes provincial data using econometric modeling and comparative case analysis to examine how factors such as income levels, spousal age, childcare access, and gender dynamics influence fertility rates. The findings highlight significant regional disparities and suggest that long-term structural reforms, rather than financial incentives alone, are critical to addressing the country’s demographic challenges.
     </p>
     <a href="https://github.com/Github4Aakanksha/Amazon-Last-Mile-Route-Optimization/blob/main/Research_Capstone.pdf"
        style="
