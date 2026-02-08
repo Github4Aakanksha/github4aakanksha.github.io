@@ -13,7 +13,7 @@ Using historical delivery sequences, I implemented a hybrid framework that predi
 
 <li>Reproduced MIT’s Amazon Last Mile Routing solution, showing that predicting the right set of delivery stops (71% accuracy) drives more value than perfecting the order of stop sequencing (10% accuracy), enabling faster and cheaper route planning</li>
 <li>Demonstrated that focusing on neighborhood-level delivery patterns can significantly improve routing efficiency while reducing computational and operational complexity</li>
-
+</div>
 <div style="text-align: center;">
   <img src="https://img.shields.io/badge/Last_Mile_Routing-4479A1?style=for-the-badge&logo=delivery&logoColor=white" alt="Last Mile Routing" title="Last-Mile Routing"/>
   <img src="https://img.shields.io/badge/Probabilistic_Modeling-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="Probabilistic Modeling" title="Probabilistic Modeling"/>
@@ -21,6 +21,19 @@ Using historical delivery sequences, I implemented a hybrid framework that predi
   <img src="https://img.shields.io/badge/Traveling_Salesman_Problem-a77dbd?style=for-the-badge&logo=graph&logoColor=white" alt="Traveling Salesman Problem" title="Traveling Salesman Problem"/>
 </div>
 
+<a href="https://github.com/Github4Aakanksha/Real-Time-Earthquake-Tracking"
+     style="
+       display: inline-block;
+       padding: 10px 20px;
+       background-color:#003B5C;
+       color: white;
+       text-decoration: none;
+       border-radius: 10px; /* Curved edges */
+       font-size: 0.9em;
+       font-family: Arial, sans-serif;
+       box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Optional shadow for button effect */
+     ">View project on GitHub</a>
+     
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
     <div style="width: 45%; padding-right: 10px;">
       <p><strong>Figure 1:</strong> Model Framework from Amazon Team’s Paper </p>
@@ -30,11 +43,11 @@ Using historical delivery sequences, I implemented a hybrid framework that predi
       <p><strong>Figure 2:</strong> TSP Solution Flow Diagram </p>
       <img src="images/Screenshot 2025-06-04 024603.png" alt="TSP Solution Flow Diagram" style="width: 100%; height: auto;"/>
     </div>
-    <div style="width: 50%; padding-right: 10px;">
+    <div style="width: 45%; padding-right: 10px;">
       <p><strong>Figure 3:</strong>Route Comparison Map: Actual Vs Predicted</p>
       <img src="images/Screenshot 2025-05-24 124627.png" alt="Route Comparison Map: Actual Vs Predicted" style="width: 100%; height: auto;"/>
     </div>
-    <div style="width: 50%; padding-right: 10px;">
+    <div style="width: 45%; padding-right: 10px;">
       <p><strong>Figure 4:</strong> Illustration of the Predicted Stop Route Via TSP </p>
       <img src="images/Screenshot 2025-05-24 123800.png" alt="Illustration of the Predicted Stop Route Via TSP" style="width: 100%; height: auto;"/>
     </div>
