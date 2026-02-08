@@ -3,56 +3,6 @@
 </div>
 
 <div style="background-color: #fff ; padding: 20px; border-radius: 8px; margin-bottom: 30px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <h3 style='color:#222;'>AI Workflow Automation with N8N</h3>
-<em><strong>Business Problem:</strong> How can AI-powered workflow automation streamline business operations by reducing manual communication, scheduling, and data management overhead while improving response speed and decision efficiency?</em>
- <br><br>
-  <div style="text-align: justify;color:  #222;">
-  This project showcases a collection of intelligent automation workflows built using <strong>n8n</strong> designed to streamline communication, scheduling, and data management through AI-powered agents. The workflows integrate multiple third-party platforms and leverage AI capabilities to enable natural language interaction, automated task execution, and real-time data synchronization.
-
-
-<li><strong>AI Voice Agent Workflow:</strong> Processes user voice inputs and converts them into actionable workflows</li>
-<li><strong>Email + Calendar Assistant:</strong> Automates email classification, response drafting, and meeting scheduling. Syncs with calendar services to automatically create or modify events. Reduces manual scheduling overhead and improves response time.</li>
-<li><strong>Google Sheets Assistant:</strong> Automates data extraction, updating, and reporting within Google Sheets. New input is appended using a looping feature for sanity checks.</li>
-
-<div style="text-align: center;">
-  <img src="https://img.shields.io/badge/LLM_based_Automation-6C63FF?style=for-the-badge&logo=openai&logoColor=white" alt="LLM-based Automation" title="LLM-based Automation"/>
-  <img src="https://img.shields.io/badge/API_Integrations-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" alt="API Integrations" title="API Integrations"/>
-  <img src="https://img.shields.io/badge/Workflow_Design-29B5E8?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Workflow Design" title="Workflow Design"/>
-  <img src="https://img.shields.io/badge/AI_Agents-EA4B71?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" title="AI Agents"/>
-</div>
-
-
-<a href="https://github.com/Github4Aakanksha/Amazon-Last-Mile-Route-Optimization"
-     style="
-       display: inline-block;
-       padding: 10px 20px;
-       background-color:#003B5C;
-       color: white;
-       text-decoration: none;
-       border-radius: 10px; /* Curved edges */
-       font-size: 0.9em;
-       font-family: Arial, sans-serif;
-       box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Optional shadow for button effect */
-     ">View project on GitHub</a>
-     
-<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
-    <div style="width: 45%; padding-right: 10px;">
-      <p><strong>Figure 1:</strong> AI Voice Agent Workflow </p>
-      <img src="n8n-workflows/n8n Workflow.png" alt="AI Voice Agent Workflow" style="width: 100%; height: auto;"/>
-    </div>
-    <div style="width: 50%; padding-right: 10px;">
-      <p><strong>Figure 2:</strong> Email + Calendar Assistant Workflow </p>
-      <img src="n8n-workflows/Email + Calendar Assistant Workflow.png" alt="Email + Calendar Assistant Workflow" style="width: 100%; height: auto;"/>
-    </div>
-    <div style="width: 45%; padding-right: 10px;">
-      <p><strong>Figure 3:</strong>Test Outputs</p>
-      <img src="draft email.png" alt="Test Outputs" style="width: 100%; height: auto;"/>
-      <img src="calendar invite.png" alt="Test Outputs" style="width: 100%; height: auto;"/>
-    </div>
-  </div>
-</div>
-
-<div style="background-color: #fff ; padding: 20px; border-radius: 8px; margin-bottom: 30px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <h3 style='color:#222;'>Reproducing MIT’s Winning Solution to the Amazon Last-Mile Routing Challenge</h3>
 <em><strong>Business Problem:</strong> How can we accurately predict and optimize last-mile delivery routes by combining real driver behavior patterns with route optimization algorithms?</em>
  <br><br>
@@ -100,6 +50,63 @@ Using historical delivery sequences, I implemented a hybrid framework that predi
     <div style="width: 45%; padding-right: 10px;">
       <p><strong>Figure 4:</strong> Illustration of the Predicted Stop Route Via TSP </p>
       <img src="images/Screenshot 2025-05-24 123800.png" alt="Illustration of the Predicted Stop Route Via TSP" style="width: 100%; height: auto;"/>
+    </div>
+  </div>
+</div>
+
+<div style="background-color: #fff ; padding: 20px; border-radius: 8px; margin-bottom: 30px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <h3 style='color:#222;'>AI Workflow Automation with N8N</h3>
+<em><strong>Business Problem:</strong> How can AI-powered workflow automation streamline business operations by reducing manual communication, scheduling, and data management overhead while improving response speed and decision efficiency?</em>
+ <br><br>
+  <div style="text-align: justify;color:  #222;">
+  This project showcases a collection of intelligent automation workflows built using <strong>n8n</strong> designed to streamline communication, scheduling, and data management through AI-powered agents. The workflows integrate multiple third-party platforms and leverage AI capabilities to enable natural language interaction, automated task execution, and real-time data synchronization.
+
+<li><strong>AI Voice Agent Workflow:</strong> Processes user voice inputs and converts them into actionable workflows</li>
+<li><strong>Email + Calendar Assistant:</strong> Automates email classification, response drafting, and meeting scheduling. Syncs with calendar services to automatically create or modify events. Reduces manual scheduling overhead and improves response time.</li>
+<li><strong>Google Sheets Assistant:</strong> Automates data extraction, updating, and reporting within Google Sheets. New input is appended using a looping feature for sanity checks.</li>
+
+<div style="text-align: center;">
+  <img src="https://img.shields.io/badge/LLM_based_Automation-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="LLM-based Automation" title="LLM-based Automation"/>
+  <img src="https://img.shields.io/badge/API_Integrations-a77dbd?style=for-the-badge&logo=fastapi&logoColor=white" alt="API Integrations" title="API Integrations"/>
+  <img src="https://img.shields.io/badge/Workflow_Design-3776AB?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Workflow Design" title="Workflow Design"/>
+  <img src="https://img.shields.io/badge/AI_Agents-a77dbd?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" title="AI Agents"/>
+</div>
+
+
+<a href="https://github.com/Github4Aakanksha/n8n-workflows/blob/main/README.md"
+     style="
+       display: inline-block;
+       padding: 10px 20px;
+       background-color:#003B5C;
+       color: white;
+       text-decoration: none;
+       border-radius: 10px; /* Curved edges */
+       font-size: 0.9em;
+       font-family: Arial, sans-serif;
+       box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Optional shadow for button effect */
+     ">View project on GitHub</a>
+     
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
+    <div style="width: 45%; padding-right: 10px;">
+      <p><strong>Figure 1:</strong> AI Voice Agent Workflow </p>
+      <img src="https://github.com/Github4Aakanksha/n8n-workflows/blob/main/n8n%20Workflow.png" alt="AI Voice Agent Workflow" style="width: 100%; height: auto;"/>
+    </div>
+    <div style="width: 50%; padding-right: 10px;">
+      <p><strong>Figure 2:</strong> Email + Calendar Assistant Workflow </p>
+      <img src="https://github.com/Github4Aakanksha/n8n-workflows/blob/main/Email%20%2B%20Calendar%20Assistant%20Workflow.png" alt="Email + Calendar Assistant Workflow" style="width: 100%; height: auto;"/>
+    </div>
+    <div style="width: 45%; padding-right: 10px;">
+      <p><strong>Figure 3:</strong>Test Outputs</p>
+      <img src="https://github.com/Github4Aakanksha/n8n-workflows/blob/main/draft%20email.png" alt="Test Outputs" style="width: 100%; height: auto;"/>
+      <img src="https://github.com/Github4Aakanksha/n8n-workflows/blob/main/calendar%20invite.png" alt="Test Outputs" style="width: 100%; height: auto;"/>
+    </div>
+    <div style="width: 45%; padding-right: 10px;">
+      <p><strong>Figure 4:</strong> Google Sheets Assistant Workflow </p>
+      <img src="https://github.com/Github4Aakanksha/n8n-workflows/blob/main/Google%20Sheets%20Assistant%20Workflow.png" alt="Google Sheets Assistant Workflow" style="width: 100%; height: auto;"/>
+    </div>
+    <div style="width: 45%; padding-right: 10px;">
+      <p><strong>Figure 5:</strong> Test Output </p>
+      <img src="https://github.com/Github4Aakanksha/n8n-workflows/blob/main/google%20sheets%20output.png" alt="Test Output" style="width: 100%; height: auto;"/>
     </div>
   </div>
 </div>
