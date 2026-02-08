@@ -643,7 +643,7 @@ A Traveling Salesman Problem Approach
   </summary>
 
   <div style="padding: 20px; color: #222; text-align: justify;">
-    <em><strong>Research Focus:</strong>  Improving the efficiency of last-mile delivery routes using real-world logistics data</em>
+    <em><strong>Research Focus:</strong> Improving the efficiency of last-mile delivery routes using real-world logistics data</em>
     <br><br>
     <p>
       This paper aims to reproduce and analyze the methodology employed by MIT researchers (Chen Wu, Yin Song, Verdi March and Eden Duthie), one of the top-performing team in the challenge. The analysis focuses on three key datasets - actual delivery sequences, route scoring outputs, and package-related metadata - and outlines the preprocessing and analytical framework applied. This paper reproduces the challenge by: (1) Modeling zone transitions using a probabilistic Prediction by Partial Matching (PPM) model, (2)Evaluating sequence prediction accuracy using both exact-match and set-based metrics, and (3) Generating executable routes by integrating zone-level predictions with Traveling Salesman Problem (TSP) optimization.
@@ -684,7 +684,7 @@ A Traveling Salesman Problem Approach
   </summary>
 
   <div style="padding: 20px; color: #222; text-align: justify;">
-    <em><strong>Research Focus:</strong>  Evaluating the effectiveness of South Korea’s pro-natalist policies using econometric analysis to identify the socio-economic and demographic drivers influencing fertility decisions</em>
+    <em><strong>Research Focus:</strong> Evaluating the effectiveness of South Korea’s pro-natalist policies using econometric analysis to identify the socio-economic and demographic drivers influencing fertility decisions</em>
     <br><br>
     <p>
       South Korea is experiencing one of the world’s fastest fertility declines despite extensive government incentives to encourage childbirth. This study analyzes provincial data using econometric modeling and comparative case analysis to examine how factors such as income levels, spousal age, childcare access, and gender dynamics influence fertility rates. The findings highlight significant regional disparities and suggest that long-term structural reforms, rather than financial incentives alone, are critical to addressing the country’s demographic challenges.
@@ -706,6 +706,171 @@ A Traveling Salesman Problem Approach
 
   </div>
 </details>
+
+<details style="
+    margin-bottom: 20px; 
+    border-radius: 8px; 
+    background-color: #fff; 
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2), 0 10px 20px rgba(0,0,0,0.15);
+    overflow: hidden;
+">
+  <summary style="
+        cursor: pointer; 
+        padding: 10px 15px; 
+        font-size: 1.1em; 
+        font-weight: bold; 
+        color: #222;
+    ">
+    Navigating Turmoil: Unraveling Turkey’s Economic Crisis and Charting
+a Path to Resilience
+  </summary>
+
+  <div style="padding: 20px; color: #222; text-align: justify;">
+    <em><strong>Research Focus:</strong> Analyzing the macroeconomic drivers, policy decisions, and structural vulnerabilities that have contributed to Turkey’s recurring financial crises and evaluating pathways toward long-term economic stability</em>
+    <br><br>
+    <a href="https://github.com/Github4Aakanksha/Amazon-Last-Mile-Route-Optimization/blob/main/Research_Capstone.pdf"
+       style="
+       display: inline-block;
+       padding: 10px 20px;
+       background-color:#003B5C;
+       color: white;
+       text-decoration: none;
+       border-radius: 10px;
+       font-size: 0.9em;
+       font-family: Arial, sans-serif;
+       box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+     ">
+       View Paper
+    </a>
+
+  </div>
+</details>
+
+<details style="
+    margin-bottom: 20px; 
+    border-radius: 8px; 
+    background-color: #fff; 
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2), 0 10px 20px rgba(0,0,0,0.15);
+    overflow: hidden;
+">
+  <summary style="
+        cursor: pointer; 
+        padding: 10px 15px; 
+        font-size: 1.1em; 
+        font-weight: bold; 
+        color: #222;
+    ">
+    Review Paper on Wassily Leontief's Paradox
+  </summary>
+
+  <div style="padding: 20px; color: #222; text-align: justify;">
+    <em><strong>Research Focus:</strong> Evaluating the validity of classical international trade theories through an analytical review of Wassily Leontief’s Paradox and its global empirical evidence</em>
+    <br><br>
+    <p>
+      This review paper examines the Leontief Paradox, a landmark challenge to the Heckscher–Ohlin theory of international trade, which posits that countries export goods that intensively use their abundant factors of production. By analyzing Leontief’s original input–output framework and reviewing empirical studies across economies such as the United States, Japan, Canada, Germany, and India, the paper explores inconsistencies between theoretical predictions and real-world trade patterns. The study highlights how evolving global trade dynamics, factor productivity, and structural economic variations contribute to deviations from classical trade models, offering deeper insights into modern international trade theory.
+    </p>
+    <a href="https://github.com/Github4Aakanksha/Amazon-Last-Mile-Route-Optimization/blob/main/Research_Capstone.pdf"
+       style="
+       display: inline-block;
+       padding: 10px 20px;
+       background-color:#003B5C;
+       color: white;
+       text-decoration: none;
+       border-radius: 10px;
+       font-size: 0.9em;
+       font-family: Arial, sans-serif;
+       box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+     ">
+       View Paper
+    </a>
+
+  </div>
+</details>
+
+<details style="
+    margin-bottom: 20px; 
+    border-radius: 8px; 
+    background-color: #fff; 
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2), 0 10px 20px rgba(0,0,0,0.15);
+    overflow: hidden;
+">
+  <summary style="
+        cursor: pointer; 
+        padding: 10px 15px; 
+        font-size: 1.1em; 
+        font-weight: bold; 
+        color: #222;
+    ">
+    Impacts of COVID-19 on Consumer Behaviour & Preferences
+  </summary>
+
+  <div style="padding: 20px; color: #222; text-align: justify;">
+    <em><strong>Research Focus:</strong> Analyzing how the COVID-19 pandemic reshaped consumer spending patterns, financial priorities, and adoption of digital commerce in India</em>
+    <br><br>
+    <p>
+      Using a combination of primary survey data and secondary sources such as RBI and IBEF reports, the study evaluates changes in spending priorities, financial sentiment, and digital purchasing adoption. The analysis highlights a significant transition toward essential and health-related consumption, increased savings and investment awareness, and accelerated e-commerce and digital payment usage. The findings provide insights into long-term consumer adaptation and emerging market trends in a post-pandemic economy.
+    </p>
+    <a href="https://github.com/Github4Aakanksha/Amazon-Last-Mile-Route-Optimization/blob/main/Research_Capstone.pdf"
+       style="
+       display: inline-block;
+       padding: 10px 20px;
+       background-color:#003B5C;
+       color: white;
+       text-decoration: none;
+       border-radius: 10px;
+       font-size: 0.9em;
+       font-family: Arial, sans-serif;
+       box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+     ">
+       View Paper
+    </a>
+
+  </div>
+</details>
+
+<details style="
+    margin-bottom: 20px; 
+    border-radius: 8px; 
+    background-color: #fff; 
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2), 0 10px 20px rgba(0,0,0,0.15);
+    overflow: hidden;
+">
+  <summary style="
+        cursor: pointer; 
+        padding: 10px 15px; 
+        font-size: 1.1em; 
+        font-weight: bold; 
+        color: #222;
+    ">
+    Review Paper on "Basel III in International and
+Indian Context by D.
+Subbarao"
+  </summary>
+
+  <div style="padding: 20px; color: #222; text-align: justify;">
+    <em><strong>Research Focus:</strong> Analyzing the implementation and economic implications of Basel III banking regulations in global and Indian financial systems</em>
+    <br><br>
+    <p>
+      This paper reviews the Basel III regulatory framework through the lens of Dr. D. Subbarao’s policy perspectives, examining its role in strengthening banking sector stability following the 2007–08 global financial crisis. The study evaluates Basel III’s capital adequacy, liquidity, and leverage reforms while analyzing their impact on the Indian banking system, particularly public sector banks. By reviewing policy initiatives such as the Government of India’s Indradhanush program and global empirical research, the paper highlights the trade-off between short-term profitability pressures and long-term financial resilience. The research also emphasizes the importance of data-driven policy calibration and improved risk assessment frameworks in maintaining banking sector stability.
+    </p>
+    <a href="https://github.com/Github4Aakanksha/Amazon-Last-Mile-Route-Optimization/blob/main/Research_Capstone.pdf"
+       style="
+       display: inline-block;
+       padding: 10px 20px;
+       background-color:#003B5C;
+       color: white;
+       text-decoration: none;
+       border-radius: 10px;
+       font-size: 0.9em;
+       font-family: Arial, sans-serif;
+       box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+     ">
+       View Paper
+    </a>
+
+  </div>
+</details>
+
 
 
 
