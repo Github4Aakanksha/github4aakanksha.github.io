@@ -96,17 +96,18 @@ Using historical delivery sequences, I implemented a hybrid framework that predi
       <img src="https://raw.githubusercontent.com/Github4Aakanksha/n8n-workflows/main/Email%20%2B%20Calendar%20Assistant%20Workflow.png" alt="Email + Calendar Assistant Workflow" style="width: 100%; height: auto;"/>
     </div>
     <div style="width: 45%; padding-right: 10px;">
-      <p><strong>Figure 3:</strong>Test Outputs</p>
-      <img src="https://raw.githubusercontent.com/Github4Aakanksha/n8n-workflows/main/draft%20email.png" alt="Test Outputs" style="width: 100%; height: auto;"/>
-      <img src="https://raw.githubusercontent.com/Github4Aakanksha/n8n-workflows/main/calendar%20invite.png" alt="Test Outputs" style="width: 100%; height: auto;"/>
-    </div>
-    <div style="width: 45%; padding-right: 10px;">
-      <p><strong>Figure 4:</strong> Google Sheets Assistant Workflow </p>
+      <p><strong>Figure 3:</strong> Google Sheets Assistant Workflow </p>
       <img src="https://raw.githubusercontent.com/Github4Aakanksha/n8n-workflows/main/Google%20Sheets%20Assistant%20Workflow.png" alt="Google Sheets Assistant Workflow" style="width: 100%; height: auto;"/>
     </div>
-    <div style="width: 45%; padding-right: 10px;">
-      <p><strong>Figure 5:</strong> Test Output </p>
-      <img src="https://raw.githubusercontent.com/Github4Aakanksha/n8n-workflows/main/google%20sheets%20output.png" alt="Test Output" style="width: 100%; height: auto;"/>
+    <div style="width: 45%;">
+      <p><strong>Figure 4:</strong>Test Outputs</p>
+        <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+            <div style="width: 48%;">
+                <img src="https://raw.githubusercontent.com/Github4Aakanksha/n8n-workflows/main/draft%20email.png" alt="Test Outputs" style="width: 100%; height: auto;"/></div>
+            <div style="width: 48%;">
+                <img src="https://raw.githubusercontent.com/Github4Aakanksha/n8n-workflows/main/calendar%20invite.png" alt="Test Outputs" style="width: 100%; height: auto;"/></div>
+            <div style="width: 48%;">
+                <img src="https://raw.githubusercontent.com/Github4Aakanksha/n8n-workflows/main/google%20sheets%20output.png" alt="Test Output" style="width: 100%; height: auto;"/></div>
     </div>
   </div>
 </div>
