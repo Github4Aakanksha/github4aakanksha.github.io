@@ -638,17 +638,17 @@ In this project, I conducted time series analysis using Vector Auto-regression (
         font-weight: bold; 
         color: #222;
     ">
-    Example Paper Title Goes Here
+    A Reproduction Study of the Amazon Last Mile Routing Challenge:
+A Traveling Salesman Problem Approach
   </summary>
 
   <div style="padding: 20px; color: #222; text-align: justify;">
-    <em><strong>Research Focus:</strong> One-line description of your paper’s main research question.</em>
+    <em><strong>Research Focus:</strong>  Improving the efficiency of last-mile delivery routes using real-world logistics data.</em>
     <br><br>
     <p>
-      Add a short summary explaining what problem the paper solves,
-      what methods you used, and why it matters.
+      This paper aims to reproduce and analyze the methodology employed by Chen Wu, Yin Song, Verdi March and Eden Duthie, one of the top-performing team in the challenge. The analysis focuses on three key datasets - actual delivery sequences, route scoring outputs, and package-related metadata - and outlines the preprocessing and analytical framework applied. Initial data integration and visualization steps are used to assess the consistency of the current approach with that of the reference team, serving as a foundation for subsequent optimization and modeling efforts. This paper reproduces the challenge by: (1) Modeling zone transitions using a probabilistic Prediction by Partial Matching (PPM) model, (2)Evaluating sequence prediction accuracy using both exact-match and set-based metrics, and (3) Generating executable routes by integrating zone-level predictions with Traveling Salesman Problem (TSP) optimization.
     </p>
-    <a href="PASTE_PAPER_LINK_HERE"
+    <a href="https://github.com/Github4Aakanksha/Amazon-Last-Mile-Route-Optimization/blob/main/Research_Capstone.pdf"
        style="
        display: inline-block;
        padding: 10px 20px;
