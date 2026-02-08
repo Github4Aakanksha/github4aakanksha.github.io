@@ -73,8 +73,26 @@ Using historical delivery sequences, I implemented a hybrid framework that predi
 </div>
 </details>
 
-<div style="background-color: #fff ; padding: 20px; border-radius: 8px; margin-bottom: 30px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2), 0 10px 20px rgba(0, 0, 0, 0.15);">
-  <h3 style='color:#222;'>AI Workflow Automation with N8N</h3>
+<details style="
+    margin-bottom: 20px; 
+    border-radius: 8px; 
+    background-color: #fff; 
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2), 0 10px 20px rgba(0,0,0,0.15);
+    overflow: hidden;
+">
+  <summary style="
+        list-style: none; 
+        cursor: pointer; 
+        padding: 10px 15px; 
+        font-size: 1.1em; 
+        font-weight: bold; 
+        color: #222;
+        background-color: #fff; 
+    ">
+    AI Workflow Automation with N8N
+  </summary>
+    
+<div style="padding: 20px; color: #222; text-align: justify;">
 <em><strong>Business Problem:</strong> How can AI-powered workflow automation streamline business operations by reducing manual communication, scheduling, and data management overhead while improving response speed and decision efficiency?</em>
  <br><br>
   <div style="text-align: justify;color:  #222;">
@@ -120,9 +138,28 @@ Using historical delivery sequences, I implemented a hybrid framework that predi
     </div>
   </div>
 </div>
+</details>
 
-<div style="background-color: #fff ; padding: 20px; border-radius: 8px; margin-bottom: 30px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2), 0 10px 20px rgba(0, 0, 0, 0.15);">
-  <h3 style='color:#222;'>Monetary Policy Impact Analysis: SQL-Driven Sector Performance Evaluation</h3>
+<details style="
+    margin-bottom: 20px; 
+    border-radius: 8px; 
+    background-color: #fff; 
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2), 0 10px 20px rgba(0,0,0,0.15);
+    overflow: hidden;
+">
+  <summary style="
+        list-style: none; 
+        cursor: pointer; 
+        padding: 10px 15px; 
+        font-size: 1.1em; 
+        font-weight: bold; 
+        color: #222;
+        background-color: #fff; 
+    ">
+    Monetary Policy Impact Analysis: SQL-Driven Sector Performance Evaluation
+  </summary>
+    
+<div style="padding: 20px; color: #222; text-align: justify;">
 <em><strong>Business Problem:</strong> How does an expansionary monetary policy (interest rate cuts) affect different economic sectors, and can we quantify its asymmetric impact?</em>
  <br><br>
   <div style="text-align: justify;color:  #222;">
@@ -170,9 +207,28 @@ The analysis combined 280K+ corporate records with macroeconomic indicators to i
     </div>
   </div>
 </div>
+</details>
 
-<div style="background-color: #fff ; padding: 20px; border-radius: 8px; margin-bottom: 30px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2), 0 10px 20px rgba(0, 0, 0, 0.15);">
-  <h3 style='color: #222 ;'>SumZero Investment Thesis Driven Trading Strategy</h3>
+<details style="
+    margin-bottom: 20px; 
+    border-radius: 8px; 
+    background-color: #fff; 
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2), 0 10px 20px rgba(0,0,0,0.15);
+    overflow: hidden;
+">
+  <summary style="
+        list-style: none; 
+        cursor: pointer; 
+        padding: 10px 15px; 
+        font-size: 1.1em; 
+        font-weight: bold; 
+        color: #222;
+        background-color: #fff; 
+    ">
+    SumZero Investment Thesis Driven Trading Strategy
+  </summary>
+    
+<div style="padding: 20px; color: #222; text-align: justify;">
   <em><strong>Business Problem:</strong> How can we make sense of text-based investment ideas on our website to create trading strategies and improve stock market returns?</em>
  <br><br>
   <div style="text-align: justify;color:  #222;">
@@ -201,10 +257,28 @@ The analysis combined 280K+ corporate records with macroeconomic indicators to i
     </div>
   </div>
 </div>
+</details>
 
-
-<div style="background-color: #fff ; padding: 20px; border-radius: 8px; margin-bottom: 30px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2), 0 10px 20px rgba(0, 0, 0, 0.15);">
-  <h3 style='color:#222;'>Seismic Insights: Real-Time Earthquake Tracking with Google Cloud</h3>
+<details style="
+    margin-bottom: 20px; 
+    border-radius: 8px; 
+    background-color: #fff; 
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2), 0 10px 20px rgba(0,0,0,0.15);
+    overflow: hidden;
+">
+  <summary style="
+        list-style: none; 
+        cursor: pointer; 
+        padding: 10px 15px; 
+        font-size: 1.1em; 
+        font-weight: bold; 
+        color: #222;
+        background-color: #fff; 
+    ">
+    Seismic Insights: Real-Time Earthquake Tracking with Google Cloud
+  </summary>
+    
+<div style="padding: 20px; color: #222; text-align: justify;">
 <em><strong>Business Problem:</strong> How can we automate real-time earthquake tracking and present the updates in a simple, user-friendly way for everyone?</em>
  <br><br>
   <div style="text-align: justify;color:  #222;">
@@ -248,10 +322,28 @@ The analysis combined 280K+ corporate records with macroeconomic indicators to i
     </div>
   </div>
 </div>
+</details>
 
-
-<div style="background-color: #fff ; padding: 20px; border-radius: 8px; margin-bottom: 30px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2), 0 10px 20px rgba(0, 0, 0, 0.15);">
-  <h3 style='color:#222;'>Sectoral PE Analysis & Trading Strategy with Machine Learning</h3>
+<details style="
+    margin-bottom: 20px; 
+    border-radius: 8px; 
+    background-color: #fff; 
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2), 0 10px 20px rgba(0,0,0,0.15);
+    overflow: hidden;
+">
+  <summary style="
+        list-style: none; 
+        cursor: pointer; 
+        padding: 10px 15px; 
+        font-size: 1.1em; 
+        font-weight: bold; 
+        color: #222;
+        background-color: #fff; 
+    ">
+    Sectoral PE Analysis & Trading Strategy with Machine Learning
+  </summary>
+    
+<div style="padding: 20px; color: #222; text-align: justify;">
 <em><strong>Business Problem:</strong> How can we use price-to-earnings ratios from different sectors to create a balanced portfolio that improves investment decisions, trading results, and reduces risk?</em>
   <br><br>
   <div style="text-align: justify;  color:  #222;">
@@ -289,10 +381,28 @@ The analysis combined 280K+ corporate records with macroeconomic indicators to i
     </div>
   </div>
 </div>
+</details>
 
-
-<div style="background-color: #fff ; padding: 20px; border-radius: 8px; margin-bottom: 30px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2), 0 10px 20px rgba(0, 0, 0, 0.15);">
-  <h3 style='color: #222;'>Flask Application- Instagram Caption Analysis</h3>
+<details style="
+    margin-bottom: 20px; 
+    border-radius: 8px; 
+    background-color: #fff; 
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2), 0 10px 20px rgba(0,0,0,0.15);
+    overflow: hidden;
+">
+  <summary style="
+        list-style: none; 
+        cursor: pointer; 
+        padding: 10px 15px; 
+        font-size: 1.1em; 
+        font-weight: bold; 
+        color: #222;
+        background-color: #fff; 
+    ">
+    Flask Application- Instagram Caption Analysis
+  </summary>
+    
+<div style="padding: 20px; color: #222; text-align: justify;">
   <em><strong>Business Problem:</strong> How can we help content creators improve their social media posts?</em>
   <br><br>
   <div style="text-align: justify; color:  #222; ">
@@ -330,10 +440,28 @@ At Next Step Projects,  I led the development of a Flask application that analyz
     </div>
   </div>
 </div>
+</details>
 
-
-<div style="background-color: #fff ; padding: 20px; border-radius: 8px; margin-bottom: 30px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2), 0 10px 20px rgba(0, 0, 0, 0.15);">
-  <h3 style='color: #222;'>Sentiment Analysis- Forex Trading Strategy</h3>
+<details style="
+    margin-bottom: 20px; 
+    border-radius: 8px; 
+    background-color: #fff; 
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2), 0 10px 20px rgba(0,0,0,0.15);
+    overflow: hidden;
+">
+  <summary style="
+        list-style: none; 
+        cursor: pointer; 
+        padding: 10px 15px; 
+        font-size: 1.1em; 
+        font-weight: bold; 
+        color: #222;
+        background-color: #fff; 
+    ">
+    Sentiment Analysis- Forex Trading Strategy
+  </summary>
+    
+<div style="padding: 20px; color: #222; text-align: justify;">
   <em><strong>Business Problem:</strong> How can we leverage economic news sentiment to create a Forex trading strategy that consistently outperforms the market standards?</em>
   <br><br>
   <div style="text-align: justify; color:  #222; ">
@@ -374,10 +502,28 @@ In this project, I used the NY Times API to extract economic news articles and h
     </div>
   </div>
 </div>
+</details>
 
-
-<div style="background-color: #fff ; padding: 20px; border-radius: 8px; margin-bottom: 30px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2), 0 10px 20px rgba(0, 0, 0, 0.15);">
-  <h3 style='color: #222;'>Web Scraping Project- Faculty Information from IIM Ahmedabad</h3>
+<details style="
+    margin-bottom: 20px; 
+    border-radius: 8px; 
+    background-color: #fff; 
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2), 0 10px 20px rgba(0,0,0,0.15);
+    overflow: hidden;
+">
+  <summary style="
+        list-style: none; 
+        cursor: pointer; 
+        padding: 10px 15px; 
+        font-size: 1.1em; 
+        font-weight: bold; 
+        color: #222;
+        background-color: #fff; 
+    ">
+    Web Scraping Project- Faculty Information from IIM Ahmedabad
+  </summary>
+    
+<div style="padding: 20px; color: #222; text-align: justify;">
   <em><strong>Business Problem:</strong> How can we automate the extraction of detailed faculty information from dynamic websites for efficient data analysis and research? </em>
   <br><br>
   <div style="text-align: justify; color:  #222; ">
@@ -414,10 +560,28 @@ To streamline the process of gathering faculty information for research or organ
     </div>
   </div>
 </div>
+</details>
 
-
-<div style="background-color: #fff ; padding: 20px; border-radius: 8px; margin-bottom: 30px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2), 0 10px 20px rgba(0, 0, 0, 0.15);">
-  <h3 style='color: #222;'>Macroeconomic Time Series Analysis using VAR Models</h3>
+<details style="
+    margin-bottom: 20px; 
+    border-radius: 8px; 
+    background-color: #fff; 
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2), 0 10px 20px rgba(0,0,0,0.15);
+    overflow: hidden;
+">
+  <summary style="
+        list-style: none; 
+        cursor: pointer; 
+        padding: 10px 15px; 
+        font-size: 1.1em; 
+        font-weight: bold; 
+        color: #222;
+        background-color: #fff; 
+    ">
+    Macroeconomic Time Series Analysis using VAR Models
+  </summary>
+    
+<div style="padding: 20px; color: #222; text-align: justify;">
   <em><strong>Research Problem:</strong> How do key economic indicators like inflation, unemployment, and the Federal Funds rate interact and influence each other over time, and how can these relationships be used for forecasting? </em>
   <br><br>
   <div style="text-align: justify; color:  #222; ">
@@ -464,7 +628,7 @@ In this project, I conducted time series analysis using Vector Auto-regression (
     </div>
   </div>
 </div>
-
+</details>
 
 
 
