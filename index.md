@@ -619,7 +619,7 @@ In this project, I conducted time series analysis using Vector Auto-regression (
 </details>
 
 <div style="display: flex; align-items: center; margin-top: 40px;">
-    <h1 style="color: #2774ae; margin-right: 10px;">RESEARCH PAPERS</h1>
+    <h1 style="color: #222; margin-right: 10px;">RESEARCH PAPERS</h1>
 </div>
 
 <details style="
