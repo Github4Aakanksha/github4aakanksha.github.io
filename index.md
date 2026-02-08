@@ -634,7 +634,7 @@ In this project, I conducted time series analysis using Vector Auto-regression (
         padding: 10px 15px; 
         font-size: 1.1em; 
         font-weight: bold; 
-        color: #fff;
+        color: #222;
         background-color: #2774ae; 
     ">
     A Reproduction Study of the Amazon Last Mile Routing Challenge:
