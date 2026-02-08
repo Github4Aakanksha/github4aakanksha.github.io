@@ -44,7 +44,7 @@ Using historical delivery sequences, I implemented a hybrid framework that predi
       <img src="images/Screenshot 2025-06-04 024603.png" alt="TSP Solution Flow Diagram" style="width: 100%; height: auto;"/>
     </div>
     <div style="width: 45%; padding-right: 10px;">
-      <p><strong>Figure 3:</strong>Route Comparison Map: Actual Vs Predicted</p>
+      <p><strong>Figure 3:</strong> Route Comparison Map: Actual Vs Predicted</p>
       <img src="images/Screenshot 2025-05-24 124627.png" alt="Route Comparison Map: Actual Vs Predicted" style="width: 100%; height: auto;"/>
     </div>
     <div style="width: 45%; padding-right: 10px;">
@@ -64,7 +64,7 @@ Using historical delivery sequences, I implemented a hybrid framework that predi
 <li><strong>AI Voice Agent Workflow:</strong> Processes user voice inputs and converts them into actionable workflows</li>
 <li><strong>Email + Calendar Assistant:</strong> Automates email classification, response drafting, and meeting scheduling. Syncs with calendar services to automatically create or modify events. Reduces manual scheduling overhead and improves response time.</li>
 <li><strong>Google Sheets Assistant:</strong> Automates data extraction, updating, and reporting within Google Sheets. New input is appended using a looping feature for sanity checks.</li>
-
+</div>
 <div style="text-align: center;">
   <img src="https://img.shields.io/badge/LLM_based_Automation-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="LLM-based Automation" title="LLM-based Automation"/>
   <img src="https://img.shields.io/badge/API_Integrations-a77dbd?style=for-the-badge&logo=fastapi&logoColor=white" alt="API Integrations" title="API Integrations"/>
