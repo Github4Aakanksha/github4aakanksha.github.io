@@ -634,7 +634,8 @@ In this project, I conducted time series analysis using Vector Auto-regression (
         padding: 10px 15px; 
         font-size: 1.1em; 
         font-weight: bold; 
-        color: #222;
+        color: #fff;
+        background-color: #2774ae; 
     ">
     A Reproduction Study of the Amazon Last Mile Routing Challenge:
 A Traveling Salesman Problem Approach
@@ -676,7 +677,8 @@ A Traveling Salesman Problem Approach
         padding: 10px 15px; 
         font-size: 1.1em; 
         font-weight: bold; 
-        color: #222;
+        color: #fff;
+        background-color: #2774ae; 
     ">
     A Study of the Incentives Addressing the Demographic Crisis in South Korea
   </summary>
@@ -717,7 +719,8 @@ A Traveling Salesman Problem Approach
         padding: 10px 15px; 
         font-size: 1.1em; 
         font-weight: bold; 
-        color: #222;
+        color: #fff;
+        background-color: #2774ae; 
     ">
     Navigating Turmoil: Unraveling Turkey’s Economic Crisis and Charting
 a Path to Resilience
@@ -756,7 +759,8 @@ a Path to Resilience
         padding: 10px 15px; 
         font-size: 1.1em; 
         font-weight: bold; 
-        color: #222;
+        color: #fff;
+        background-color: #2774ae; 
     ">
     Review Paper on Wassily Leontief's Paradox
   </summary>
@@ -797,7 +801,8 @@ a Path to Resilience
         padding: 10px 15px; 
         font-size: 1.1em; 
         font-weight: bold; 
-        color: #222;
+        color: #fff;
+        background-color: #2774ae; 
     ">
     Impacts of COVID-19 on Consumer Behaviour & Preferences
   </summary>
@@ -838,7 +843,8 @@ a Path to Resilience
         padding: 10px 15px; 
         font-size: 1.1em; 
         font-weight: bold; 
-        color: #222;
+        color: #fff;
+        background-color: #2774ae; 
     ">
     Review Paper on "Basel III in International and
 Indian Context by D.
