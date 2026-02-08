@@ -14,8 +14,8 @@
         padding: 10px 15px; 
         font-size: 1.1em; 
         font-weight: bold; 
-        color: #fffbf0;
-        background-color: #640D14; 
+        color: #fff;
+        background-color: #2774ae; 
     ">
     Reproducing MIT’s Winning Solution to the Amazon Last-Mile Routing Challenge
   </summary>
@@ -84,8 +84,8 @@ Using historical delivery sequences, I implemented a hybrid framework that predi
         padding: 10px 15px; 
         font-size: 1.1em; 
         font-weight: bold; 
-        color: #222;
-        background-color: #fff; 
+        color: #fff;
+        background-color: #2774ae; 
     ">
     AI Workflow Automation with N8N
   </summary>
@@ -150,8 +150,8 @@ Using historical delivery sequences, I implemented a hybrid framework that predi
         padding: 10px 15px; 
         font-size: 1.1em; 
         font-weight: bold; 
-        color: #222;
-        background-color: #fff; 
+        color: #fff;
+        background-color: #2774ae; 
     ">
     Monetary Policy Impact Analysis: SQL-Driven Sector Performance Evaluation
   </summary>
@@ -218,8 +218,8 @@ The analysis combined 280K+ corporate records with macroeconomic indicators to i
         padding: 10px 15px; 
         font-size: 1.1em; 
         font-weight: bold; 
-        color: #222;
-        background-color: #fff; 
+        color: #fff;
+        background-color: #2774ae; 
     ">
     SumZero Investment Thesis Driven Trading Strategy
   </summary>
@@ -267,8 +267,8 @@ The analysis combined 280K+ corporate records with macroeconomic indicators to i
         padding: 10px 15px; 
         font-size: 1.1em; 
         font-weight: bold; 
-        color: #222;
-        background-color: #fff; 
+        color: #fff;
+        background-color: #2774ae; 
     ">
     Seismic Insights: Real-Time Earthquake Tracking with Google Cloud
   </summary>
@@ -331,8 +331,8 @@ The analysis combined 280K+ corporate records with macroeconomic indicators to i
         padding: 10px 15px; 
         font-size: 1.1em; 
         font-weight: bold; 
-        color: #222;
-        background-color: #fff; 
+        color: #fff;
+        background-color: #2774ae; 
     ">
     Sectoral PE Analysis & Trading Strategy with Machine Learning
   </summary>
@@ -389,8 +389,8 @@ The analysis combined 280K+ corporate records with macroeconomic indicators to i
         padding: 10px 15px; 
         font-size: 1.1em; 
         font-weight: bold; 
-        color: #222;
-        background-color: #fff; 
+        color: #fff;
+        background-color: #2774ae;
     ">
     Flask Application- Instagram Caption Analysis
   </summary>
@@ -447,8 +447,8 @@ At Next Step Projects,  I led the development of a Flask application that analyz
         padding: 10px 15px; 
         font-size: 1.1em; 
         font-weight: bold; 
-        color: #222;
-        background-color: #fff; 
+        color: #fff;
+        background-color: #2774ae;
     ">
     Sentiment Analysis- Forex Trading Strategy
   </summary>
@@ -508,8 +508,8 @@ In this project, I used the NY Times API to extract economic news articles and h
         padding: 10px 15px; 
         font-size: 1.1em; 
         font-weight: bold; 
-        color: #222;
-        background-color: #fff; 
+        color: #fff;
+        background-color: #2774ae;
     ">
     Web Scraping Project- Faculty Information from IIM Ahmedabad
   </summary>
@@ -565,8 +565,8 @@ To streamline the process of gathering faculty information for research or organ
         padding: 10px 15px; 
         font-size: 1.1em; 
         font-weight: bold; 
-        color: #222;
-        background-color: #fff; 
+        color: #fff;
+        background-color: #2774ae;
     ">
     Macroeconomic Time Series Analysis using VAR Models
   </summary>
@@ -584,8 +584,6 @@ In this project, I conducted time series analysis using Vector Auto-regression (
   <img src="https://img.shields.io/badge/PACF_Plots-00BCD4?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="PACF Plots" title="PACF Plots"/>
   <img src="https://img.shields.io/badge/Factor_Error_Variance_Decomposition-F57C00?style=for-the-badge&logo=databricks&logoColor=white" alt="Factor Error Variance Decomposition" title="Factor Error Variance Decomposition"/>
 </div>
-
-  
 
   <a href="https://github.com/Github4Aakanksha/ML/blob/main/Time%20Series%20VAR%20Forecasting.ipynb" style="
        display: inline-block;
