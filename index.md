@@ -14,8 +14,8 @@
         padding: 10px 15px; 
         font-size: 1.1em; 
         font-weight: bold; 
-        color: #222;
-        background-color: #fff; 
+        color: #fffbf0;
+        background-color: #640D14; 
     ">
     Reproducing MIT’s Winning Solution to the Amazon Last-Mile Routing Challenge
   </summary>
