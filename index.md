@@ -30,11 +30,11 @@ Using historical delivery sequences, I implemented a hybrid framework that predi
       <p><strong>Figure 2:</strong> TSP Solution Flow Diagram </p>
       <img src="images/Screenshot 2025-06-04 024603.png" alt="TSP Solution Flow Diagram" style="width: 100%; height: auto;"/>
     </div>
-    <div style="width: 30%; padding-right: 10px;">
+    <div style="width: 50%; padding-right: 10px;">
       <p><strong>Figure 3:</strong>Route Comparison Map: Actual Vs Predicted</p>
-      <img src="images/Corr.png" alt="Daily Sector Returns & Interest Rate Correlation" style="width: 100%; height: auto;"/>
+      <img src="images/Screenshot 2025-05-24 124627.png" alt="Route Comparison Map: Actual Vs Predicted" style="width: 100%; height: auto;"/>
     </div>
-    <div style="width: 30%; padding-right: 10px;">
+    <div style="width: 50%; padding-right: 10px;">
       <p><strong>Figure 4:</strong> Illustration of the Predicted Stop Route Via TSP </p>
       <img src="images/Screenshot 2025-05-24 123800.png" alt="Illustration of the Predicted Stop Route Via TSP" style="width: 100%; height: auto;"/>
     </div>
