@@ -2,23 +2,26 @@
     <h1 style="color: #2774ae ; margin-right: 10px;">DATA SCIENCE PROJECTS</h1>
 </div>
 
-<details style="margin-bottom: 20px; border-radius: 8px; overflow: hidden;">
+<details style="
+    margin-bottom: 20px; 
+    border-radius: 8px; 
+    background-color: #fff; 
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2), 0 10px 20px rgba(0,0,0,0.15);
+    overflow: hidden;
+">
   <summary style="
         list-style: none; 
         cursor: pointer; 
         padding: 10px 15px; 
-        background-color: #fff; 
-        border-radius: 8px; 
-        box-shadow: 0 4px 10px rgba(0,0,0,0.2); 
         font-size: 1.1em; 
         font-weight: bold; 
         color: #222;
-        margin-bottom: 10px;
+        background-color: #f9f9f9; /* light header color */
     ">
     Reproducing MIT’s Winning Solution to the Amazon Last-Mile Routing Challenge
   </summary>
-
-<div style="background-color: #fff ; padding: 20px; border-radius: 8px; margin-bottom: 30px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2), 0 10px 20px rgba(0, 0, 0, 0.15);">
+    
+<div style="padding: 20px; color: #222; text-align: justify;">
 <em><strong>Business Problem:</strong> How can we accurately predict and optimize last-mile delivery routes by combining real driver behavior patterns with route optimization algorithms?</em>
  <br><br>
   <div style="text-align: justify;color:  #222;">
