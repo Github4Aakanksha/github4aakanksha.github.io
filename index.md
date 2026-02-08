@@ -80,7 +80,6 @@ Using historical delivery sequences, I implemented a hybrid framework that predi
     overflow: hidden;
 ">
   <summary style="
-        list-style: auto; 
         cursor: pointer; 
         padding: 10px 15px; 
         font-size: 1.1em; 
@@ -147,7 +146,6 @@ Using historical delivery sequences, I implemented a hybrid framework that predi
     overflow: hidden;
 ">
   <summary style="
-        list-style: auto; 
         cursor: pointer; 
         padding: 10px 15px; 
         font-size: 1.1em; 
@@ -216,7 +214,6 @@ The analysis combined 280K+ corporate records with macroeconomic indicators to i
     overflow: hidden;
 ">
   <summary style="
-        list-style: auto; 
         cursor: pointer; 
         padding: 10px 15px; 
         font-size: 1.1em; 
@@ -266,7 +263,6 @@ The analysis combined 280K+ corporate records with macroeconomic indicators to i
     overflow: hidden;
 ">
   <summary style="
-        list-style: auto; 
         cursor: pointer; 
         padding: 10px 15px; 
         font-size: 1.1em; 
@@ -331,7 +327,6 @@ The analysis combined 280K+ corporate records with macroeconomic indicators to i
     overflow: hidden;
 ">
   <summary style="
-        list-style: auto; 
         cursor: pointer; 
         padding: 10px 15px; 
         font-size: 1.1em; 
@@ -390,7 +385,6 @@ The analysis combined 280K+ corporate records with macroeconomic indicators to i
     overflow: hidden;
 ">
   <summary style="
-        list-style: auto; 
         cursor: pointer; 
         padding: 10px 15px; 
         font-size: 1.1em; 
@@ -449,7 +443,6 @@ At Next Step Projects,  I led the development of a Flask application that analyz
     overflow: hidden;
 ">
   <summary style="
-        list-style: auto; 
         cursor: pointer; 
         padding: 10px 15px; 
         font-size: 1.1em; 
@@ -511,7 +504,6 @@ In this project, I used the NY Times API to extract economic news articles and h
     overflow: hidden;
 ">
   <summary style="
-        list-style: auto; 
         cursor: pointer; 
         padding: 10px 15px; 
         font-size: 1.1em; 
@@ -569,7 +561,6 @@ To streamline the process of gathering faculty information for research or organ
     overflow: hidden;
 ">
   <summary style="
-        list-style: auto; 
         cursor: pointer; 
         padding: 10px 15px; 
         font-size: 1.1em; 
