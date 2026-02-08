@@ -36,7 +36,7 @@ Using historical delivery sequences, I implemented a hybrid framework that predi
     </div>
     <div style="width: 30%; padding-right: 10px;">
       <p><strong>Figure 4:</strong> Illustration of the Predicted Stop Route Via TSP </p>
-      <img src="images/Screenshot 2025-05-24 123800.png" alt="Predicted Stop Route Via TSP" style="width: 100%; height: auto;"/>
+      <img src="images/Screenshot 2025-05-24 123800.png" alt="Illustration of the Predicted Stop Route Via TSP" style="width: 100%; height: auto;"/>
     </div>
   </div>
 </div>
