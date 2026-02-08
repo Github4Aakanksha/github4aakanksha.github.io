@@ -10,7 +10,6 @@
     overflow: hidden;
 ">
   <summary style="
-        list-style: auto; 
         cursor: pointer; 
         padding: 10px 15px; 
         font-size: 1.1em; 
