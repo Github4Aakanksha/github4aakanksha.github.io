@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-    <h1 style="color: #2774ae ; margin-right: 10px;">DATA SCIENCE PROJECTS</h1>
+    <h1 style="color: #222 ; margin-right: 10px;">DATA SCIENCE PROJECTS</h1>
 </div>
 
 <details style="
@@ -634,7 +634,7 @@ In this project, I conducted time series analysis using Vector Auto-regression (
         padding: 10px 15px; 
         font-size: 1.1em; 
         font-weight: bold; 
-        color: #222;
+        color: #fff;
         background-color: #2774ae; 
     ">
     A Reproduction Study of the Amazon Last Mile Routing Challenge:
