@@ -645,7 +645,7 @@ A Traveling Salesman Problem Approach
     <em><strong>Research Focus:</strong> Improving the efficiency of last-mile delivery routes using real-world logistics data</em>
     <br><br>
     <p>
-      This paper aims to reproduce and analyze the methodology employed by MIT researchers (Chen Wu, Yin Song, Verdi March and Eden Duthie), one of the top-performing team in the challenge. The analysis focuses on three key datasets - actual delivery sequences, route scoring outputs, and package-related metadata - and outlines the preprocessing and analytical framework applied. This paper reproduces the challenge by: (1) Modeling zone transitions using a probabilistic Prediction by Partial Matching (PPM) model, (2)Evaluating sequence prediction accuracy using both exact-match and set-based metrics, and (3) Generating executable routes by integrating zone-level predictions with Traveling Salesman Problem (TSP) optimization.
+      This paper aims to reproduce and analyze the methodology employed by one of the top-performing MIT research teams in the Amazon case challenge. The analysis focuses on three key datasets - actual delivery sequences, route scoring outputs, and package-related metadata. This paper reproduces the challenge by: (1) Modeling zone transitions using a probabilistic Prediction by Partial Matching (PPM) model, (2)Evaluating sequence prediction accuracy using both exact-match and set-based metrics, and (3) Generating executable routes by integrating zone-level predictions with Traveling Salesman Problem (TSP) optimization.
     </p>
     <a href="https://github.com/Github4Aakanksha/Amazon-Last-Mile-Route-Optimization/blob/main/Research_Capstone.pdf"
        style="
