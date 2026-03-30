@@ -51,23 +51,27 @@
       }
 
       .wrapper {
-   display: flex;
-   flex-wrap: nowrap;
-   min-height: 100vh;
-   margin: 0 auto;
-   max-width: 90%;
-   box-sizing: border-box;
-}
-
-.left-column {
-   flex: 0 0 30%;
-   text-align: left;
-}
-
-.right-column {
-   flex: 0 0 60%;
-   padding: 20px;
-}
+         display: flex;
+         flex-wrap: wrap;
+         min-height: 100vh;
+         margin: 0 auto;
+         max-width: 90%;
+         box-sizing: border-box;
+      }
+      .left-column {
+         width: 30% !important;
+         min-width: 280px !important;
+         padding: 20px !important;
+         box-sizing: border-box !important;
+         text-align: left;
+       }
+    .right-column {
+         flex: 1 !important;
+         min-width: 300px !important;
+         padding: 20px !important;
+         box-sizing: border-box !important;
+         overflow-x: hidden !important;
+       }
 
 @media screen and (max-width: 960px) {
    .banner {
